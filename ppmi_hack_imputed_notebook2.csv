@@ -1,0 +1,1882 @@
+PATNO,SEX,HANDED,COHORT_DEFINITION,clinic_id,ENROLL_AGE,NP3TOT,MCATOT,GMvol,SEX_missing,HANDED_missing,ENROLL_AGE_missing,NP3TOT_missing,MCATOT_missing,GMvol_missing,UPDRS_Severity,MoCA_Severity
+100001,Male,Right,Parkinson's Disease,CLIN004,67.4,30.0,23.0,,0,0,0,0,0,1,Mild,Mild
+100002,Male,Right,Parkinson's Disease,CLIN003,58.5,25.0,26.0,,0,0,0,0,0,1,Mild,Normal
+100005,Male,Right,Parkinson's Disease,CLIN004,52.8,21.0,25.0,,0,0,0,0,0,1,Mild,Mild
+100006,Female,Right,Parkinson's Disease,CLIN004,55.7,43.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+100007,Male,Right,Parkinson's Disease,CLIN004,67.2,30.0,23.0,,0,0,0,0,0,1,Mild,Mild
+100012,Female,Right,Parkinson's Disease,CLIN004,66.1,29.0,26.5,,0,0,0,0,0,1,Mild,Normal
+100017,Female,Right,Parkinson's Disease,CLIN005,58.8,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+100018,Female,Right,Parkinson's Disease,CLIN005,69.7,33.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+100122,Female,Right,Prodromal,CLIN002,28.75,7.5,21.5,,0,0,0,0,0,1,Mild,Mild
+100232,Female,Right,Prodromal,CLIN001,64.2,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+100250,Female,Left,Prodromal,CLIN004,75.3,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+100267,Male,Right,Parkinson's Disease,CLIN007,53.6,36.0,30.0,,0,0,0,0,0,1,Moderate,Normal
+100511,Female,Right,Prodromal,CLIN006,63.5,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+100738,Female,Right,Parkinson's Disease,CLIN001,71.4,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+100878,Male,Left,Parkinson's Disease,CLIN003,65.9,22.0,26.0,,0,0,0,0,0,1,Mild,Normal
+100891,Male,Right,Parkinson's Disease,CLIN001,62.3,21.0,28.5,,0,0,0,0,0,1,Mild,Normal
+100911,Male,Right,Parkinson's Disease,CLIN005,73.1,42.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+100960,Female,Unknown,Prodromal,CLIN006,66.2,1.0,28.0,,0,1,0,0,0,1,Mild,Normal
+100987,Female,Right,Prodromal,CLIN007,61.5,8.0,30.0,,0,0,0,0,0,1,Mild,Normal
+101018,Male,Left,Parkinson's Disease,CLIN001,62.3,19.0,30.0,,0,0,0,0,0,1,Mild,Normal
+101025,Female,Right,Parkinson's Disease,CLIN006,73.9,27.0,23.0,,0,0,0,0,0,1,Mild,Mild
+101026,Male,Left,Parkinson's Disease,CLIN007,46.1,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+101050,Female,Right,Parkinson's Disease,CLIN005,49.7,23.0,26.0,,0,0,0,0,0,1,Mild,Normal
+101070,Male,Right,Parkinson's Disease,CLIN007,67.0,37.0,20.0,,0,0,0,0,0,1,Moderate,Mild
+101115,Female,Right,Prodromal,CLIN005,72.1,0.0,21.0,,0,0,0,0,0,1,Mild,Mild
+101158,Female,Left,Prodromal,CLIN004,63.8,6.0,22.0,,0,0,0,0,0,1,Mild,Mild
+101174,Male,Right,Parkinson's Disease,CLIN001,55.2,15.0,27.0,,0,0,0,0,0,1,Mild,Normal
+101178,Female,Mixed,Prodromal,CLIN005,61.9,4.0,28.5,,0,0,0,0,0,1,Mild,Normal
+101179,Female,Right,Parkinson's Disease,CLIN002,44.0,38.5,24.5,,0,0,0,0,0,1,Moderate,Mild
+101221,Female,Right,Parkinson's Disease,CLIN004,51.5,24.0,26.0,,0,0,0,0,0,1,Mild,Normal
+101230,Female,Unknown,Prodromal,CLIN001,64.5,3.0,26.0,,0,1,0,0,0,1,Mild,Normal
+101295,Male,Right,Parkinson's Disease,CLIN002,65.2,22.0,20.0,,0,0,0,0,0,1,Mild,Mild
+101330,Male,Right,Parkinson's Disease,CLIN002,74.7,11.0,24.0,,0,0,0,0,0,1,Mild,Mild
+101344,Male,Right,Parkinson's Disease,CLIN003,63.1,26.0,29.5,,0,0,0,0,0,1,Mild,Normal
+101372,Female,Unknown,Prodromal,CLIN002,62.7,7.0,24.0,,0,1,0,0,0,1,Mild,Mild
+101476,Male,Right,Parkinson's Disease,CLIN003,68.8,19.0,23.5,,0,0,0,0,0,1,Mild,Mild
+101479,Male,Right,Parkinson's Disease,CLIN004,40.4,16.0,27.0,,0,0,0,0,0,1,Mild,Normal
+101482,Male,Right,Parkinson's Disease,CLIN003,58.3,20.0,29.0,,0,0,0,0,0,1,Mild,Normal
+101486,Female,Right,Parkinson's Disease,CLIN003,72.4,14.0,22.0,,0,0,0,0,0,1,Mild,Mild
+101492,Male,Unknown,Parkinson's Disease,CLIN006,44.3,23.0,30.0,,0,1,0,0,0,1,Mild,Normal
+101516,Female,Right,Parkinson's Disease,CLIN007,70.0,22.0,28.0,,0,0,0,0,0,1,Mild,Normal
+101523,Female,Right,Prodromal,CLIN004,66.9,10.0,23.0,,0,0,0,0,0,1,Mild,Mild
+101566,Male,Right,Parkinson's Disease,CLIN001,58.3,23.0,26.0,,0,0,0,0,0,1,Mild,Normal
+101680,Male,Right,Parkinson's Disease,CLIN007,59.5,14.0,25.0,,0,0,0,0,0,1,Mild,Mild
+101734,Male,Right,Prodromal,CLIN002,74.5,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+101743,Male,Right,Prodromal,CLIN001,68.0,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+101744,Male,Right,Parkinson's Disease,CLIN007,79.1,32.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+101748,Female,Right,Parkinson's Disease,CLIN001,62.7,26.5,28.5,,0,0,0,0,0,1,Mild,Normal
+101756,Female,Right,Parkinson's Disease,CLIN004,70.9,15.0,20.0,,0,0,0,0,0,1,Mild,Mild
+101761,Male,Unknown,Prodromal,CLIN006,64.7,29.0,26.0,,0,1,0,0,0,1,Mild,Normal
+101799,Male,Left,Parkinson's Disease,CLIN006,61.8,29.5,25.0,,0,0,0,0,0,1,Mild,Mild
+101910,Male,Right,Prodromal,CLIN001,61.9,8.0,25.0,,0,0,0,0,0,1,Mild,Mild
+102012,Male,Right,Parkinson's Disease,CLIN005,66.8,18.0,20.0,,0,0,0,0,0,1,Mild,Mild
+102027,Female,Right,Parkinson's Disease,CLIN006,66.0,23.0,28.0,,0,0,0,0,0,1,Mild,Normal
+102054,Male,Right,Parkinson's Disease,CLIN003,62.8,27.0,27.0,,0,0,0,0,0,1,Mild,Normal
+102068,Male,Right,Parkinson's Disease,CLIN003,75.0,17.0,29.0,,0,0,0,0,0,1,Mild,Normal
+102073,Female,Right,Prodromal,CLIN003,62.9,16.0,25.0,,0,0,0,0,0,1,Mild,Mild
+102078,Male,Right,Parkinson's Disease,CLIN006,53.6,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+102102,Male,Left,Prodromal,CLIN006,68.5,0.0,28.5,,0,0,0,0,0,1,Mild,Normal
+102119,Male,Unknown,Prodromal,CLIN005,59.5,0.0,27.0,,0,1,0,0,0,1,Mild,Normal
+102197,Male,Left,Prodromal,CLIN001,71.9,9.0,29.0,,0,0,0,0,0,1,Mild,Normal
+102245,Female,Right,Prodromal,CLIN005,65.5,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+102249,Female,Left,Prodromal,CLIN006,71.6,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+102293,Male,Right,Parkinson's Disease,CLIN003,68.2,17.0,27.0,,0,0,0,0,0,1,Mild,Normal
+102308,Male,Left,Parkinson's Disease,CLIN006,60.5,34.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+102321,Male,Right,Parkinson's Disease,CLIN003,56.6,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+102333,Female,Right,Prodromal,CLIN002,66.0,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+102364,Female,Right,Prodromal,CLIN006,67.5,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+102373,Male,Right,Prodromal,CLIN004,70.1,11.0,26.0,,0,0,0,0,0,1,Mild,Normal
+102399,Female,Unknown,Prodromal,CLIN002,71.2,8.0,23.0,,0,1,0,0,0,1,Mild,Mild
+102417,Female,Right,Parkinson's Disease,CLIN006,56.3,16.0,27.0,,0,0,0,0,0,1,Mild,Normal
+102418,Male,Right,Parkinson's Disease,CLIN003,52.2,24.0,28.0,,0,0,0,0,0,1,Mild,Normal
+102420,Female,Right,Parkinson's Disease,CLIN004,75.5,39.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+102454,Female,Left,Prodromal,CLIN001,70.5,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+102475,Female,Right,Parkinson's Disease,CLIN005,69.4,14.0,28.0,,0,0,0,0,0,1,Mild,Normal
+102479,Male,Unknown,Parkinson's Disease,CLIN007,50.3,30.0,30.0,,0,1,0,0,0,1,Mild,Normal
+102527,Male,Right,Prodromal,CLIN002,65.1,16.0,21.0,,0,0,0,0,0,1,Mild,Mild
+102978,Female,Right,Parkinson's Disease,CLIN003,54.7,17.5,29.5,,0,0,0,0,0,1,Mild,Normal
+103809,Male,Right,Parkinson's Disease,CLIN001,36.3,46.5,29.0,,0,0,0,0,0,1,Moderate,Normal
+103813,Female,Right,Parkinson's Disease,CLIN007,64.4,18.0,29.0,,0,0,0,0,0,1,Mild,Normal
+104147,Male,Right,Prodromal,CLIN007,67.0,4.5,24.0,,0,0,0,0,0,1,Mild,Mild
+105646,Female,Right,Prodromal,CLIN005,61.1,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+105711,Male,Right,Parkinson's Disease,CLIN001,62.9,26.0,26.0,,0,0,0,0,0,1,Mild,Normal
+105809,Unknown,Right,Prodromal,CLIN001,61.1,24.0,26.0,,1,0,0,0,0,1,Mild,Normal
+105854,Female,Right,Parkinson's Disease,CLIN003,57.2,39.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+106519,Female,Right,Prodromal,CLIN003,67.9,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+107003,Male,Right,Prodromal,CLIN005,68.8,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+107634,Male,Right,Prodromal,CLIN007,61.0,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+108365,Female,Right,Prodromal,CLIN003,62.3,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+108754,Female,Unknown,Prodromal,CLIN001,65.7,0.0,30.0,,0,1,0,0,0,1,Mild,Normal
+108838,Male,Right,Prodromal,CLIN004,65.2,12.0,24.0,,0,0,0,0,0,1,Mild,Mild
+109451,Male,Right,Parkinson's Disease,CLIN007,68.8,12.0,24.5,,0,0,0,0,0,1,Mild,Mild
+109910,Unknown,Right,Parkinson's Disease,CLIN006,55.3,20.0,29.0,,1,0,0,0,0,1,Mild,Normal
+110192,Female,Right,Parkinson's Disease,CLIN004,49.8,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+110220,Female,Right,Parkinson's Disease,CLIN006,67.3,40.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+110360,Male,Right,Parkinson's Disease,CLIN007,61.8,23.0,22.0,,0,0,0,0,0,1,Mild,Mild
+110535,Male,Right,Parkinson's Disease,CLIN002,59.9,22.0,28.0,,0,0,0,0,0,1,Mild,Normal
+110919,Male,Right,Parkinson's Disease,CLIN007,43.7,19.0,29.0,,0,0,0,0,0,1,Mild,Normal
+110955,Male,Right,Prodromal,CLIN002,68.6,17.0,27.0,,0,0,0,0,0,1,Mild,Normal
+111278,Female,Right,Parkinson's Disease,CLIN001,57.6,22.5,28.0,,0,0,0,0,0,1,Mild,Normal
+111383,Female,Unknown,Parkinson's Disease,CLIN007,66.7,8.5,27.0,,0,1,0,0,0,1,Mild,Normal
+111545,Male,Right,Parkinson's Disease,CLIN003,65.9,17.0,28.0,,0,0,0,0,0,1,Mild,Normal
+111673,Female,Unknown,Prodromal,CLIN005,63.9,2.0,28.0,,0,1,0,0,0,1,Mild,Normal
+112711,Male,Right,Prodromal,CLIN004,69.9,14.0,23.0,,0,0,0,0,0,1,Mild,Mild
+112712,Male,Right,Parkinson's Disease,CLIN002,72.9,40.5,22.5,,0,0,0,0,0,1,Moderate,Mild
+112721,Male,Right,Parkinson's Disease,CLIN002,62.0,41.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+112749,Unknown,Unknown,Prodromal,CLIN007,63.1,7.0,28.0,,1,1,0,0,0,1,Mild,Normal
+112752,Male,Unknown,Prodromal,CLIN005,67.1,1.0,26.0,,0,1,0,0,0,1,Mild,Normal
+112760,Male,Right,Prodromal,CLIN004,65.4,10.0,21.5,,0,0,0,0,0,1,Mild,Mild
+112907,Male,Right,Prodromal,CLIN003,74.5,3.0,19.0,,0,0,0,0,0,1,Mild,Mild
+113351,Male,Right,Prodromal,CLIN002,80.9,16.0,19.0,,0,0,0,0,0,1,Mild,Mild
+113355,Male,Right,Parkinson's Disease,CLIN007,56.5,21.0,30.0,,0,0,0,0,0,1,Mild,Normal
+113460,Unknown,Right,Parkinson's Disease,CLIN004,59.1,26.0,24.0,,1,0,0,0,0,1,Mild,Mild
+113645,Male,Right,Prodromal,CLIN004,63.3,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+114195,Male,Right,Parkinson's Disease,CLIN005,43.0,29.0,28.0,,0,0,0,0,0,1,Mild,Normal
+114198,Male,Unknown,Prodromal,CLIN006,59.6,6.0,27.5,,0,0,0,0,0,1,Mild,Normal
+114526,Male,Right,Parkinson's Disease,CLIN002,59.9,16.0,26.0,,0,0,0,0,0,1,Mild,Normal
+114551,Male,Mixed,Prodromal,CLIN004,70.0,18.0,22.0,,0,0,0,0,0,1,Mild,Mild
+114615,Male,Right,Parkinson's Disease,CLIN004,65.0,17.0,27.5,,0,0,0,0,0,1,Mild,Normal
+114972,Female,Left,Parkinson's Disease,CLIN002,61.5,30.0,25.0,,0,0,0,0,0,1,Mild,Mild
+115328,Male,Right,Prodromal,CLIN006,67.6,7.5,25.0,,0,0,0,0,0,1,Mild,Mild
+115451,Female,Unknown,Parkinson's Disease,CLIN006,75.5,29.0,28.0,,0,1,0,0,0,1,Mild,Normal
+115680,Female,Right,Parkinson's Disease,CLIN003,75.3,27.0,25.0,,0,0,0,0,0,1,Mild,Mild
+115781,Male,Mixed,Prodromal,CLIN007,72.2,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+115820,Female,Unknown,Parkinson's Disease,CLIN001,72.1,16.0,28.0,,0,1,0,0,0,1,Mild,Normal
+116008,Male,Right,Parkinson's Disease,CLIN002,63.6,27.0,24.0,,0,0,0,0,0,1,Mild,Mild
+116029,Female,Unknown,Prodromal,CLIN003,64.2,0.0,29.0,,0,1,0,0,0,1,Mild,Normal
+116216,Female,Right,Parkinson's Disease,CLIN006,52.6,38.0,22.0,,0,0,0,0,0,1,Moderate,Mild
+116508,Male,Unknown,Parkinson's Disease,CLIN002,57.5,24.0,25.0,,0,1,0,0,0,1,Mild,Mild
+116529,Male,Unknown,Parkinson's Disease,CLIN005,69.1,29.0,24.0,,0,1,0,0,0,1,Mild,Mild
+116531,Male,Right,Parkinson's Disease,CLIN001,67.2,36.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+116733,Male,Right,Parkinson's Disease,CLIN007,52.9,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+116870,Male,Right,Parkinson's Disease,CLIN006,51.1,34.0,25.5,,0,0,0,0,0,1,Moderate,Mild
+117743,Male,Right,Prodromal,CLIN006,72.5,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+117901,Female,Left,Prodromal,CLIN004,60.8,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+118352,Male,Right,Parkinson's Disease,CLIN002,75.9,20.0,25.0,,0,0,0,0,0,1,Mild,Mild
+119209,Female,Right,Prodromal,CLIN005,65.4,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+119253,Female,Right,Prodromal,CLIN002,68.5,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+119522,Male,Right,Parkinson's Disease,CLIN007,46.0,25.0,29.0,,0,0,0,0,0,1,Mild,Normal
+120095,Female,Right,Prodromal,CLIN006,65.7,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+120265,Female,Right,Prodromal,CLIN002,68.4,8.0,25.0,,0,0,0,0,0,1,Mild,Mild
+120403,Female,Right,Parkinson's Disease,CLIN005,66.7,18.0,28.0,,0,0,0,0,0,1,Mild,Normal
+120738,Female,Right,Prodromal,CLIN006,63.7,6.5,28.5,,0,0,0,0,0,1,Mild,Normal
+121109,Female,Right,Parkinson's Disease,CLIN002,56.6,38.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+121543,Female,Right,Prodromal,CLIN001,71.3,14.0,29.0,,0,0,0,0,0,1,Mild,Normal
+121554,Male,Right,Prodromal,CLIN005,66.7,7.0,29.0,,0,0,0,0,0,1,Mild,Normal
+121830,Unknown,Right,Parkinson's Disease,CLIN007,74.6,22.0,29.0,,1,0,0,0,0,1,Mild,Normal
+12224,Female,Right,Prodromal,CLIN005,66.4,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+122645,Female,Right,Parkinson's Disease,CLIN002,69.1,25.0,20.0,,0,0,0,0,0,1,Mild,Mild
+123594,Male,Right,Parkinson's Disease,CLIN005,52.5,20.0,24.0,,0,0,0,0,0,1,Mild,Mild
+124793,Female,Right,Parkinson's Disease,CLIN001,60.4,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+12593,Female,Unknown,Prodromal,CLIN006,67.1,1.0,28.0,,0,1,0,0,0,1,Mild,Normal
+125939,Female,Right,Prodromal,CLIN007,61.9,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+126102,Female,Right,Prodromal,CLIN006,68.1,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+126245,Female,Right,Prodromal,CLIN004,65.7,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+128196,Male,Right,Parkinson's Disease,CLIN002,62.1,22.0,27.0,,0,0,0,0,0,1,Mild,Normal
+128230,Female,Right,Prodromal,CLIN005,62.8,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+128325,Female,Right,Prodromal,CLIN004,71.3,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+128427,Male,Right,Prodromal,CLIN006,60.8,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+129515,Female,Right,Parkinson's Disease,CLIN004,61.6,28.0,26.0,,0,0,0,0,0,1,Mild,Normal
+129578,Male,Right,Prodromal,CLIN006,63.2,2.0,26.5,,0,0,0,0,0,1,Mild,Normal
+130013,Male,Right,Parkinson's Disease,CLIN003,64.4,11.5,25.0,,0,0,0,0,0,1,Mild,Mild
+130156,Unknown,Mixed,Parkinson's Disease,CLIN001,61.7,23.0,28.0,,1,0,0,0,0,1,Mild,Normal
+130769,Male,Right,Parkinson's Disease,CLIN005,75.4,33.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+130899,Female,Right,Prodromal,CLIN005,61.4,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+131121,Male,Right,Prodromal,CLIN003,80.2,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+132431,Female,Mixed,Prodromal,CLIN006,61.1,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+132480,Female,Right,Prodromal,CLIN002,63.3,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+133489,Female,Right,Parkinson's Disease,CLIN001,56.3,22.0,29.0,,0,0,0,0,0,1,Mild,Normal
+133507,Male,Right,Parkinson's Disease,CLIN002,66.5,22.0,26.0,,0,0,0,0,0,1,Mild,Normal
+133743,Male,Right,Parkinson's Disease,CLIN004,61.1,16.0,23.0,,0,0,0,0,0,1,Mild,Mild
+134403,Female,Right,Prodromal,CLIN007,71.4,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+134442,Female,Right,Parkinson's Disease,CLIN004,70.2,21.0,16.0,,0,0,0,0,0,1,Mild,Moderate
+134566,Female,Right,Prodromal,CLIN003,69.7,7.0,23.0,,0,0,0,0,0,1,Mild,Mild
+134601,Male,Right,Prodromal,CLIN004,77.7,15.0,27.5,,0,0,0,0,0,1,Mild,Normal
+134736,Female,Right,Prodromal,CLIN006,67.4,4.0,24.0,,0,0,0,0,0,1,Mild,Mild
+135190,Female,Right,Prodromal,CLIN001,61.0,12.0,27.0,,0,0,0,0,0,1,Mild,Normal
+136681,Male,Right,Parkinson's Disease,CLIN001,54.5,11.0,30.0,,0,0,0,0,0,1,Mild,Normal
+137264,Male,Right,Parkinson's Disease,CLIN001,70.0,31.0,22.0,,0,0,0,0,0,1,Mild,Mild
+137426,Male,Left,Parkinson's Disease,CLIN003,63.5,17.0,24.0,,0,0,0,0,0,1,Mild,Mild
+137450,Male,Right,Parkinson's Disease,CLIN003,83.9,34.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+137482,Female,Right,Parkinson's Disease,CLIN002,70.1,41.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+137805,Male,Right,Prodromal,CLIN004,65.9,9.0,18.0,,0,0,0,0,0,1,Mild,Mild
+137886,Unknown,Right,Parkinson's Disease,CLIN006,73.2,41.0,20.0,,1,0,0,0,0,1,Moderate,Mild
+138739,Female,Right,Prodromal,CLIN004,60.8,15.5,25.5,,0,0,0,0,0,1,Mild,Mild
+138762,Female,Right,Prodromal,CLIN005,77.7,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+139065,Female,Right,Prodromal,CLIN003,67.1,2.0,27.5,,0,0,0,0,0,1,Mild,Normal
+139117,Female,Right,Parkinson's Disease,CLIN003,61.3,20.0,28.0,,0,0,0,0,0,1,Mild,Normal
+139347,Male,Right,Prodromal,CLIN001,63.3,3.0,23.0,,0,0,0,0,0,1,Mild,Mild
+139471,Female,Right,Prodromal,CLIN001,70.1,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+139633,Female,Right,Prodromal,CLIN001,64.7,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+139859,Male,Right,Parkinson's Disease,CLIN007,56.9,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+139860,Female,Right,Prodromal,CLIN001,46.1,1.0,21.0,,0,0,0,0,0,1,Mild,Mild
+139979,Male,Right,Prodromal,CLIN004,69.1,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+139982,Male,Right,Parkinson's Disease,CLIN006,59.1,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+140041,Unknown,Unknown,Parkinson's Disease,CLIN005,56.1,22.0,28.0,,1,1,0,0,0,1,Mild,Normal
+140392,Female,Right,Prodromal,CLIN007,74.3,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+140452,Female,Right,Parkinson's Disease,CLIN005,62.4,19.0,28.0,,0,0,0,0,0,1,Mild,Normal
+140469,Female,Right,Prodromal,CLIN006,61.9,8.5,26.0,,0,0,0,0,0,1,Mild,Normal
+140509,Female,Right,Prodromal,CLIN006,63.0,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+140581,Male,Right,Parkinson's Disease,CLIN002,72.8,35.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+140671,Male,Right,Parkinson's Disease,CLIN004,63.8,26.0,26.0,,0,0,0,0,0,1,Mild,Normal
+140722,Male,Left,Parkinson's Disease,CLIN003,61.2,10.0,27.0,,0,0,0,0,0,1,Mild,Normal
+140736,Male,Right,Prodromal,CLIN002,60.8,18.0,25.0,,0,0,0,0,0,1,Mild,Mild
+140759,Male,Right,Prodromal,CLIN005,71.5,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+140761,Unknown,Right,Parkinson's Disease,CLIN002,56.0,28.0,27.0,,1,0,0,0,0,1,Mild,Normal
+140762,Male,Left,Parkinson's Disease,CLIN007,80.2,24.0,25.0,,0,0,0,0,0,1,Mild,Mild
+140871,Male,Right,Prodromal,CLIN002,68.4,7.0,21.0,,0,0,0,0,0,1,Mild,Mild
+141031,Unknown,Right,Parkinson's Disease,CLIN007,75.4,38.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+141135,Male,Mixed,Parkinson's Disease,CLIN001,53.2,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+141574,Male,Left,Prodromal,CLIN002,62.8,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+141597,Male,Left,Prodromal,CLIN005,75.3,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+141640,Female,Right,Prodromal,CLIN006,65.4,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+141692,Male,Left,Parkinson's Disease,CLIN002,73.3,31.0,22.0,,0,0,0,0,0,1,Mild,Mild
+141721,Male,Right,Prodromal,CLIN007,65.7,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+141981,Male,Right,Prodromal,CLIN007,77.0,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+142523,Female,Left,Parkinson's Disease,CLIN007,52.1,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+142529,Male,Right,Prodromal,CLIN005,65.2,1.0,22.0,,0,0,0,0,0,1,Mild,Mild
+142631,Male,Unknown,Parkinson's Disease,CLIN006,29.3,5.0,28.0,,0,1,0,0,0,1,Mild,Normal
+142684,Male,Right,Prodromal,CLIN004,63.7,10.0,27.0,,0,0,0,0,0,1,Mild,Normal
+14281,Female,Right,Prodromal,CLIN004,62.7,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+142848,Female,Right,Parkinson's Disease,CLIN002,69.4,22.0,27.0,,0,0,0,0,0,1,Mild,Normal
+142983,Male,Right,Parkinson's Disease,CLIN007,58.0,32.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+142993,Male,Unknown,Prodromal,CLIN001,68.4,0.0,28.0,,0,1,0,0,0,1,Mild,Normal
+143116,Male,Left,Parkinson's Disease,CLIN006,66.5,17.0,29.5,,0,0,0,0,0,1,Mild,Normal
+143192,Male,Right,Parkinson's Disease,CLIN003,64.1,40.5,28.5,,0,0,0,0,0,1,Moderate,Normal
+14331,Female,Left,Prodromal,CLIN007,62.9,3.5,27.0,,0,0,0,0,0,1,Mild,Normal
+143419,Male,Right,Parkinson's Disease,CLIN004,61.0,43.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+144120,Male,Right,Parkinson's Disease,CLIN002,62.3,26.0,21.0,,0,0,0,0,0,1,Mild,Mild
+144131,Unknown,Right,Parkinson's Disease,CLIN007,63.9,35.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+144147,Male,Right,Parkinson's Disease,CLIN007,56.5,14.0,26.0,,0,0,0,0,0,1,Mild,Normal
+14426,Male,Right,Prodromal,CLIN002,60.6,19.5,21.0,,0,0,0,0,0,1,Mild,Mild
+144377,Male,Unknown,Prodromal,CLIN007,71.8,3.0,27.0,,0,1,0,0,0,1,Mild,Normal
+145624,Female,Right,Prodromal,CLIN005,54.3,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+145836,Unknown,Unknown,Prodromal,CLIN006,75.7,3.0,24.0,,1,1,0,0,0,1,Mild,Mild
+145939,Male,Right,Parkinson's Disease,CLIN001,65.5,34.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+145940,Male,Right,Parkinson's Disease,CLIN005,44.6,22.0,29.0,,0,0,0,0,0,1,Mild,Normal
+145950,Female,Right,Prodromal,CLIN002,70.8,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+146336,Female,Right,Prodromal,CLIN005,63.2,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+146573,Male,Right,Prodromal,CLIN002,64.6,27.0,22.0,,0,0,0,0,0,1,Mild,Mild
+146693,Female,Right,Prodromal,CLIN004,62.6,14.0,23.0,,0,0,0,0,0,1,Mild,Mild
+146875,Male,Right,Parkinson's Disease,CLIN006,58.7,61.0,24.0,,0,0,0,0,0,1,Severe,Mild
+146945,Female,Right,Prodromal,CLIN007,72.7,17.5,15.0,,0,0,0,0,0,1,Mild,Moderate
+147077,Female,Right,Parkinson's Disease,CLIN003,57.4,20.0,28.0,,0,0,0,0,0,1,Mild,Normal
+147191,Male,Right,Parkinson's Disease,CLIN002,53.2,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+147294,Male,Left,Parkinson's Disease,CLIN003,64.6,33.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+147341,Male,Unknown,Parkinson's Disease,CLIN007,66.8,13.0,25.0,,0,1,0,0,0,1,Mild,Mild
+147372,Male,Right,Parkinson's Disease,CLIN005,77.1,29.0,30.0,,0,0,0,0,0,1,Mild,Normal
+147401,Female,Right,Parkinson's Disease,CLIN003,58.3,6.0,23.0,,0,0,0,0,0,1,Mild,Mild
+147494,Male,Right,Prodromal,CLIN007,77.8,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+147524,Male,Right,Prodromal,CLIN006,70.3,17.5,25.0,,0,0,0,0,0,1,Mild,Mild
+148434,Female,Right,Prodromal,CLIN001,74.3,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+148699,Female,Right,Parkinson's Disease,CLIN006,61.2,32.5,24.0,,0,0,0,0,0,1,Moderate,Mild
+148719,Male,Right,Prodromal,CLIN005,65.1,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+148945,Male,Right,Parkinson's Disease,CLIN004,54.4,21.0,20.0,,0,0,0,0,0,1,Mild,Mild
+148982,Female,Right,Parkinson's Disease,CLIN001,71.4,24.5,28.0,,0,0,0,0,0,1,Mild,Normal
+149116,Male,Left,Parkinson's Disease,CLIN004,41.9,30.0,27.0,,0,0,0,0,0,1,Mild,Normal
+149125,Female,Right,Prodromal,CLIN007,61.7,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+149271,Female,Right,Prodromal,CLIN001,66.9,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+149389,Male,Right,Prodromal,CLIN002,65.1,9.0,26.0,,0,0,0,0,0,1,Mild,Normal
+149564,Male,Right,Prodromal,CLIN007,62.9,10.0,30.0,,0,0,0,0,0,1,Mild,Normal
+149873,Female,Right,Prodromal,CLIN004,70.4,10.0,25.5,,0,0,0,0,0,1,Mild,Mild
+149945,Female,Right,Parkinson's Disease,CLIN006,72.9,21.0,26.0,,0,0,0,0,0,1,Mild,Normal
+150110,Female,Right,Parkinson's Disease,CLIN001,43.6,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+150414,Male,Right,Parkinson's Disease,CLIN006,77.7,36.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+150818,Male,Right,Prodromal,CLIN002,79.3,14.5,25.0,,0,0,0,0,0,1,Mild,Mild
+151028,Female,Right,Prodromal,CLIN006,64.2,5.0,24.0,,0,0,0,0,0,1,Mild,Mild
+151111,Female,Right,Parkinson's Disease,CLIN001,37.7,23.5,26.0,,0,0,0,0,0,1,Mild,Normal
+151354,Female,Right,Prodromal,CLIN001,67.4,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+151365,Female,Right,Prodromal,CLIN005,65.6,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+151665,Female,Right,Prodromal,CLIN007,69.7,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+151669,Male,Right,Parkinson's Disease,CLIN001,64.2,15.0,27.0,,0,0,0,0,0,1,Mild,Normal
+152369,Female,Right,Parkinson's Disease,CLIN004,70.5,14.0,22.0,,0,0,0,0,0,1,Mild,Mild
+152616,Male,Right,Parkinson's Disease,CLIN005,80.9,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+153027,Male,Right,Parkinson's Disease,CLIN003,50.7,18.0,23.0,,0,0,0,0,0,1,Mild,Mild
+153045,Male,Right,Prodromal,CLIN004,64.8,11.0,24.0,,0,0,0,0,0,1,Mild,Mild
+153089,Unknown,Right,Parkinson's Disease,CLIN006,54.5,13.0,30.0,,1,0,0,0,0,1,Mild,Normal
+153118,Female,Right,Parkinson's Disease,CLIN007,67.7,21.0,26.0,,0,0,0,0,0,1,Mild,Normal
+153175,Male,Right,Prodromal,CLIN007,60.1,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+153191,Female,Right,Parkinson's Disease,CLIN006,62.1,29.0,30.0,,0,0,0,0,0,1,Mild,Normal
+153213,Male,Right,Prodromal,CLIN006,61.1,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+153283,Male,Left,Prodromal,CLIN002,74.7,6.0,19.0,,0,0,0,0,0,1,Mild,Mild
+153383,Female,Mixed,Prodromal,CLIN001,61.6,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+153895,Female,Right,Prodromal,CLIN007,63.8,19.5,26.0,,0,0,0,0,0,1,Mild,Normal
+153995,Female,Right,Prodromal,CLIN004,62.8,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+154582,Female,Right,Prodromal,CLIN004,64.0,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+155498,Female,Left,Prodromal,CLIN007,68.9,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+155641,Male,Right,Prodromal,CLIN006,60.0,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+155922,Female,Right,Prodromal,CLIN003,64.6,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+156194,Male,Right,Prodromal,CLIN006,61.4,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+156304,Male,Right,Parkinson's Disease,CLIN002,77.6,33.0,21.0,,0,0,0,0,0,1,Moderate,Mild
+156490,Female,Mixed,Parkinson's Disease,CLIN003,70.2,26.0,27.0,,0,0,0,0,0,1,Mild,Normal
+156665,Female,Right,Parkinson's Disease,CLIN001,62.5,36.0,30.0,,0,0,0,0,0,1,Moderate,Normal
+156676,Male,Right,Parkinson's Disease,CLIN002,61.2,26.0,25.0,,0,0,0,0,0,1,Mild,Mild
+156802,Male,Right,Parkinson's Disease,CLIN001,57.9,13.0,28.0,,0,0,0,0,0,1,Mild,Normal
+157041,Male,Right,Parkinson's Disease,CLIN003,53.5,11.0,30.0,,0,0,0,0,0,1,Mild,Normal
+157127,Male,Right,Prodromal,CLIN006,60.7,12.0,30.0,,0,0,0,0,0,1,Mild,Normal
+157278,Female,Unknown,Prodromal,CLIN007,61.1,2.0,25.0,,0,1,0,0,0,1,Mild,Mild
+157424,Male,Right,Prodromal,CLIN001,74.7,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+15761,Female,Right,Prodromal,CLIN005,69.6,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+157658,Female,Right,Prodromal,CLIN002,64.4,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+157771,Male,Right,Prodromal,CLIN003,86.2,19.0,25.5,,0,0,0,0,0,1,Mild,Mild
+157974,Female,Right,Prodromal,CLIN002,68.5,6.0,22.0,,0,0,0,0,0,1,Mild,Mild
+158359,Male,Right,Parkinson's Disease,CLIN006,45.5,10.0,27.0,,0,0,0,0,0,1,Mild,Normal
+158601,Female,Right,Prodromal,CLIN003,69.7,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+158714,Male,Right,Prodromal,CLIN005,71.8,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+158935,Female,Unknown,Prodromal,CLIN005,61.2,0.0,30.0,,0,1,0,0,0,1,Mild,Normal
+159437,Male,Left,Prodromal,CLIN001,73.0,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+159466,Male,Right,Prodromal,CLIN006,60.6,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+159742,Male,Right,Prodromal,CLIN003,60.6,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+160040,Male,Right,Parkinson's Disease,CLIN003,60.5,25.0,29.0,,0,0,0,0,0,1,Mild,Normal
+160044,Male,Right,Prodromal,CLIN003,75.0,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+160057,Female,Right,Parkinson's Disease,CLIN004,65.3,39.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+160163,Female,Right,Prodromal,CLIN005,73.4,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+160231,Female,Right,Parkinson's Disease,CLIN001,69.3,23.0,22.0,,0,0,0,0,0,1,Mild,Mild
+160501,Female,Right,Prodromal,CLIN001,68.9,9.0,29.0,,0,0,0,0,0,1,Mild,Normal
+160525,Male,Right,Prodromal,CLIN002,63.1,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+161236,Male,Right,Parkinson's Disease,CLIN002,55.6,18.0,22.0,,0,0,0,0,0,1,Mild,Mild
+161581,Female,Right,Prodromal,CLIN007,61.4,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+161628,Male,Right,Parkinson's Disease,CLIN001,69.3,37.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+161673,Male,Right,Parkinson's Disease,CLIN005,52.0,15.5,30.0,,0,0,0,0,0,1,Mild,Normal
+161728,Male,Left,Prodromal,CLIN003,72.4,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+162383,Unknown,Right,Prodromal,CLIN002,62.4,7.0,28.0,,1,0,0,0,0,1,Mild,Normal
+162615,Female,Right,Prodromal,CLIN006,60.7,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+162670,Male,Unknown,Parkinson's Disease,CLIN003,66.0,24.0,22.0,,0,1,0,0,0,1,Mild,Mild
+162793,Male,Right,Parkinson's Disease,CLIN005,60.2,21.0,27.0,,0,0,0,0,0,1,Mild,Normal
+162941,Male,Unknown,Parkinson's Disease,CLIN006,62.3,31.0,26.0,,0,1,0,0,0,1,Mild,Normal
+162994,Female,Right,Parkinson's Disease,CLIN004,50.7,42.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+162996,Male,Right,Prodromal,CLIN005,67.9,4.0,27.5,,0,0,0,0,0,1,Mild,Normal
+162997,Male,Unknown,Prodromal,CLIN004,59.7,6.0,24.0,,0,1,0,0,0,1,Mild,Mild
+163004,Female,Right,Prodromal,CLIN005,64.7,5.0,30.0,,0,0,0,0,0,1,Mild,Normal
+163098,Male,Right,Prodromal,CLIN005,80.0,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+163265,Female,Right,Parkinson's Disease,CLIN002,68.1,41.0,27.5,,0,0,0,0,0,1,Moderate,Normal
+163396,Female,Right,Prodromal,CLIN006,70.1,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+163420,Female,Right,Parkinson's Disease,CLIN005,81.0,41.0,22.0,,0,0,0,0,0,1,Moderate,Mild
+163478,Male,Right,Parkinson's Disease,CLIN003,65.0,23.0,29.0,,0,0,0,0,0,1,Mild,Normal
+163791,Female,Unknown,Parkinson's Disease,CLIN005,71.0,10.0,24.0,,0,1,0,0,0,1,Mild,Mild
+164301,Female,Right,Prodromal,CLIN001,61.6,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+164422,Female,Right,Prodromal,CLIN006,84.7,11.5,25.0,,0,0,0,0,0,1,Mild,Mild
+164589,Male,Right,Parkinson's Disease,CLIN004,62.0,54.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+164734,Male,Right,Prodromal,CLIN003,61.3,2.5,21.0,,0,0,0,0,0,1,Mild,Mild
+164842,Male,Right,Prodromal,CLIN005,62.4,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+165031,Male,Right,Parkinson's Disease,CLIN001,48.2,35.0,30.0,,0,0,0,0,0,1,Moderate,Normal
+165355,Female,Right,Prodromal,CLIN002,75.0,9.0,21.0,,0,0,0,0,0,1,Mild,Mild
+165676,Unknown,Right,Parkinson's Disease,CLIN006,54.3,10.0,28.0,,1,0,0,0,0,1,Mild,Normal
+165755,Male,Mixed,Prodromal,CLIN007,78.5,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+165797,Female,Right,Prodromal,CLIN003,64.7,5.5,27.5,,0,0,0,0,0,1,Mild,Normal
+165814,Male,Right,Prodromal,CLIN005,66.1,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+165932,Male,Left,Parkinson's Disease,CLIN002,62.8,26.0,21.0,,0,0,0,0,0,1,Mild,Mild
+166500,Male,Right,Prodromal,CLIN007,66.5,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+166518,Unknown,Right,Prodromal,CLIN002,68.6,11.0,25.0,,1,0,0,0,0,1,Mild,Mild
+166680,Male,Right,Prodromal,CLIN002,74.0,8.5,26.0,,0,0,0,0,0,1,Mild,Normal
+166816,Male,Right,Prodromal,CLIN006,74.7,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+166961,Male,Right,Prodromal,CLIN007,68.1,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+167222,Male,Right,Parkinson's Disease,CLIN002,56.1,26.0,23.0,,0,0,0,0,0,1,Mild,Mild
+167377,Female,Right,Prodromal,CLIN004,67.6,16.0,26.5,,0,0,0,0,0,1,Mild,Normal
+167379,Unknown,Right,Prodromal,CLIN002,65.5,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+167657,Male,Right,Parkinson's Disease,CLIN005,54.2,6.0,30.0,,0,0,0,0,0,1,Mild,Normal
+167757,Female,Unknown,Prodromal,CLIN004,66.1,15.0,26.0,,0,1,0,0,0,1,Mild,Normal
+168195,Male,Right,Parkinson's Disease,CLIN006,52.0,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+168255,Male,Mixed,Prodromal,CLIN003,57.5,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+168299,Male,Right,Parkinson's Disease,CLIN001,63.8,16.0,24.5,,0,0,0,0,0,1,Mild,Mild
+168306,Male,Right,Parkinson's Disease,CLIN001,69.4,22.0,28.0,,0,0,0,0,0,1,Mild,Normal
+168336,Unknown,Right,Prodromal,CLIN001,66.7,3.0,27.0,,1,0,0,0,0,1,Mild,Normal
+168668,Female,Right,Prodromal,CLIN007,64.2,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+169183,Female,Right,Prodromal,CLIN005,65.8,0.5,29.0,,0,0,0,0,0,1,Mild,Normal
+169297,Unknown,Right,Prodromal,CLIN006,63.8,6.0,27.0,,1,0,0,0,0,1,Mild,Normal
+169320,Male,Right,Prodromal,CLIN003,62.5,5.5,24.0,,0,0,0,0,0,1,Mild,Mild
+170179,Male,Right,Parkinson's Disease,CLIN002,70.3,25.0,24.0,,0,0,0,0,0,1,Mild,Mild
+170193,Male,Right,Prodromal,CLIN004,70.2,12.0,25.0,,0,0,0,0,0,1,Mild,Mild
+170343,Male,Right,Parkinson's Disease,CLIN005,77.6,42.5,21.0,,0,0,0,0,0,1,Moderate,Mild
+170440,Female,Left,Prodromal,CLIN005,72.9,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+170448,Female,Right,Prodromal,CLIN006,60.4,4.0,30.0,,0,0,0,0,0,1,Mild,Normal
+170519,Female,Unknown,Parkinson's Disease,CLIN004,41.9,20.0,26.0,,0,1,0,0,0,1,Mild,Normal
+170727,Female,Right,Parkinson's Disease,CLIN001,53.1,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+170955,Male,Unknown,Prodromal,CLIN006,67.7,0.0,15.0,,0,1,0,0,0,1,Mild,Moderate
+171083,Female,Unknown,Parkinson's Disease,CLIN006,71.7,52.0,23.0,,0,1,0,0,0,1,Moderate,Mild
+171190,Female,Right,Prodromal,CLIN001,63.5,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+171469,Female,Left,Prodromal,CLIN006,69.2,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+172017,Male,Unknown,Prodromal,CLIN006,74.9,2.0,26.0,,0,1,0,0,0,1,Mild,Normal
+172203,Female,Right,Prodromal,CLIN005,62.8,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+172369,Male,Right,Parkinson's Disease,CLIN003,47.2,40.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+172370,Female,Right,Parkinson's Disease,CLIN004,71.5,20.0,28.0,,0,0,0,0,0,1,Mild,Normal
+172413,Male,Left,Parkinson's Disease,CLIN005,56.6,15.0,27.0,,0,0,0,0,0,1,Mild,Normal
+172854,Female,Left,Parkinson's Disease,CLIN005,68.4,36.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+172863,Female,Right,Prodromal,CLIN003,51.8,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+172905,Male,Right,Prodromal,CLIN001,78.1,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+173006,Female,Right,Parkinson's Disease,CLIN007,67.3,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+173266,Male,Left,Parkinson's Disease,CLIN007,52.9,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+173327,Female,Right,Parkinson's Disease,CLIN003,62.7,18.0,25.0,,0,0,0,0,0,1,Mild,Mild
+173447,Male,Right,Prodromal,CLIN007,66.0,16.0,28.0,,0,0,0,0,0,1,Mild,Normal
+173619,Unknown,Right,Prodromal,CLIN002,61.7,27.0,26.0,,1,0,0,0,0,1,Mild,Normal
+173622,Male,Right,Prodromal,CLIN006,66.3,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+173814,Female,Right,Parkinson's Disease,CLIN002,76.1,24.0,25.0,,0,0,0,0,0,1,Mild,Mild
+173825,Female,Right,Prodromal,CLIN005,66.4,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+174131,Male,Right,Parkinson's Disease,CLIN003,62.8,22.0,28.0,,0,0,0,0,0,1,Mild,Normal
+174151,Female,Right,Parkinson's Disease,CLIN007,79.8,17.0,24.5,,0,0,0,0,0,1,Mild,Mild
+174257,Male,Right,Prodromal,CLIN007,62.1,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+174305,Male,Right,Prodromal,CLIN007,65.0,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+174364,Male,Right,Parkinson's Disease,CLIN005,70.1,40.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+174433,Male,Right,Prodromal,CLIN003,69.5,7.0,29.0,,0,0,0,0,0,1,Mild,Normal
+174519,Male,Right,Prodromal,CLIN002,60.4,7.5,23.5,,0,0,0,0,0,1,Mild,Mild
+174615,Female,Right,Parkinson's Disease,CLIN007,61.9,34.5,22.0,,0,0,0,0,0,1,Moderate,Mild
+174821,Male,Right,Prodromal,CLIN003,69.5,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+174853,Female,Right,Prodromal,CLIN003,68.6,0.5,25.5,,0,0,0,0,0,1,Mild,Mild
+174980,Male,Right,Prodromal,CLIN004,63.1,15.0,21.0,,0,0,0,0,0,1,Mild,Mild
+175342,Male,Right,Prodromal,CLIN005,71.1,3.5,24.0,,0,0,0,0,0,1,Mild,Mild
+175385,Male,Right,Prodromal,CLIN007,64.2,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+175411,Female,Right,Parkinson's Disease,CLIN005,50.1,12.0,27.5,,0,0,0,0,0,1,Mild,Normal
+175431,Male,Right,Prodromal,CLIN003,70.7,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+175650,Female,Right,Prodromal,CLIN006,62.2,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+175776,Male,Right,Prodromal,CLIN001,65.0,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+175792,Female,Right,Prodromal,CLIN005,68.2,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+175837,Male,Right,Parkinson's Disease,CLIN003,52.4,34.0,25.5,,0,0,0,0,0,1,Moderate,Mild
+175904,Female,Left,Prodromal,CLIN003,68.2,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+175925,Female,Right,Parkinson's Disease,CLIN001,49.5,30.0,28.0,,0,0,0,0,0,1,Mild,Normal
+175947,Male,Right,Prodromal,CLIN002,68.7,9.0,23.0,,0,0,0,0,0,1,Mild,Mild
+175991,Male,Right,Prodromal,CLIN004,71.8,9.0,21.0,,0,0,0,0,0,1,Mild,Mild
+17608,Male,Right,Prodromal,CLIN007,60.8,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+176203,Female,Right,Prodromal,CLIN007,68.2,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+176486,Female,Right,Prodromal,CLIN003,69.9,12.0,27.0,,0,0,0,0,0,1,Mild,Normal
+176650,Male,Right,Prodromal,CLIN004,79.0,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+176854,Female,Right,Prodromal,CLIN007,60.5,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+176891,Female,Right,Prodromal,CLIN004,75.1,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+177114,Male,Unknown,Prodromal,CLIN004,82.3,24.0,26.0,,0,1,0,0,0,1,Mild,Normal
+177158,Female,Right,Prodromal,CLIN006,73.3,5.0,24.0,,0,0,0,0,0,1,Mild,Mild
+177395,Female,Right,Parkinson's Disease,CLIN001,69.6,33.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+177923,Male,Left,Prodromal,CLIN006,68.7,7.0,29.0,,0,0,0,0,0,1,Mild,Normal
+177924,Male,Right,Parkinson's Disease,CLIN002,63.4,32.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+177986,Male,Right,Prodromal,CLIN003,73.0,19.0,28.0,,0,0,0,0,0,1,Mild,Normal
+177987,Male,Right,Parkinson's Disease,CLIN005,70.5,27.0,25.0,,0,0,0,0,0,1,Mild,Mild
+178012,Male,Right,Prodromal,CLIN004,54.9,10.5,28.0,,0,0,0,0,0,1,Mild,Normal
+178224,Female,Right,Prodromal,CLIN004,63.6,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+178267,Female,Unknown,Prodromal,CLIN002,75.2,9.0,25.0,,0,1,0,0,0,1,Mild,Mild
+178317,Female,Right,Prodromal,CLIN003,65.8,5.0,29.0,,0,0,0,0,0,1,Mild,Normal
+178363,Male,Mixed,Prodromal,CLIN004,62.5,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+178635,Male,Right,Prodromal,CLIN007,65.4,0.0,26.5,,0,0,0,0,0,1,Mild,Normal
+178727,Female,Right,Parkinson's Disease,CLIN001,76.0,12.5,27.0,,0,0,0,0,0,1,Mild,Normal
+178991,Female,Left,Prodromal,CLIN006,61.0,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+179112,Female,Right,Prodromal,CLIN007,67.2,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+179514,Male,Right,Prodromal,CLIN004,65.0,9.5,24.0,,0,0,0,0,0,1,Mild,Mild
+179526,Male,Right,Parkinson's Disease,CLIN004,60.0,34.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+179527,Unknown,Mixed,Parkinson's Disease,CLIN004,66.1,50.0,25.0,,1,0,0,0,0,1,Moderate,Mild
+179691,Male,Right,Parkinson's Disease,CLIN004,47.3,26.0,27.0,,0,0,0,0,0,1,Mild,Normal
+179719,Female,Right,Prodromal,CLIN007,61.6,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+179752,Female,Right,Parkinson's Disease,CLIN006,46.9,26.0,24.0,,0,0,0,0,0,1,Mild,Mild
+179770,Female,Right,Prodromal,CLIN006,62.3,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+179797,Male,Right,Prodromal,CLIN003,65.7,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+179894,Male,Right,Parkinson's Disease,CLIN001,55.1,22.0,25.0,,0,0,0,0,0,1,Mild,Mild
+18026,Male,Right,Prodromal,CLIN006,66.3,9.0,26.0,,0,0,0,0,0,1,Mild,Normal
+181208,Female,Right,Parkinson's Disease,CLIN001,62.2,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+181270,Female,Right,Prodromal,CLIN001,61.0,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+181273,Male,Right,Prodromal,CLIN004,81.1,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+181644,Female,Right,Prodromal,CLIN003,65.3,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+181671,Male,Left,Parkinson's Disease,CLIN006,53.6,27.0,28.0,,0,0,0,0,0,1,Mild,Normal
+181684,Male,Right,Parkinson's Disease,CLIN003,54.7,25.0,27.0,,0,0,0,0,0,1,Mild,Normal
+181697,Male,Right,Prodromal,CLIN001,58.2,0.0,22.0,,0,0,0,0,0,1,Mild,Mild
+181704,Female,Right,Parkinson's Disease,CLIN001,48.8,15.0,24.0,,0,0,0,0,0,1,Mild,Mild
+181750,Male,Right,Prodromal,CLIN004,75.0,7.0,17.0,,0,0,0,0,0,1,Mild,Moderate
+181825,Female,Right,Parkinson's Disease,CLIN006,56.2,13.0,30.0,,0,0,0,0,0,1,Mild,Normal
+181949,Male,Left,Prodromal,CLIN007,72.2,6.0,23.0,,0,0,0,0,0,1,Mild,Mild
+181975,Male,Right,Prodromal,CLIN006,67.0,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+182179,Male,Right,Prodromal,CLIN004,69.6,9.0,22.5,,0,0,0,0,0,1,Mild,Mild
+182199,Male,Right,Parkinson's Disease,CLIN004,58.7,42.0,21.0,,0,0,0,0,0,1,Moderate,Mild
+182340,Male,Right,Parkinson's Disease,CLIN001,59.6,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+182341,Male,Right,Parkinson's Disease,CLIN002,57.9,14.0,18.0,,0,0,0,0,0,1,Mild,Mild
+182423,Male,Mixed,Prodromal,CLIN002,68.7,8.0,23.0,,0,0,0,0,0,1,Mild,Mild
+182427,Unknown,Right,Parkinson's Disease,CLIN004,69.0,32.0,28.0,,1,0,0,0,0,1,Moderate,Normal
+182722,Male,Right,Prodromal,CLIN001,75.0,7.0,27.5,,0,0,0,0,0,1,Mild,Normal
+182732,Female,Right,Prodromal,CLIN005,68.4,12.0,25.0,,0,0,0,0,0,1,Mild,Mild
+182745,Unknown,Right,Parkinson's Disease,CLIN002,63.3,14.0,25.0,,1,0,0,0,0,1,Mild,Mild
+182921,Male,Right,Prodromal,CLIN007,65.1,1.5,22.0,,0,0,0,0,0,1,Mild,Mild
+182922,Male,Left,Prodromal,CLIN002,76.4,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+182927,Male,Right,Parkinson's Disease,CLIN006,61.0,14.0,28.0,,0,0,0,0,0,1,Mild,Normal
+182984,Female,Right,Parkinson's Disease,CLIN002,62.5,33.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+183051,Male,Right,Prodromal,CLIN002,67.2,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+183263,Female,Right,Prodromal,CLIN002,63.6,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+183623,Female,Right,Prodromal,CLIN007,60.1,2.5,29.5,,0,0,0,0,0,1,Mild,Normal
+183703,Female,Right,Prodromal,CLIN002,67.4,8.0,19.0,,0,0,0,0,0,1,Mild,Mild
+183771,Male,Right,Prodromal,CLIN007,72.4,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+183918,Male,Right,Prodromal,CLIN003,59.2,0.5,27.5,,0,0,0,0,0,1,Mild,Normal
+184158,Male,Right,Prodromal,CLIN005,69.7,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+184190,Male,Right,Parkinson's Disease,CLIN003,53.3,26.0,28.0,,0,0,0,0,0,1,Mild,Normal
+184194,Male,Right,Prodromal,CLIN003,66.2,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+184354,Female,Right,Prodromal,CLIN001,66.4,2.0,22.0,,0,0,0,0,0,1,Mild,Mild
+184372,Male,Right,Prodromal,CLIN006,67.2,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+184432,Female,Right,Parkinson's Disease,CLIN001,60.2,13.0,28.0,,0,0,0,0,0,1,Mild,Normal
+184456,Male,Right,Prodromal,CLIN007,64.9,8.0,29.0,,0,0,0,0,0,1,Mild,Normal
+184504,Male,Right,Prodromal,CLIN002,75.7,9.0,23.5,,0,0,0,0,0,1,Mild,Mild
+184507,Male,Right,Parkinson's Disease,CLIN004,65.3,35.0,26.5,,0,0,0,0,0,1,Moderate,Normal
+184897,Male,Right,Prodromal,CLIN002,66.7,10.0,23.0,,0,0,0,0,0,1,Mild,Mild
+18491,Female,Right,Prodromal,CLIN005,66.4,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+185015,Female,Right,Prodromal,CLIN004,71.0,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+18502,Male,Left,Prodromal,CLIN006,61.8,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+185254,Male,Right,Prodromal,CLIN006,62.1,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+185617,Unknown,Right,Prodromal,CLIN007,63.8,2.0,27.0,,1,0,0,0,0,1,Mild,Normal
+18567,Male,Right,Prodromal,CLIN001,60.8,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+185957,Male,Right,Prodromal,CLIN003,69.2,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+185966,Female,Right,Prodromal,CLIN004,71.0,14.0,23.5,,0,0,0,0,0,1,Mild,Mild
+186102,Female,Right,Prodromal,CLIN004,76.1,14.0,27.0,,0,0,0,0,0,1,Mild,Normal
+186194,Female,Right,Prodromal,CLIN002,72.3,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+186250,Female,Right,Prodromal,CLIN006,62.3,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+186378,Female,Right,Prodromal,CLIN007,62.7,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+186755,Male,Unknown,Parkinson's Disease,CLIN001,66.5,44.0,26.0,,0,1,0,0,0,1,Moderate,Normal
+186784,Female,Right,Prodromal,CLIN004,66.8,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+187573,Female,Right,Prodromal,CLIN002,65.2,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+187653,Female,Right,Prodromal,CLIN006,65.3,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+187762,Male,Mixed,Prodromal,CLIN003,74.9,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+187763,Male,Right,Prodromal,CLIN002,72.7,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+187800,Female,Right,Parkinson's Disease,CLIN006,51.8,19.5,30.0,,0,0,0,0,0,1,Mild,Normal
+188049,Male,Right,Prodromal,CLIN004,69.5,20.0,21.0,,0,0,0,0,0,1,Mild,Mild
+188064,Male,Left,Prodromal,CLIN007,63.9,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+188069,Female,Right,Parkinson's Disease,CLIN004,51.2,17.0,28.0,,0,0,0,0,0,1,Mild,Normal
+188666,Female,Right,Parkinson's Disease,CLIN005,62.3,5.0,29.0,,0,0,0,0,0,1,Mild,Normal
+189144,Female,Right,Prodromal,CLIN003,61.7,10.0,27.0,,0,0,0,0,0,1,Mild,Normal
+189227,Female,Right,Prodromal,CLIN006,66.6,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+189644,Male,Right,Prodromal,CLIN005,64.4,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+189796,Unknown,Right,Prodromal,CLIN005,64.2,1.0,29.0,,1,0,0,0,0,1,Mild,Normal
+189826,Female,Right,Prodromal,CLIN007,72.2,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+190005,Female,Right,Parkinson's Disease,CLIN007,69.5,23.0,29.0,,0,0,0,0,0,1,Mild,Normal
+190009,Male,Right,Prodromal,CLIN003,65.9,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+190466,Female,Right,Prodromal,CLIN002,63.7,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+190603,Male,Right,Parkinson's Disease,CLIN003,64.5,27.0,24.0,,0,0,0,0,0,1,Mild,Mild
+191088,Male,Right,Prodromal,CLIN001,61.2,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+191167,Male,Right,Prodromal,CLIN003,68.7,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+192052,Female,Right,Prodromal,CLIN003,63.3,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+193356,Male,Right,Prodromal,CLIN003,63.2,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+194338,Female,Right,Prodromal,CLIN003,63.9,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+194481,Unknown,Right,Prodromal,CLIN005,68.5,3.0,30.0,,1,0,0,0,0,1,Mild,Normal
+194755,Male,Right,Prodromal,CLIN006,73.9,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+194803,Male,Right,Parkinson's Disease,CLIN007,50.4,24.0,27.0,,0,0,0,0,0,1,Mild,Normal
+195088,Female,Right,Prodromal,CLIN004,61.4,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+195159,Male,Right,Parkinson's Disease,CLIN001,65.5,36.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+195272,Unknown,Right,Prodromal,CLIN006,62.7,10.0,25.0,,1,0,0,0,0,1,Mild,Mild
+195536,Male,Right,Prodromal,CLIN002,60.1,17.0,25.0,,0,0,0,0,0,1,Mild,Mild
+195681,Female,Left,Prodromal,CLIN004,61.1,17.0,22.0,,0,0,0,0,0,1,Mild,Mild
+195806,Unknown,Unknown,Prodromal,CLIN004,67.4,23.0,25.0,,1,1,0,0,0,1,Mild,Mild
+196141,Male,Right,Prodromal,CLIN004,70.1,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+196266,Female,Right,Prodromal,CLIN006,66.0,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+197088,Female,Right,Prodromal,CLIN002,62.9,10.0,23.0,,0,0,0,0,0,1,Mild,Mild
+198360,Female,Right,Prodromal,CLIN002,70.8,6.0,23.0,,0,0,0,0,0,1,Mild,Mild
+198532,Male,Right,Prodromal,CLIN004,79.0,30.0,21.0,,0,0,0,0,0,1,Mild,Mild
+198864,Male,Right,Prodromal,CLIN002,70.8,10.0,24.0,,0,0,0,0,0,1,Mild,Mild
+199156,Unknown,Right,Prodromal,CLIN006,64.4,1.0,29.0,,1,0,0,0,0,1,Mild,Normal
+199479,Male,Right,Prodromal,CLIN002,64.0,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+199802,Female,Right,Prodromal,CLIN003,81.3,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+200092,Male,Right,Prodromal,CLIN002,61.7,14.5,23.5,,0,0,0,0,0,1,Mild,Mild
+200164,Female,Right,Prodromal,CLIN006,65.8,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+200475,Female,Right,Prodromal,CLIN005,62.5,5.0,30.0,,0,0,0,0,0,1,Mild,Normal
+200637,Female,Left,Prodromal,CLIN005,63.4,5.5,29.0,,0,0,0,0,0,1,Mild,Normal
+201432,Male,Right,Prodromal,CLIN007,75.1,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+201529,Female,Right,Prodromal,CLIN002,66.2,18.0,28.0,,0,0,0,0,0,1,Mild,Normal
+201630,Female,Right,Parkinson's Disease,CLIN006,84.5,42.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+201806,Female,Right,Prodromal,CLIN007,62.8,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+201815,Male,Right,Prodromal,CLIN002,60.3,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+201871,Male,Right,Prodromal,CLIN006,68.2,10.0,23.0,,0,0,0,0,0,1,Mild,Mild
+202243,Female,Right,Prodromal,CLIN002,62.9,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+202288,Female,Right,Prodromal,CLIN007,68.9,15.0,28.0,,0,0,0,0,0,1,Mild,Normal
+202671,Male,Left,Parkinson's Disease,CLIN005,62.1,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+202837,Female,Right,Prodromal,CLIN006,72.4,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+203204,Male,Right,Prodromal,CLIN005,67.5,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+203465,Female,Right,Prodromal,CLIN006,62.7,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+203717,Female,Right,Parkinson's Disease,CLIN004,61.4,47.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+204012,Male,Right,Parkinson's Disease,CLIN006,73.0,30.0,23.0,,0,0,0,0,0,1,Mild,Mild
+204435,Male,Right,Prodromal,CLIN001,67.0,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+204559,Male,Right,Prodromal,CLIN004,56.1,9.0,23.0,,0,0,0,0,0,1,Mild,Mild
+204629,Female,Right,Prodromal,CLIN007,63.8,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+205570,Male,Right,Prodromal,CLIN004,75.1,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+205924,Male,Left,Prodromal,CLIN002,69.0,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+206176,Female,Right,Prodromal,CLIN003,61.3,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+206260,Male,Right,Prodromal,CLIN007,64.7,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+206698,Female,Right,Prodromal,CLIN004,61.2,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+206992,Male,Right,Prodromal,CLIN005,74.0,12.0,23.0,,0,0,0,0,0,1,Mild,Mild
+207271,Female,Right,Prodromal,CLIN007,60.7,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+207396,Male,Right,Parkinson's Disease,CLIN007,57.1,13.0,29.0,,0,0,0,0,0,1,Mild,Normal
+208996,Male,Right,Parkinson's Disease,CLIN002,62.1,16.5,28.0,,0,0,0,0,0,1,Mild,Normal
+209141,Male,Right,Parkinson's Disease,CLIN005,62.0,27.0,29.0,,0,0,0,0,0,1,Mild,Normal
+209219,Male,Unknown,Parkinson's Disease,CLIN002,76.4,26.0,21.0,,0,1,0,0,0,1,Mild,Mild
+209267,Male,Right,Parkinson's Disease,CLIN006,64.1,33.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+209289,Male,Right,Prodromal,CLIN001,65.4,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+209874,Unknown,Right,Prodromal,CLIN004,68.6,10.0,28.0,,1,0,0,0,0,1,Mild,Normal
+210085,Female,Right,Parkinson's Disease,CLIN001,66.1,14.0,27.0,,0,0,0,0,0,1,Mild,Normal
+210247,Male,Right,Prodromal,CLIN006,52.9,6.0,24.5,,0,0,0,0,0,1,Mild,Mild
+210382,Male,Left,Prodromal,CLIN004,67.6,6.0,19.0,,0,0,0,0,0,1,Mild,Mild
+211045,Female,Right,Parkinson's Disease,CLIN001,63.5,57.0,22.5,,0,0,0,0,0,1,Moderate,Mild
+211227,Male,Right,Prodromal,CLIN003,76.2,15.0,18.0,,0,0,0,0,0,1,Mild,Mild
+211315,Unknown,Right,Parkinson's Disease,CLIN005,62.1,15.0,29.0,,1,0,0,0,0,1,Mild,Normal
+211482,Male,Right,Parkinson's Disease,CLIN005,69.3,27.0,28.5,,0,0,0,0,0,1,Mild,Normal
+211536,Male,Left,Parkinson's Disease,CLIN001,75.7,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+211886,Female,Right,Parkinson's Disease,CLIN004,65.2,29.0,27.0,,0,0,0,0,0,1,Mild,Normal
+212042,Male,Right,Parkinson's Disease,CLIN004,66.5,31.0,25.0,,0,0,0,0,0,1,Mild,Mild
+212275,Female,Unknown,Parkinson's Disease,CLIN006,66.6,20.0,23.0,,0,1,0,0,0,1,Mild,Mild
+212326,Female,Right,Prodromal,CLIN007,75.1,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+212783,Male,Unknown,Prodromal,CLIN002,68.7,9.0,26.0,,0,1,0,0,0,1,Mild,Normal
+212832,Male,Right,Prodromal,CLIN007,69.4,13.0,28.0,,0,0,0,0,0,1,Mild,Normal
+212839,Male,Right,Parkinson's Disease,CLIN003,70.9,32.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+212891,Male,Right,Prodromal,CLIN006,67.3,19.0,29.0,,0,0,0,0,0,1,Mild,Normal
+212954,Male,Right,Parkinson's Disease,CLIN005,44.2,22.0,29.5,,0,0,0,0,0,1,Mild,Normal
+213005,Female,Right,Parkinson's Disease,CLIN003,53.3,7.0,29.0,,0,0,0,0,0,1,Mild,Normal
+213006,Female,Right,Parkinson's Disease,CLIN005,68.7,30.0,30.0,,0,0,0,0,0,1,Mild,Normal
+213013,Male,Right,Prodromal,CLIN001,61.0,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+213190,Male,Right,Prodromal,CLIN006,74.8,12.0,25.0,,0,0,0,0,0,1,Mild,Mild
+213675,Male,Right,Parkinson's Disease,CLIN004,47.3,29.0,25.0,,0,0,0,0,0,1,Mild,Mild
+213719,Male,Left,Prodromal,CLIN002,69.6,18.0,21.0,,0,0,0,0,0,1,Mild,Mild
+213778,Female,Right,Prodromal,CLIN005,65.6,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+213954,Female,Right,Prodromal,CLIN002,56.0,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+214234,Male,Left,Prodromal,CLIN006,60.8,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+214241,Male,Right,Parkinson's Disease,CLIN002,75.0,19.0,20.0,,0,0,0,0,0,1,Mild,Mild
+214284,Male,Left,Prodromal,CLIN001,74.7,6.0,20.0,,0,0,0,0,0,1,Mild,Mild
+214684,Male,Right,Prodromal,CLIN007,78.0,17.5,23.0,,0,0,0,0,0,1,Mild,Mild
+214815,Female,Right,Prodromal,CLIN007,65.9,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+214876,Unknown,Right,Prodromal,CLIN003,65.4,0.0,27.0,,1,0,0,0,0,1,Mild,Normal
+215173,Male,Right,Prodromal,CLIN007,66.2,11.0,27.5,,0,0,0,0,0,1,Mild,Normal
+215808,Male,Unknown,Prodromal,CLIN004,73.0,13.0,23.0,,0,1,0,0,0,1,Mild,Mild
+216033,Male,Right,Prodromal,CLIN002,68.6,27.0,24.0,,0,0,0,0,0,1,Mild,Mild
+216216,Male,Right,Prodromal,CLIN005,64.4,8.0,29.0,,0,0,0,0,0,1,Mild,Normal
+216317,Female,Right,Parkinson's Disease,CLIN007,54.9,25.5,26.0,,0,0,0,0,0,1,Mild,Normal
+216398,Female,Right,Prodromal,CLIN006,60.5,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+216592,Male,Right,Parkinson's Disease,CLIN006,63.2,19.0,26.0,,0,0,0,0,0,1,Mild,Normal
+216616,Male,Right,Prodromal,CLIN007,68.8,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+216646,Male,Right,Prodromal,CLIN002,62.2,16.0,21.0,,0,0,0,0,0,1,Mild,Mild
+216875,Male,Right,Parkinson's Disease,CLIN007,50.5,14.0,27.5,,0,0,0,0,0,1,Mild,Normal
+216970,Male,Right,Parkinson's Disease,CLIN002,67.6,44.0,22.0,,0,0,0,0,0,1,Moderate,Mild
+216997,Female,Right,Prodromal,CLIN003,67.8,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+217038,Female,Right,Prodromal,CLIN002,82.0,16.0,25.0,,0,0,0,0,0,1,Mild,Mild
+217633,Female,Right,Parkinson's Disease,CLIN002,58.2,13.0,26.0,,0,0,0,0,0,1,Mild,Normal
+217828,Male,Right,Parkinson's Disease,CLIN004,63.6,31.0,23.5,,0,0,0,0,0,1,Mild,Mild
+217838,Female,Right,Parkinson's Disease,CLIN003,69.0,12.0,26.0,,0,0,0,0,0,1,Mild,Normal
+217895,Male,Right,Prodromal,CLIN001,65.0,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+218338,Male,Left,Parkinson's Disease,CLIN004,57.6,20.0,25.0,,0,0,0,0,0,1,Mild,Mild
+218340,Female,Right,Parkinson's Disease,CLIN001,65.5,16.0,28.0,,0,0,0,0,0,1,Mild,Normal
+218494,Male,Right,Parkinson's Disease,CLIN001,68.9,16.5,24.0,,0,0,0,0,0,1,Mild,Mild
+218577,Female,Right,Parkinson's Disease,CLIN003,52.0,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+219095,Female,Right,Prodromal,CLIN005,66.1,14.0,24.0,,0,0,0,0,0,1,Mild,Mild
+219121,Female,Right,Prodromal,CLIN001,73.7,1.0,22.0,,0,0,0,0,0,1,Mild,Mild
+219409,Female,Right,Parkinson's Disease,CLIN006,51.1,34.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+219411,Male,Left,Parkinson's Disease,CLIN004,63.4,17.0,23.0,,0,0,0,0,0,1,Mild,Mild
+219430,Female,Right,Prodromal,CLIN002,53.8,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+219593,Male,Right,Parkinson's Disease,CLIN006,65.7,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+219605,Male,Right,Parkinson's Disease,CLIN007,74.6,31.0,30.0,,0,0,0,0,0,1,Mild,Normal
+219621,Male,Right,Prodromal,CLIN001,71.0,4.0,23.0,,0,0,0,0,0,1,Mild,Mild
+219964,Female,Right,Prodromal,CLIN005,75.2,16.0,25.0,,0,0,0,0,0,1,Mild,Mild
+220079,Female,Right,Prodromal,CLIN005,67.2,12.0,20.0,,0,0,0,0,0,1,Mild,Mild
+220096,Male,Right,Prodromal,CLIN005,64.3,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+220237,Male,Right,Prodromal,CLIN001,63.5,10.5,23.0,,0,0,0,0,0,1,Mild,Mild
+220405,Male,Right,Prodromal,CLIN005,64.5,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+220436,Female,Right,Prodromal,CLIN006,64.3,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+220452,Female,Left,Prodromal,CLIN006,66.7,2.0,24.0,,0,0,0,0,0,1,Mild,Mild
+220494,Male,Right,Prodromal,CLIN006,80.0,5.5,23.0,,0,0,0,0,0,1,Mild,Mild
+220595,Male,Right,Prodromal,CLIN002,62.5,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+221473,Male,Right,Prodromal,CLIN006,63.8,30.0,26.0,,0,0,0,0,0,1,Mild,Normal
+221499,Male,Mixed,Prodromal,CLIN007,58.7,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+221540,Male,Right,Prodromal,CLIN005,74.9,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+221547,Female,Right,Prodromal,CLIN007,67.7,0.0,28.5,,0,0,0,0,0,1,Mild,Normal
+221809,Male,Unknown,Parkinson's Disease,CLIN007,65.9,18.0,22.0,,0,1,0,0,0,1,Mild,Mild
+222289,Male,Right,Prodromal,CLIN005,81.5,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+222290,Female,Unknown,Prodromal,CLIN001,78.3,5.0,28.0,,0,1,0,0,0,1,Mild,Normal
+222893,Male,Right,Prodromal,CLIN006,57.3,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+222906,Female,Right,Prodromal,CLIN002,65.7,13.0,23.0,,0,0,0,0,0,1,Mild,Mild
+223563,Male,Right,Prodromal,CLIN006,75.4,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+223564,Male,Right,Prodromal,CLIN002,67.6,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+223612,Male,Right,Parkinson's Disease,CLIN002,60.7,40.5,22.5,,0,0,0,0,0,1,Moderate,Mild
+223720,Female,Right,Prodromal,CLIN006,62.4,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+223922,Female,Left,Prodromal,CLIN001,69.2,2.0,24.0,,0,0,0,0,0,1,Mild,Mild
+224251,Male,Unknown,Prodromal,CLIN005,67.0,1.0,25.0,,0,1,0,0,0,1,Mild,Mild
+224282,Female,Right,Prodromal,CLIN002,71.0,8.0,22.0,,0,0,0,0,0,1,Mild,Mild
+224286,Male,Mixed,Parkinson's Disease,CLIN002,65.4,20.0,23.0,,0,0,0,0,0,1,Mild,Mild
+224394,Male,Right,Prodromal,CLIN006,71.7,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+224458,Female,Left,Prodromal,CLIN004,61.5,11.0,24.5,,0,0,0,0,0,1,Mild,Mild
+224574,Female,Right,Parkinson's Disease,CLIN005,73.4,29.0,27.0,,0,0,0,0,0,1,Mild,Normal
+224747,Male,Right,Prodromal,CLIN002,70.7,16.0,26.0,,0,0,0,0,0,1,Mild,Normal
+224756,Female,Right,Prodromal,CLIN001,62.9,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+224936,Female,Right,Prodromal,CLIN004,72.3,11.0,26.0,,0,0,0,0,0,1,Mild,Normal
+225045,Female,Right,Prodromal,CLIN005,63.9,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+225423,Male,Right,Prodromal,CLIN002,64.0,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+225590,Male,Right,Prodromal,CLIN007,62.5,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+225947,Male,Right,Prodromal,CLIN004,63.1,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+226038,Female,Right,Prodromal,CLIN007,67.7,24.0,26.0,,0,0,0,0,0,1,Mild,Normal
+226188,Female,Right,Prodromal,CLIN006,76.6,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+226378,Unknown,Right,Prodromal,CLIN004,57.7,10.0,27.0,,1,0,0,0,0,1,Mild,Normal
+226651,Female,Right,Prodromal,CLIN007,64.2,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+226669,Male,Right,Parkinson's Disease,CLIN007,81.6,19.0,26.0,,0,0,0,0,0,1,Mild,Normal
+226702,Male,Right,Prodromal,CLIN005,53.4,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+226704,Male,Right,Prodromal,CLIN004,61.6,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+226889,Male,Right,Prodromal,CLIN001,71.0,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+226988,Male,Right,Prodromal,CLIN004,64.5,24.0,21.0,,0,0,0,0,0,1,Mild,Mild
+227379,Female,Right,Prodromal,CLIN003,69.2,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+227426,Female,Right,Prodromal,CLIN003,64.8,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+228487,Female,Right,Prodromal,CLIN005,68.7,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+228551,Male,Right,Parkinson's Disease,CLIN006,69.6,39.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+228580,Male,Right,Parkinson's Disease,CLIN002,62.8,15.0,18.0,,0,0,0,0,0,1,Mild,Mild
+229020,Male,Right,Prodromal,CLIN005,78.8,36.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+229141,Female,Right,Parkinson's Disease,CLIN004,56.8,36.0,23.5,,0,0,0,0,0,1,Moderate,Mild
+229382,Female,Right,Prodromal,CLIN004,68.2,13.0,28.0,,0,0,0,0,0,1,Mild,Normal
+229410,Female,Right,Prodromal,CLIN003,61.0,6.0,29.0,,0,0,0,0,0,1,Mild,Normal
+229448,Male,Right,Prodromal,CLIN005,72.3,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+229659,Male,Right,Prodromal,CLIN002,63.0,11.0,25.0,,0,0,0,0,0,1,Mild,Mild
+230111,Female,Right,Prodromal,CLIN002,63.1,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+230152,Female,Right,Prodromal,CLIN002,65.5,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+230283,Male,Right,Parkinson's Disease,CLIN001,61.3,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+230292,Male,Right,Prodromal,CLIN005,69.6,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+230298,Female,Right,Prodromal,CLIN004,64.4,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+230391,Male,Unknown,Parkinson's Disease,CLIN002,62.8,10.0,26.0,,0,1,0,0,0,1,Mild,Normal
+230523,Male,Right,Prodromal,CLIN006,77.2,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+230584,Male,Right,Prodromal,CLIN003,64.0,20.5,28.0,,0,0,0,0,0,1,Mild,Normal
+230608,Male,Right,Prodromal,CLIN007,61.6,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+230613,Female,Left,Prodromal,CLIN004,65.6,39.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+230677,Male,Right,Prodromal,CLIN002,64.2,8.5,27.0,,0,0,0,0,0,1,Mild,Normal
+231032,Female,Right,Prodromal,CLIN005,61.7,2.5,29.0,,0,0,0,0,0,1,Mild,Normal
+231048,Female,Right,Parkinson's Disease,CLIN007,71.1,27.0,30.0,,0,0,0,0,0,1,Mild,Normal
+231368,Male,Left,Prodromal,CLIN001,80.9,4.0,24.0,,0,0,0,0,0,1,Mild,Mild
+231731,Female,Right,Prodromal,CLIN002,72.9,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+231786,Female,Right,Prodromal,CLIN002,69.9,14.0,25.0,,0,0,0,0,0,1,Mild,Mild
+232003,Male,Right,Prodromal,CLIN006,73.5,2.0,24.0,,0,0,0,0,0,1,Mild,Mild
+232275,Male,Right,Prodromal,CLIN007,67.5,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+232339,Male,Unknown,Prodromal,CLIN004,74.0,7.0,25.0,,0,1,0,0,0,1,Mild,Mild
+232655,Male,Right,Prodromal,CLIN002,69.4,24.0,24.0,,0,0,0,0,0,1,Mild,Mild
+232943,Female,Right,Prodromal,CLIN003,67.2,15.5,26.0,,0,0,0,0,0,1,Mild,Normal
+233019,Female,Unknown,Prodromal,CLIN005,69.3,6.5,26.5,,0,1,0,0,0,1,Mild,Normal
+233039,Female,Right,Parkinson's Disease,CLIN007,64.2,15.0,28.0,,0,0,0,0,0,1,Mild,Normal
+233241,Female,Right,Prodromal,CLIN006,60.7,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+233471,Female,Right,Prodromal,CLIN001,64.5,11.0,30.0,,0,0,0,0,0,1,Mild,Normal
+233654,Female,Right,Prodromal,CLIN001,64.4,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+233802,Unknown,Right,Prodromal,CLIN007,63.9,3.0,25.0,,1,0,0,0,0,1,Mild,Mild
+233926,Male,Unknown,Prodromal,CLIN001,67.4,3.0,24.0,,0,1,0,0,0,1,Mild,Mild
+234157,Unknown,Mixed,Prodromal,CLIN002,67.4,8.0,27.0,,1,0,0,0,0,1,Mild,Normal
+234360,Male,Right,Prodromal,CLIN001,77.1,21.5,25.0,,0,0,0,0,0,1,Mild,Mild
+234530,Female,Right,Prodromal,CLIN002,73.8,19.5,19.0,,0,0,0,0,0,1,Mild,Mild
+234586,Male,Right,Prodromal,CLIN005,66.8,2.0,20.0,,0,0,0,0,0,1,Mild,Mild
+234588,Female,Right,Prodromal,CLIN004,61.7,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+234733,Female,Right,Prodromal,CLIN002,76.3,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+234882,Male,Unknown,Parkinson's Disease,CLIN003,76.4,38.0,29.0,,0,1,0,0,0,1,Moderate,Normal
+234923,Female,Right,Prodromal,CLIN004,55.6,15.0,27.0,,0,0,0,0,0,1,Mild,Normal
+235039,Female,Right,Prodromal,CLIN003,65.7,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+235266,Female,Left,Prodromal,CLIN004,72.8,9.0,23.0,,0,0,0,0,0,1,Mild,Mild
+235339,Female,Unknown,Prodromal,CLIN002,64.6,8.0,25.0,,0,1,0,0,0,1,Mild,Mild
+235452,Male,Right,Prodromal,CLIN007,72.0,10.0,29.0,,0,0,0,0,0,1,Mild,Normal
+235540,Female,Right,Prodromal,CLIN002,64.9,7.0,22.0,,0,0,0,0,0,1,Mild,Mild
+235783,Female,Right,Prodromal,CLIN004,68.0,9.0,22.5,,0,0,0,0,0,1,Mild,Mild
+236030,Female,Left,Prodromal,CLIN005,60.4,12.0,21.0,,0,0,0,0,0,1,Mild,Mild
+236182,Male,Left,Prodromal,CLIN005,56.3,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+236207,Unknown,Right,Prodromal,CLIN007,62.1,4.0,20.0,,1,0,0,0,0,1,Mild,Mild
+236365,Male,Right,Prodromal,CLIN003,62.4,5.0,29.0,,0,0,0,0,0,1,Mild,Normal
+236398,Male,Right,Prodromal,CLIN004,70.9,19.5,26.0,,0,0,0,0,0,1,Mild,Normal
+236608,Female,Right,Prodromal,CLIN001,64.2,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+236719,Female,Right,Prodromal,CLIN006,73.0,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+236926,Male,Left,Parkinson's Disease,CLIN001,70.9,45.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+237063,Male,Right,Parkinson's Disease,CLIN003,65.2,19.0,26.0,,0,0,0,0,0,1,Mild,Normal
+237113,Female,Right,Prodromal,CLIN007,65.9,0.0,25.5,,0,0,0,0,0,1,Mild,Mild
+237358,Male,Right,Prodromal,CLIN005,64.9,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+237479,Male,Right,Prodromal,CLIN003,66.1,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+237482,Male,Right,Parkinson's Disease,CLIN002,55.4,26.0,24.0,,0,0,0,0,0,1,Mild,Mild
+237721,Female,Right,Prodromal,CLIN005,61.8,4.0,30.0,,0,0,0,0,0,1,Mild,Normal
+237766,Female,Right,Prodromal,CLIN001,69.3,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+237780,Male,Mixed,Prodromal,CLIN001,71.4,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+237839,Male,Right,Prodromal,CLIN003,67.4,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+238086,Unknown,Right,Prodromal,CLIN006,69.4,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+238173,Male,Mixed,Prodromal,CLIN003,61.2,0.0,23.0,,0,0,0,0,0,1,Mild,Mild
+238181,Male,Right,Parkinson's Disease,CLIN004,62.8,24.0,23.0,,0,0,0,0,0,1,Mild,Mild
+238389,Female,Right,Prodromal,CLIN006,63.8,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+238392,Male,Right,Prodromal,CLIN002,63.0,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+238556,Female,Right,Prodromal,CLIN006,65.3,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+238622,Female,Right,Prodromal,CLIN004,65.2,7.0,11.5,,0,0,0,0,0,1,Mild,Moderate
+238692,Unknown,Right,Prodromal,CLIN001,61.0,7.0,29.0,,1,0,0,0,0,1,Mild,Normal
+238693,Male,Right,Prodromal,CLIN004,70.7,12.0,23.0,,0,0,0,0,0,1,Mild,Mild
+238694,Female,Right,Prodromal,CLIN003,61.0,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+238701,Male,Right,Parkinson's Disease,CLIN001,53.6,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+238720,Female,Right,Parkinson's Disease,CLIN001,73.4,33.5,26.0,,0,0,0,0,0,1,Moderate,Normal
+238871,Male,Right,Parkinson's Disease,CLIN006,35.0,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+238934,Female,Right,Prodromal,CLIN004,72.2,15.0,22.0,,0,0,0,0,0,1,Mild,Mild
+239053,Male,Right,Parkinson's Disease,CLIN005,72.5,14.0,27.0,,0,0,0,0,0,1,Mild,Normal
+239437,Female,Right,Prodromal,CLIN004,62.5,6.0,22.0,,0,0,0,0,0,1,Mild,Mild
+239605,Female,Right,Prodromal,CLIN005,61.9,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+239731,Male,Unknown,Prodromal,CLIN003,63.4,1.0,25.0,,0,1,0,0,0,1,Mild,Mild
+239732,Male,Right,Parkinson's Disease,CLIN006,44.8,15.0,27.5,,0,0,0,0,0,1,Mild,Normal
+239791,Male,Right,Parkinson's Disease,CLIN004,42.7,21.0,28.0,,0,0,0,0,0,1,Mild,Normal
+239822,Female,Right,Parkinson's Disease,CLIN002,69.2,17.5,22.0,,0,0,0,0,0,1,Mild,Mild
+239833,Female,Right,Prodromal,CLIN003,72.1,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+239866,Male,Left,Prodromal,CLIN006,69.1,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+239884,Female,Right,Prodromal,CLIN006,63.4,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+239890,Female,Right,Prodromal,CLIN002,73.8,14.0,22.0,,0,0,0,0,0,1,Mild,Mild
+239901,Male,Unknown,Prodromal,CLIN004,61.7,10.5,24.0,,0,0,0,0,0,1,Mild,Mild
+239903,Male,Right,Prodromal,CLIN002,62.4,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+239947,Male,Right,Parkinson's Disease,CLIN006,48.9,19.5,26.0,,0,0,0,0,0,1,Mild,Normal
+240150,Male,Right,Prodromal,CLIN001,65.6,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+240279,Male,Unknown,Prodromal,CLIN002,72.8,18.0,21.0,,0,1,0,0,0,1,Mild,Mild
+240358,Male,Right,Parkinson's Disease,CLIN004,70.2,32.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+240384,Male,Left,Parkinson's Disease,CLIN006,66.7,23.0,27.0,,0,0,0,0,0,1,Mild,Normal
+240385,Female,Right,Parkinson's Disease,CLIN004,73.1,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+240389,Male,Right,Parkinson's Disease,CLIN002,61.2,20.0,27.5,,0,0,0,0,0,1,Mild,Normal
+240509,Male,Right,Parkinson's Disease,CLIN005,67.8,39.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+240553,Male,Right,Parkinson's Disease,CLIN007,70.0,12.0,27.0,,0,0,0,0,0,1,Mild,Normal
+240973,Female,Right,Prodromal,CLIN001,62.9,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+240977,Female,Right,Prodromal,CLIN004,67.6,10.0,27.0,,0,0,0,0,0,1,Mild,Normal
+241044,Male,Right,Parkinson's Disease,CLIN004,68.7,32.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+241068,Female,Right,Prodromal,CLIN003,64.8,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+241189,Female,Right,Parkinson's Disease,CLIN004,75.1,25.5,24.0,,0,0,0,0,0,1,Mild,Mild
+241216,Female,Right,Parkinson's Disease,CLIN003,68.0,34.0,28.5,,0,0,0,0,0,1,Moderate,Normal
+241304,Male,Right,Prodromal,CLIN006,72.7,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+242073,Male,Right,Prodromal,CLIN004,64.5,11.0,25.0,,0,0,0,0,0,1,Mild,Mild
+242808,Female,Left,Parkinson's Disease,CLIN001,62.6,34.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+242826,Female,Right,Parkinson's Disease,CLIN005,72.3,23.0,28.0,,0,0,0,0,0,1,Mild,Normal
+242830,Male,Right,Parkinson's Disease,CLIN004,50.7,26.0,27.0,,0,0,0,0,0,1,Mild,Normal
+242895,Male,Left,Parkinson's Disease,CLIN006,59.7,13.5,28.5,,0,0,0,0,0,1,Mild,Normal
+242932,Male,Right,Parkinson's Disease,CLIN002,55.8,24.0,25.5,,0,0,0,0,0,1,Mild,Mild
+243035,Female,Right,Prodromal,CLIN006,69.8,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+243271,Female,Right,Parkinson's Disease,CLIN004,38.7,39.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+243277,Female,Right,Prodromal,CLIN002,62.6,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+243552,Unknown,Mixed,Prodromal,CLIN004,62.1,20.0,24.0,,1,0,0,0,0,1,Mild,Mild
+243589,Female,Left,Parkinson's Disease,CLIN001,55.9,28.0,23.0,,0,0,0,0,0,1,Mild,Mild
+243602,Female,Right,Parkinson's Disease,CLIN007,75.8,38.5,27.0,,0,0,0,0,0,1,Moderate,Normal
+243612,Female,Right,Parkinson's Disease,CLIN002,76.1,39.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+243617,Female,Unknown,Parkinson's Disease,CLIN005,69.0,19.0,27.0,,0,1,0,0,0,1,Mild,Normal
+243618,Male,Right,Parkinson's Disease,CLIN002,72.9,47.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+243638,Female,Right,Prodromal,CLIN001,66.9,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+243772,Female,Right,Parkinson's Disease,CLIN005,56.6,17.0,25.0,,0,0,0,0,0,1,Mild,Mild
+243838,Male,Left,Prodromal,CLIN003,58.6,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+243941,Male,Right,Prodromal,CLIN001,76.8,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+243946,Male,Right,Prodromal,CLIN003,61.6,9.0,26.0,,0,0,0,0,0,1,Mild,Normal
+243963,Female,Right,Parkinson's Disease,CLIN003,54.9,14.0,28.0,,0,0,0,0,0,1,Mild,Normal
+244043,Female,Mixed,Parkinson's Disease,CLIN007,42.7,24.0,28.0,,0,0,0,0,0,1,Mild,Normal
+244088,Male,Right,Parkinson's Disease,CLIN002,40.8,21.0,25.0,,0,0,0,0,0,1,Mild,Mild
+244090,Female,Right,Prodromal,CLIN007,73.2,27.0,30.0,,0,0,0,0,0,1,Mild,Normal
+244288,Female,Right,Prodromal,CLIN006,68.8,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+244480,Male,Right,Parkinson's Disease,CLIN003,55.7,16.0,30.0,,0,0,0,0,0,1,Mild,Normal
+244636,Male,Right,Parkinson's Disease,CLIN007,45.1,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+244748,Male,Right,Prodromal,CLIN006,75.8,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+245300,Male,Left,Parkinson's Disease,CLIN004,80.9,30.0,25.0,,0,0,0,0,0,1,Mild,Mild
+245308,Female,Right,Prodromal,CLIN002,66.4,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+245341,Male,Right,Parkinson's Disease,CLIN007,55.7,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+245373,Female,Right,Prodromal,CLIN002,62.9,6.0,22.5,,0,0,0,0,0,1,Mild,Mild
+245435,Male,Right,Parkinson's Disease,CLIN006,76.0,28.0,20.0,,0,0,0,0,0,1,Mild,Mild
+245436,Male,Right,Prodromal,CLIN002,64.8,5.0,24.0,,0,0,0,0,0,1,Mild,Mild
+245474,Female,Right,Prodromal,CLIN005,61.1,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+245550,Unknown,Right,Parkinson's Disease,CLIN003,55.8,20.0,28.0,,1,0,0,0,0,1,Mild,Normal
+245591,Male,Right,Parkinson's Disease,CLIN006,72.5,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+245693,Male,Mixed,Parkinson's Disease,CLIN006,45.2,21.0,25.0,,0,0,0,0,0,1,Mild,Mild
+246453,Male,Right,Prodromal,CLIN006,69.5,3.0,26.5,,0,0,0,0,0,1,Mild,Normal
+246621,Female,Right,Prodromal,CLIN003,65.5,4.0,30.0,,0,0,0,0,0,1,Mild,Normal
+247035,Female,Right,Prodromal,CLIN006,64.0,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+247211,Male,Right,Prodromal,CLIN001,69.2,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+247345,Female,Right,Prodromal,CLIN005,60.7,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+247379,Male,Left,Prodromal,CLIN003,74.4,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+247398,Male,Mixed,Prodromal,CLIN002,75.4,11.0,21.0,,0,0,0,0,0,1,Mild,Mild
+248460,Unknown,Right,Parkinson's Disease,CLIN002,60.9,25.0,22.0,,1,0,0,0,0,1,Mild,Mild
+248864,Female,Right,Prodromal,CLIN004,69.3,18.5,22.0,,0,0,0,0,0,1,Mild,Mild
+249378,Male,Right,Prodromal,CLIN002,61.6,7.5,24.0,,0,0,0,0,0,1,Mild,Mild
+249459,Male,Right,Parkinson's Disease,CLIN001,43.9,17.0,30.0,,0,0,0,0,0,1,Mild,Normal
+249468,Female,Right,Parkinson's Disease,CLIN002,61.5,25.0,28.0,,0,0,0,0,0,1,Mild,Normal
+249787,Unknown,Right,Parkinson's Disease,CLIN005,76.6,22.0,26.0,,1,0,0,0,0,1,Mild,Normal
+249795,Unknown,Right,Prodromal,CLIN006,67.7,3.0,29.0,,1,0,0,0,0,1,Mild,Normal
+249891,Male,Right,Prodromal,CLIN001,60.8,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+249909,Female,Left,Prodromal,CLIN004,79.7,8.0,20.0,,0,0,0,0,0,1,Mild,Mild
+250052,Male,Right,Prodromal,CLIN001,60.9,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+250096,Female,Right,Prodromal,CLIN006,61.8,6.0,30.0,,0,0,0,0,0,1,Mild,Normal
+250275,Female,Right,Prodromal,CLIN005,78.9,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+250439,Unknown,Right,Prodromal,CLIN004,60.7,12.0,22.0,,1,0,0,0,0,1,Mild,Mild
+250804,Female,Right,Prodromal,CLIN001,68.4,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+250868,Female,Left,Prodromal,CLIN006,72.3,2.0,23.0,,0,0,0,0,0,1,Mild,Mild
+250888,Female,Right,Parkinson's Disease,CLIN001,43.8,32.0,30.0,,0,0,0,0,0,1,Moderate,Normal
+250929,Male,Unknown,Parkinson's Disease,CLIN005,75.3,24.0,24.0,,0,1,0,0,0,1,Mild,Mild
+250951,Female,Right,Prodromal,CLIN002,66.4,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+250963,Female,Right,Parkinson's Disease,CLIN005,51.0,17.0,27.0,,0,0,0,0,0,1,Mild,Normal
+251168,Unknown,Right,Parkinson's Disease,CLIN004,55.0,28.0,27.0,,1,0,0,0,0,1,Mild,Normal
+251185,Male,Right,Parkinson's Disease,CLIN001,65.0,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+251277,Male,Right,Prodromal,CLIN007,56.7,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+251288,Male,Right,Prodromal,CLIN004,72.2,12.0,20.0,,0,0,0,0,0,1,Mild,Mild
+251294,Male,Right,Prodromal,CLIN005,66.1,29.0,19.0,,0,0,0,0,0,1,Mild,Mild
+251319,Female,Right,Prodromal,CLIN004,62.7,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+251337,Male,Left,Prodromal,CLIN004,57.9,18.0,22.0,,0,0,0,0,0,1,Mild,Mild
+251901,Female,Right,Prodromal,CLIN004,74.9,13.0,23.0,,0,0,0,0,0,1,Mild,Mild
+251975,Male,Right,Prodromal,CLIN005,78.9,14.0,27.5,,0,0,0,0,0,1,Mild,Normal
+252147,Male,Right,Parkinson's Disease,CLIN002,63.5,47.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+252206,Male,Unknown,Prodromal,CLIN005,67.4,5.0,24.0,,0,1,0,0,0,1,Mild,Mild
+252339,Male,Right,Parkinson's Disease,CLIN006,55.1,21.0,23.0,,0,0,0,0,0,1,Mild,Mild
+252421,Male,Right,Prodromal,CLIN003,53.9,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+252500,Female,Right,Prodromal,CLIN006,68.8,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+252572,Male,Right,Prodromal,CLIN002,64.4,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+252699,Male,Left,Prodromal,CLIN004,61.1,10.5,23.5,,0,0,0,0,0,1,Mild,Mild
+252794,Female,Right,Prodromal,CLIN003,68.1,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+252870,Male,Right,Parkinson's Disease,CLIN003,63.8,28.0,28.0,,0,0,0,0,0,1,Mild,Normal
+253018,Unknown,Right,Prodromal,CLIN003,59.6,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+253279,Male,Right,Prodromal,CLIN001,64.4,6.0,30.0,,0,0,0,0,0,1,Mild,Normal
+253287,Male,Right,Prodromal,CLIN002,71.8,16.0,19.0,,0,0,0,0,0,1,Mild,Mild
+253783,Male,Right,Parkinson's Disease,CLIN001,72.5,17.0,24.0,,0,0,0,0,0,1,Mild,Mild
+254159,Unknown,Right,Prodromal,CLIN003,71.9,10.0,28.0,,1,0,0,0,0,1,Mild,Normal
+254215,Female,Right,Prodromal,CLIN005,65.7,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+254339,Female,Left,Prodromal,CLIN006,31.549999999999997,1.5,29.0,,0,0,0,0,0,1,Mild,Normal
+254435,Male,Right,Prodromal,CLIN006,60.8,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+254474,Female,Right,Prodromal,CLIN003,61.2,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+254632,Female,Right,Prodromal,CLIN007,64.1,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+254661,Male,Right,Prodromal,CLIN004,83.7,23.0,26.0,,0,0,0,0,0,1,Mild,Normal
+255172,Female,Right,Prodromal,CLIN004,62.4,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+255271,Male,Mixed,Prodromal,CLIN004,69.9,28.0,26.0,,0,0,0,0,0,1,Mild,Normal
+255307,Female,Right,Prodromal,CLIN007,60.9,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+255568,Female,Right,Prodromal,CLIN005,73.7,6.0,29.0,,0,0,0,0,0,1,Mild,Normal
+255581,Female,Right,Prodromal,CLIN007,71.7,11.0,22.0,,0,0,0,0,0,1,Mild,Mild
+255811,Female,Right,Prodromal,CLIN004,65.4,5.0,20.0,,0,0,0,0,0,1,Mild,Mild
+256657,Male,Right,Parkinson's Disease,CLIN005,56.8,26.0,28.0,,0,0,0,0,0,1,Mild,Normal
+256728,Unknown,Right,Prodromal,CLIN004,68.2,8.0,27.0,,1,0,0,0,0,1,Mild,Normal
+256800,Male,Mixed,Prodromal,CLIN004,68.4,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+256987,Female,Right,Prodromal,CLIN002,63.0,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+257289,Female,Right,Prodromal,CLIN005,63.9,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+257366,Female,Right,Prodromal,CLIN004,67.4,7.0,23.0,,0,0,0,0,0,1,Mild,Mild
+257730,Female,Right,Prodromal,CLIN005,70.9,100.5,29.0,,0,0,0,0,0,1,Severe,Normal
+257899,Female,Right,Prodromal,CLIN007,61.1,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+257957,Male,Right,Prodromal,CLIN004,69.0,7.0,23.0,,0,0,0,0,0,1,Mild,Mild
+258082,Male,Right,Prodromal,CLIN006,66.2,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+258287,Female,Right,Prodromal,CLIN006,69.8,11.0,28.0,,0,0,0,0,0,1,Mild,Normal
+258557,Male,Mixed,Prodromal,CLIN007,63.1,3.0,24.5,,0,0,0,0,0,1,Mild,Mild
+258749,Male,Left,Prodromal,CLIN005,61.9,11.0,25.5,,0,0,0,0,0,1,Mild,Mild
+258953,Female,Right,Prodromal,CLIN005,65.9,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+259558,Female,Right,Parkinson's Disease,CLIN007,53.8,21.5,29.0,,0,0,0,0,0,1,Mild,Normal
+259658,Female,Right,Prodromal,CLIN002,63.1,26.0,28.0,,0,0,0,0,0,1,Mild,Normal
+260895,Female,Right,Prodromal,CLIN007,67.6,10.0,23.0,,0,0,0,0,0,1,Mild,Mild
+261823,Female,Right,Prodromal,CLIN005,78.4,9.0,30.0,,0,0,0,0,0,1,Mild,Normal
+262945,Female,Unknown,Prodromal,CLIN002,67.2,6.0,20.0,,0,1,0,0,0,1,Mild,Mild
+264095,Female,Right,Prodromal,CLIN001,65.4,3.0,23.0,,0,0,0,0,0,1,Mild,Mild
+264733,Female,Right,Prodromal,CLIN002,65.4,11.0,26.0,,0,0,0,0,0,1,Mild,Normal
+264845,Female,Right,Prodromal,CLIN002,67.9,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+265044,Female,Right,Prodromal,CLIN005,72.9,3.0,24.0,,0,0,0,0,0,1,Mild,Mild
+265055,Female,Unknown,Prodromal,CLIN002,64.6,15.0,24.0,,0,1,0,0,0,1,Mild,Mild
+265235,Female,Right,Prodromal,CLIN005,71.0,0.5,26.0,,0,0,0,0,0,1,Mild,Normal
+265341,Male,Right,Prodromal,CLIN005,66.3,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+265876,Female,Right,Prodromal,CLIN003,65.7,23.0,26.0,,0,0,0,0,0,1,Mild,Normal
+266715,Female,Right,Prodromal,CLIN004,64.2,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+266791,Male,Right,Prodromal,CLIN007,78.5,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+266897,Female,Right,Prodromal,CLIN002,82.6,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+268526,Female,Unknown,Prodromal,CLIN002,65.0,11.0,28.0,,0,1,0,0,0,1,Mild,Normal
+270250,Female,Right,Prodromal,CLIN001,66.5,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+270748,Male,Right,Prodromal,CLIN005,62.8,1.5,28.5,,0,0,0,0,0,1,Mild,Normal
+270768,Male,Right,Prodromal,CLIN006,66.1,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+270885,Male,Right,Prodromal,CLIN002,64.0,8.5,24.5,,0,0,0,0,0,1,Mild,Mild
+270935,Female,Right,Prodromal,CLIN005,64.6,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+273081,Male,Right,Prodromal,CLIN001,65.9,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+273249,Unknown,Right,Prodromal,CLIN001,62.9,4.0,26.0,,1,0,0,0,0,1,Mild,Normal
+273662,Male,Right,Prodromal,CLIN001,64.2,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+273845,Female,Right,Prodromal,CLIN002,66.9,6.0,23.0,,0,0,0,0,0,1,Mild,Mild
+274974,Male,Right,Prodromal,CLIN002,75.4,7.0,23.0,,0,0,0,0,0,1,Mild,Mild
+275537,Male,Right,Prodromal,CLIN002,74.8,15.0,21.0,,0,0,0,0,0,1,Mild,Mild
+275839,Female,Right,Prodromal,CLIN002,63.4,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+276209,Male,Right,Prodromal,CLIN005,80.4,0.0,21.0,,0,0,0,0,0,1,Mild,Mild
+277230,Female,Right,Prodromal,CLIN003,63.1,6.0,29.5,,0,0,0,0,0,1,Mild,Normal
+278950,Male,Right,Prodromal,CLIN001,72.9,27.5,24.0,,0,0,0,0,0,1,Mild,Mild
+279790,Unknown,Right,Prodromal,CLIN004,63.7,16.0,21.0,,0,0,0,0,0,1,Mild,Mild
+281811,Female,Right,Prodromal,CLIN003,60.9,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+282552,Female,Right,Prodromal,CLIN005,67.7,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+282678,Male,Left,Prodromal,CLIN007,68.5,11.5,27.0,,0,0,0,0,0,1,Mild,Normal
+282720,Female,Right,Prodromal,CLIN005,67.1,11.0,23.0,,0,0,0,0,0,1,Mild,Mild
+283217,Female,Unknown,Prodromal,CLIN005,63.8,9.0,29.0,,0,1,0,0,0,1,Mild,Normal
+283433,Female,Right,Prodromal,CLIN001,69.7,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+283628,Male,Right,Prodromal,CLIN007,73.2,6.0,30.0,,0,0,0,0,0,1,Mild,Normal
+284249,Male,Right,Prodromal,CLIN003,68.0,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+284337,Female,Right,Prodromal,CLIN001,61.6,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+292752,Female,Right,Parkinson's Disease,CLIN005,45.1,23.0,30.0,,0,0,0,0,0,1,Mild,Normal
+292758,Male,Right,Parkinson's Disease,CLIN007,68.0,37.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+292764,Male,Right,Prodromal,CLIN006,67.3,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292768,Female,Right,Parkinson's Disease,CLIN003,66.0,18.5,23.0,,0,0,0,0,0,1,Mild,Mild
+292772,Male,Right,Prodromal,CLIN004,71.5,30.0,24.0,,0,0,0,0,0,1,Mild,Mild
+292774,Male,Right,Prodromal,CLIN007,73.8,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+292775,Male,Right,Parkinson's Disease,CLIN003,62.3,35.0,23.5,,0,0,0,0,0,1,Moderate,Mild
+292801,Female,Right,Prodromal,CLIN004,61.9,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+292825,Male,Right,Parkinson's Disease,CLIN003,58.7,19.0,24.0,,0,0,0,0,0,1,Mild,Mild
+292826,Female,Left,Parkinson's Disease,CLIN002,62.1,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+292832,Male,Right,Prodromal,CLIN005,66.5,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+292837,Male,Right,Prodromal,CLIN002,70.3,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+292838,Female,Right,Parkinson's Disease,CLIN006,75.1,40.5,26.0,,0,0,0,0,0,1,Moderate,Normal
+292840,Male,Right,Parkinson's Disease,CLIN007,67.7,23.0,27.0,,0,0,0,0,0,1,Mild,Normal
+292845,Unknown,Right,Prodromal,CLIN001,62.1,1.0,28.0,,1,0,0,0,0,1,Mild,Normal
+292851,Male,Right,Parkinson's Disease,CLIN001,65.1,21.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292852,Male,Right,Prodromal,CLIN001,75.4,11.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292853,Male,Right,Parkinson's Disease,CLIN002,70.9,33.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+292857,Male,Unknown,Prodromal,CLIN007,68.8,3.0,28.0,,0,1,0,0,0,1,Mild,Normal
+292859,Male,Right,Prodromal,CLIN003,70.0,11.0,20.0,,0,0,0,0,0,1,Mild,Mild
+292868,Male,Right,Parkinson's Disease,CLIN004,35.5,33.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+292873,Male,Right,Parkinson's Disease,CLIN006,41.2,16.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292880,Female,Left,Parkinson's Disease,CLIN001,51.7,24.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292882,Female,Right,Parkinson's Disease,CLIN001,63.6,27.0,27.0,,0,0,0,0,0,1,Mild,Normal
+292884,Female,Right,Prodromal,CLIN001,60.6,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+292885,Female,Right,Prodromal,CLIN002,62.6,16.0,26.0,,0,0,0,0,0,1,Mild,Normal
+292886,Male,Right,Prodromal,CLIN007,64.9,6.5,21.0,,0,0,0,0,0,1,Mild,Mild
+292893,Male,Right,Prodromal,CLIN007,61.3,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+292905,Male,Unknown,Prodromal,CLIN003,67.7,12.0,25.0,,0,1,0,0,0,1,Mild,Mild
+292908,Male,Left,Parkinson's Disease,CLIN006,80.2,21.0,20.0,,0,0,0,0,0,1,Mild,Mild
+292909,Female,Right,Prodromal,CLIN005,71.2,0.0,26.5,,0,0,0,0,0,1,Mild,Normal
+292970,Unknown,Right,Prodromal,CLIN002,65.3,10.0,26.0,,1,0,0,0,0,1,Mild,Normal
+293023,Male,Right,Prodromal,CLIN007,71.7,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293032,Female,Right,Prodromal,CLIN001,79.0,6.5,28.5,,0,0,0,0,0,1,Mild,Normal
+293033,Female,Right,Parkinson's Disease,CLIN001,59.2,32.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+293040,Male,Right,Parkinson's Disease,CLIN003,30.65,42.5,19.0,,0,0,0,0,0,1,Moderate,Mild
+293044,Male,Right,Parkinson's Disease,CLIN006,62.4,9.0,29.0,,0,0,0,0,0,1,Mild,Normal
+293063,Male,Right,Parkinson's Disease,CLIN002,50.1,29.5,27.0,,0,0,0,0,0,1,Mild,Normal
+293075,Female,Right,Parkinson's Disease,CLIN002,75.6,13.0,26.0,,0,0,0,0,0,1,Mild,Normal
+293109,Female,Right,Prodromal,CLIN006,68.9,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+293115,Male,Right,Prodromal,CLIN004,60.4,25.5,26.5,,0,0,0,0,0,1,Mild,Normal
+293171,Male,Right,Prodromal,CLIN004,70.0,20.5,25.5,,0,0,0,0,0,1,Mild,Mild
+293175,Male,Right,Parkinson's Disease,CLIN005,54.6,30.0,21.5,,0,0,0,0,0,1,Mild,Mild
+293184,Male,Right,Prodromal,CLIN003,56.7,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+293212,Male,Right,Parkinson's Disease,CLIN005,61.5,39.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+293300,Female,Left,Prodromal,CLIN007,61.4,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293332,Male,Right,Prodromal,CLIN001,70.3,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+293370,Male,Right,Parkinson's Disease,CLIN004,57.9,28.0,23.0,,0,0,0,0,0,1,Mild,Mild
+293391,Male,Right,Prodromal,CLIN002,67.3,14.0,22.0,,0,0,0,0,0,1,Mild,Mild
+293400,Male,Right,Prodromal,CLIN006,73.9,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+293401,Female,Right,Prodromal,CLIN005,61.7,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+293441,Male,Left,Prodromal,CLIN006,57.2,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+293445,Female,Right,Parkinson's Disease,CLIN006,69.1,21.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293463,Female,Right,Parkinson's Disease,CLIN007,64.7,20.0,23.0,,0,0,0,0,0,1,Mild,Mild
+293487,Female,Right,Parkinson's Disease,CLIN004,63.1,24.0,24.0,,0,0,0,0,0,1,Mild,Mild
+293515,Male,Right,Prodromal,CLIN003,61.4,3.0,27.5,,0,0,0,0,0,1,Mild,Normal
+293581,Male,Right,Prodromal,CLIN006,61.9,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+293595,Male,Unknown,Parkinson's Disease,CLIN006,75.9,42.0,27.0,,0,1,0,0,0,1,Moderate,Normal
+293596,Unknown,Unknown,Parkinson's Disease,CLIN003,65.6,28.0,26.0,,1,1,0,0,0,1,Mild,Normal
+293628,Male,Right,Prodromal,CLIN004,68.3,17.0,22.0,,0,0,0,0,0,1,Mild,Mild
+293638,Male,Right,Prodromal,CLIN005,64.4,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+293641,Female,Right,Parkinson's Disease,CLIN002,64.1,36.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+293681,Male,Right,Parkinson's Disease,CLIN007,80.1,40.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+293696,Male,Left,Prodromal,CLIN003,60.3,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293703,Male,Right,Parkinson's Disease,CLIN007,66.7,37.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+293711,Male,Right,Parkinson's Disease,CLIN003,50.8,23.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293726,Male,Right,Parkinson's Disease,CLIN004,34.6,13.0,26.0,,0,0,0,0,0,1,Mild,Normal
+293732,Male,Right,Prodromal,CLIN006,78.0,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+293733,Male,Right,Prodromal,CLIN003,62.4,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293740,Female,Right,Parkinson's Disease,CLIN005,53.7,30.0,27.0,,0,0,0,0,0,1,Mild,Normal
+293759,Female,Right,Parkinson's Disease,CLIN001,47.2,11.0,26.0,,0,0,0,0,0,1,Mild,Normal
+293767,Male,Right,Parkinson's Disease,CLIN003,70.6,27.0,20.0,,0,0,0,0,0,1,Mild,Mild
+293774,Male,Right,Parkinson's Disease,CLIN006,45.2,18.5,26.0,,0,0,0,0,0,1,Mild,Normal
+293778,Unknown,Right,Parkinson's Disease,CLIN003,55.6,16.0,30.0,,1,0,0,0,0,1,Mild,Normal
+293787,Male,Left,Parkinson's Disease,CLIN006,45.4,14.0,29.0,,0,0,0,0,0,1,Mild,Normal
+293805,Male,Mixed,Parkinson's Disease,CLIN007,59.2,16.0,28.0,,0,0,0,0,0,1,Mild,Normal
+293809,Female,Left,Parkinson's Disease,CLIN002,58.6,24.0,23.0,,0,0,0,0,0,1,Mild,Mild
+293820,Female,Mixed,Parkinson's Disease,CLIN004,63.4,38.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+293823,Male,Right,Prodromal,CLIN005,61.6,15.0,23.5,,0,0,0,0,0,1,Mild,Mild
+293826,Male,Mixed,Parkinson's Disease,CLIN001,72.5,35.5,26.0,,0,0,0,0,0,1,Moderate,Normal
+293846,Female,Left,Prodromal,CLIN002,68.6,10.0,24.5,,0,0,0,0,0,1,Mild,Mild
+294034,Male,Right,Prodromal,CLIN001,63.9,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+294065,Male,Unknown,Prodromal,CLIN005,66.7,0.0,28.0,,0,1,0,0,0,1,Mild,Normal
+294091,Female,Right,Prodromal,CLIN006,64.1,2.0,24.0,,0,0,0,0,0,1,Mild,Mild
+294102,Female,Right,Parkinson's Disease,CLIN007,46.6,25.0,23.0,,0,0,0,0,0,1,Mild,Mild
+294114,Female,Right,Prodromal,CLIN003,74.6,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+294119,Female,Left,Prodromal,CLIN002,70.6,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+294120,Male,Right,Prodromal,CLIN001,68.9,23.0,26.0,,0,0,0,0,0,1,Mild,Normal
+294131,Female,Right,Prodromal,CLIN005,68.6,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+294145,Male,Right,Prodromal,CLIN004,60.6,7.0,15.0,,0,0,0,0,0,1,Mild,Moderate
+294308,Male,Right,Prodromal,CLIN002,64.1,7.0,24.5,,0,0,0,0,0,1,Mild,Mild
+294357,Female,Right,Prodromal,CLIN006,64.2,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+294385,Female,Unknown,Prodromal,CLIN004,61.2,7.0,26.0,,0,1,0,0,0,1,Mild,Normal
+294842,Female,Right,Prodromal,CLIN001,67.0,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+296085,Male,Right,Prodromal,CLIN002,57.3,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+296090,Male,Left,Parkinson's Disease,CLIN005,81.4,32.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+296453,Male,Left,Prodromal,CLIN004,54.9,8.0,23.0,,0,0,0,0,0,1,Mild,Mild
+296619,Male,Right,Prodromal,CLIN003,69.0,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+296665,Female,Right,Parkinson's Disease,CLIN003,73.2,35.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+296833,Female,Right,Prodromal,CLIN007,61.8,8.0,25.0,,0,0,0,0,0,1,Mild,Mild
+297877,Male,Left,Prodromal,CLIN005,61.9,3.0,24.0,,0,0,0,0,0,1,Mild,Mild
+298164,Female,Left,Prodromal,CLIN002,70.7,6.0,24.5,,0,0,0,0,0,1,Mild,Mild
+298371,Female,Unknown,Prodromal,CLIN007,62.1,2.0,26.0,,0,1,0,0,0,1,Mild,Normal
+298419,Male,Unknown,Prodromal,CLIN005,66.6,7.0,25.0,,0,1,0,0,0,1,Mild,Mild
+298922,Female,Right,Prodromal,CLIN004,61.9,8.5,24.5,,0,0,0,0,0,1,Mild,Mild
+299000,Male,Left,Prodromal,CLIN006,75.9,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+299171,Female,Left,Prodromal,CLIN003,72.7,2.0,24.5,,0,0,0,0,0,1,Mild,Mild
+3002,Female,Right,Parkinson's Disease,CLIN004,67.6,23.0,26.5,,0,0,0,0,0,1,Mild,Normal
+300269,Female,Right,Prodromal,CLIN006,72.0,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3003,Female,Right,Parkinson's Disease,CLIN005,56.7,29.0,23.5,,0,0,0,0,0,1,Mild,Mild
+3006,Female,Right,Parkinson's Disease,CLIN007,57.5,21.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3007,Male,Left,Parkinson's Disease,CLIN003,64.5,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+300890,Female,Right,Prodromal,CLIN005,61.1,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3010,Male,Unknown,Parkinson's Disease,CLIN005,47.0,20.0,26.0,,0,1,0,0,0,1,Mild,Normal
+301046,Female,Right,Prodromal,CLIN002,61.4,5.5,16.0,,0,0,0,0,0,1,Mild,Moderate
+301082,Female,Right,Prodromal,CLIN006,64.4,5.0,24.0,,0,0,0,0,0,1,Mild,Mild
+301198,Unknown,Right,Prodromal,CLIN004,68.9,5.0,25.0,,1,0,0,0,0,1,Mild,Mild
+3012,Male,Right,Parkinson's Disease,CLIN005,58.8,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3014,Male,Right,Parkinson's Disease,CLIN007,67.5,35.5,25.0,,0,0,0,0,0,1,Moderate,Mild
+301407,Male,Right,Prodromal,CLIN001,63.3,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+301695,Male,Right,Parkinson's Disease,CLIN007,52.7,8.0,28.0,,0,0,0,0,0,1,Mild,Normal
+301697,Male,Right,Parkinson's Disease,CLIN007,71.2,22.0,21.0,,0,0,0,0,0,1,Mild,Mild
+301954,Male,Right,Prodromal,CLIN005,73.9,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+301987,Male,Right,Prodromal,CLIN006,76.2,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3020,Female,Right,Parkinson's Disease,CLIN003,74.0,20.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3021,Female,Right,Parkinson's Disease,CLIN007,64.1,13.0,29.0,,0,0,0,0,0,1,Mild,Normal
+302136,Female,Right,Prodromal,CLIN005,72.6,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+302206,Male,Right,Prodromal,CLIN002,70.7,6.0,23.0,,0,0,0,0,0,1,Mild,Mild
+3023,Female,Right,Parkinson's Disease,CLIN003,71.1,30.0,29.0,,0,0,0,0,0,1,Mild,Normal
+302376,Female,Right,Prodromal,CLIN007,64.5,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3024,Male,Right,Parkinson's Disease,CLIN003,52.7,12.0,29.0,,0,0,0,0,0,1,Mild,Normal
+302526,Female,Unknown,Parkinson's Disease,CLIN004,68.0,34.0,26.0,,0,1,0,0,0,1,Moderate,Normal
+302572,Male,Unknown,Prodromal,CLIN006,69.0,1.0,28.0,,0,1,0,0,0,1,Mild,Normal
+302575,Male,Right,Parkinson's Disease,CLIN002,76.0,34.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+3026,Male,Left,Parkinson's Disease,CLIN004,56.1,26.5,25.5,,0,0,0,0,0,1,Mild,Mild
+3027,Male,Right,Parkinson's Disease,CLIN003,69.5,22.0,25.0,,0,0,0,0,0,1,Mild,Mild
+302702,Female,Right,Prodromal,CLIN006,69.3,7.5,27.0,,0,0,0,0,0,1,Mild,Normal
+304032,Female,Right,Prodromal,CLIN002,64.3,13.0,23.0,,0,0,0,0,0,1,Mild,Mild
+3051,Male,Right,Parkinson's Disease,CLIN005,71.6,22.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3052,Female,Right,Parkinson's Disease,CLIN002,65.9,24.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3054,Male,Right,Parkinson's Disease,CLIN004,74.2,20.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3056,Male,Right,Parkinson's Disease,CLIN006,55.7,12.0,23.0,,0,0,0,0,0,1,Mild,Mild
+305643,Male,Right,Prodromal,CLIN003,76.3,10.0,20.0,,0,0,0,0,0,1,Mild,Mild
+305772,Male,Right,Prodromal,CLIN006,70.2,3.0,24.0,,0,0,0,0,0,1,Mild,Mild
+305775,Male,Right,Prodromal,CLIN003,60.7,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3061,Unknown,Right,Parkinson's Disease,CLIN005,53.2,13.0,30.0,,1,0,0,0,0,1,Mild,Normal
+3062,Female,Right,Parkinson's Disease,CLIN001,61.0,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+306516,Male,Right,Parkinson's Disease,CLIN006,55.8,11.0,27.0,,0,0,0,0,0,1,Mild,Normal
+306977,Male,Right,Prodromal,CLIN006,63.6,1.0,22.0,,0,0,0,0,0,1,Mild,Mild
+307589,Female,Right,Parkinson's Disease,CLIN004,57.3,26.0,29.0,,0,0,0,0,0,1,Mild,Normal
+307656,Male,Right,Parkinson's Disease,CLIN003,59.9,21.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3077,Unknown,Unknown,Parkinson's Disease,CLIN004,62.6,41.0,25.0,,1,1,0,0,0,1,Moderate,Mild
+3078,Male,Right,Parkinson's Disease,CLIN001,60.7,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3080,Male,Right,Parkinson's Disease,CLIN001,80.2,25.0,27.0,,0,0,0,0,0,1,Mild,Normal
+308101,Female,Right,Prodromal,CLIN004,74.5,12.0,26.0,,0,0,0,0,0,1,Mild,Normal
+308129,Male,Right,Prodromal,CLIN006,69.2,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3083,Female,Right,Parkinson's Disease,CLIN003,65.7,18.5,28.5,,0,0,0,0,0,1,Mild,Normal
+3086,Female,Right,Parkinson's Disease,CLIN003,56.4,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3088,Female,Right,Parkinson's Disease,CLIN007,55.3,24.5,24.5,,0,0,0,0,0,1,Mild,Mild
+3089,Unknown,Right,Parkinson's Disease,CLIN002,56.3,28.0,26.0,,1,0,0,0,0,1,Mild,Normal
+309751,Unknown,Right,Parkinson's Disease,CLIN001,62.6,27.0,28.0,,1,0,0,0,0,1,Mild,Normal
+309923,Male,Right,Prodromal,CLIN007,67.9,3.5,28.0,,0,0,0,0,0,1,Mild,Normal
+3102,Male,Right,Parkinson's Disease,CLIN004,63.6,28.0,26.0,702119.0,0,0,0,0,0,0,Mild,Normal
+3111,Male,Unknown,Parkinson's Disease,CLIN007,64.6,25.0,26.0,,0,1,0,0,0,1,Mild,Normal
+3113,Female,Right,Parkinson's Disease,CLIN006,59.3,19.0,29.0,784562.0,0,0,0,0,0,0,Mild,Normal
+311363,Male,Left,Parkinson's Disease,CLIN004,52.8,34.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+311399,Male,Left,Parkinson's Disease,CLIN003,62.9,30.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3116,Male,Left,Parkinson's Disease,CLIN003,65.0,38.0,28.0,590006.0,0,0,0,0,0,0,Moderate,Normal
+311641,Male,Right,Parkinson's Disease,CLIN001,41.8,15.0,28.0,,0,0,0,0,0,1,Mild,Normal
+311688,Female,Right,Prodromal,CLIN004,58.3,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3118,Male,Right,Parkinson's Disease,CLIN004,60.3,29.0,28.0,818149.0,0,0,0,0,0,0,Mild,Normal
+311970,Male,Unknown,Prodromal,CLIN006,63.6,0.0,25.0,,0,1,0,0,0,1,Mild,Mild
+311981,Male,Right,Prodromal,CLIN005,72.7,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+311993,Male,Right,Parkinson's Disease,CLIN001,65.9,17.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3120,Female,Right,Parkinson's Disease,CLIN004,49.5,32.0,26.0,871482.0,0,0,0,0,0,0,Moderate,Normal
+312107,Male,Right,Prodromal,CLIN006,75.1,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3123,Male,Right,Parkinson's Disease,CLIN003,69.3,13.0,30.0,742624.0,0,0,0,0,0,0,Mild,Normal
+3124,Male,Mixed,Parkinson's Disease,CLIN005,57.2,16.0,27.0,821367.0,0,0,0,0,0,0,Mild,Normal
+3125,Male,Left,Parkinson's Disease,CLIN003,46.0,19.0,30.0,829569.0,0,0,0,0,0,0,Mild,Normal
+3127,Female,Right,Parkinson's Disease,CLIN005,49.1,11.0,29.0,905787.0,0,0,0,0,0,0,Mild,Normal
+3128,Female,Right,Parkinson's Disease,CLIN001,60.0,16.0,28.0,801779.0,0,0,0,0,0,0,Mild,Normal
+312859,Male,Left,Parkinson's Disease,CLIN007,50.4,11.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3129,Male,Right,Parkinson's Disease,CLIN007,56.0,29.0,26.0,,0,0,0,0,0,1,Mild,Normal
+312909,Male,Right,Prodromal,CLIN007,69.4,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3130,Male,Right,Parkinson's Disease,CLIN002,43.9,15.0,26.0,920281.0,0,0,0,0,0,0,Mild,Normal
+3131,Male,Right,Parkinson's Disease,CLIN004,71.2,44.0,26.0,687196.0,0,0,0,0,0,0,Moderate,Normal
+313162,Male,Right,Parkinson's Disease,CLIN006,67.0,7.5,29.0,,0,0,0,0,0,1,Mild,Normal
+3132,Male,Right,Parkinson's Disease,CLIN001,49.9,16.0,30.0,815269.0,0,0,0,0,0,0,Mild,Normal
+313254,Female,Right,Prodromal,CLIN007,60.7,2.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3134,Male,Right,Parkinson's Disease,CLIN006,38.5,8.0,29.0,864657.0,0,0,0,0,0,0,Mild,Normal
+313702,Male,Right,Parkinson's Disease,CLIN003,74.1,21.0,24.0,,0,0,0,0,0,1,Mild,Mild
+313715,Unknown,Right,Parkinson's Disease,CLIN007,42.6,12.0,27.0,,1,0,0,0,0,1,Mild,Normal
+314186,Male,Mixed,Prodromal,CLIN001,63.2,8.0,28.0,,0,0,0,0,0,1,Mild,Normal
+314234,Female,Right,Prodromal,CLIN002,74.0,25.5,28.0,,0,0,0,0,0,1,Mild,Normal
+3150,Female,Right,Parkinson's Disease,CLIN002,57.4,26.0,23.0,908269.0,0,0,0,0,0,0,Mild,Mild
+315218,Male,Right,Prodromal,CLIN005,70.6,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+315378,Male,Left,Parkinson's Disease,CLIN002,64.0,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+315597,Male,Right,Prodromal,CLIN001,65.4,0.0,25.5,,0,0,0,0,0,1,Mild,Mild
+315670,Female,Right,Parkinson's Disease,CLIN006,54.4,18.0,27.0,,0,0,0,0,0,1,Mild,Normal
+315844,Male,Right,Prodromal,CLIN006,64.0,11.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3168,Female,Right,Parkinson's Disease,CLIN004,63.1,32.0,24.0,842027.0,0,0,0,0,0,0,Moderate,Mild
+316817,Female,Right,Prodromal,CLIN006,81.4,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3173,Female,Right,Parkinson's Disease,CLIN004,62.3,23.0,19.0,846018.0,0,0,0,0,0,0,Mild,Mild
+3174,Unknown,Right,Parkinson's Disease,CLIN007,50.5,21.0,28.0,818228.0,1,0,0,0,0,0,Mild,Normal
+3175,Female,Right,Parkinson's Disease,CLIN004,57.2,21.0,26.0,926678.0,0,0,0,0,0,0,Mild,Normal
+3176,Male,Right,Parkinson's Disease,CLIN007,61.5,12.5,28.0,,0,0,0,0,0,1,Mild,Normal
+3178,Male,Right,Parkinson's Disease,CLIN005,71.8,41.0,25.0,694971.0,0,0,0,0,0,0,Moderate,Mild
+3179,Male,Right,Parkinson's Disease,CLIN007,51.4,25.0,30.0,871069.0,0,0,0,0,0,0,Mild,Normal
+3180,Female,Right,Parkinson's Disease,CLIN003,60.6,26.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3181,Female,Right,Parkinson's Disease,CLIN006,67.9,32.0,24.0,809770.0,0,0,0,0,0,0,Moderate,Mild
+3184,Female,Right,Parkinson's Disease,CLIN004,59.1,19.0,27.0,877253.0,0,0,0,0,0,0,Mild,Normal
+3186,Female,Right,Parkinson's Disease,CLIN004,61.5,32.0,21.5,,0,0,0,0,0,1,Moderate,Mild
+318637,Male,Unknown,Prodromal,CLIN002,69.7,14.0,22.0,,0,1,0,0,0,1,Mild,Mild
+318884,Male,Right,Parkinson's Disease,CLIN003,71.9,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3190,Male,Right,Parkinson's Disease,CLIN006,82.3,23.0,24.0,721963.0,0,0,0,0,0,0,Mild,Mild
+319543,Male,Mixed,Parkinson's Disease,CLIN002,70.8,35.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+319735,Unknown,Right,Parkinson's Disease,CLIN003,65.3,15.0,29.0,,1,0,0,0,0,1,Mild,Normal
+3203,Male,Right,Parkinson's Disease,CLIN006,56.8,18.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3205,Male,Right,Parkinson's Disease,CLIN006,72.6,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+320651,Male,Right,Parkinson's Disease,CLIN004,55.9,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+320779,Female,Right,Prodromal,CLIN001,63.5,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+320796,Male,Right,Prodromal,CLIN005,62.0,1.0,27.5,,0,0,0,0,0,1,Mild,Normal
+3211,Male,Right,Parkinson's Disease,CLIN005,61.7,13.5,28.0,,0,0,0,0,0,1,Mild,Normal
+321150,Female,Right,Prodromal,CLIN002,78.1,50.0,19.0,,0,0,0,0,0,1,Moderate,Mild
+321168,Female,Right,Prodromal,CLIN005,64.5,0.5,26.0,,0,0,0,0,0,1,Mild,Normal
+3212,Male,Right,Parkinson's Disease,CLIN007,56.0,18.0,23.0,,0,0,0,0,0,1,Mild,Mild
+3214,Male,Right,Parkinson's Disease,CLIN002,78.7,39.0,19.0,,0,0,0,0,0,1,Moderate,Mild
+3220,Female,Right,Parkinson's Disease,CLIN004,73.5,18.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3224,Male,Right,Parkinson's Disease,CLIN002,84.9,28.0,19.0,,0,0,0,0,0,1,Mild,Mild
+3226,Female,Right,Parkinson's Disease,CLIN004,33.5,17.5,24.0,,0,0,0,0,0,1,Mild,Mild
+3227,Female,Right,Parkinson's Disease,CLIN006,50.7,14.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3230,Unknown,Right,Parkinson's Disease,CLIN006,69.8,17.0,26.0,,1,0,0,0,0,1,Mild,Normal
+3231,Female,Right,Parkinson's Disease,CLIN007,55.8,17.5,12.0,,0,0,0,0,0,1,Mild,Moderate
+323312,Male,Right,Prodromal,CLIN006,61.5,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+324508,Male,Right,Prodromal,CLIN007,52.4,5.0,30.0,,0,0,0,0,0,1,Mild,Normal
+324862,Unknown,Right,Parkinson's Disease,CLIN007,56.9,13.0,28.0,,1,0,0,0,0,1,Mild,Normal
+3251,Female,Right,Parkinson's Disease,CLIN005,59.3,42.0,29.5,,0,0,0,0,0,1,Moderate,Normal
+3252,Female,Right,Parkinson's Disease,CLIN002,47.4,30.0,26.5,,0,0,0,0,0,1,Mild,Normal
+325234,Female,Right,Prodromal,CLIN003,59.4,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3254,Unknown,Left,Parkinson's Disease,CLIN005,51.4,22.0,28.0,,1,0,0,0,0,1,Mild,Normal
+325566,Male,Right,Parkinson's Disease,CLIN001,51.4,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3267,Male,Right,Parkinson's Disease,CLIN004,70.5,43.0,21.0,,0,0,0,0,0,1,Moderate,Mild
+3268,Male,Right,Parkinson's Disease,CLIN004,61.5,26.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3275,Male,Right,Parkinson's Disease,CLIN001,69.0,25.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3279,Male,Right,Parkinson's Disease,CLIN007,63.4,46.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+3280,Male,Right,Parkinson's Disease,CLIN005,47.8,21.5,26.5,,0,0,0,0,0,1,Mild,Normal
+3281,Male,Right,Parkinson's Disease,CLIN001,56.8,21.0,22.0,,0,0,0,0,0,1,Mild,Mild
+3282,Unknown,Right,Parkinson's Disease,CLIN001,62.2,22.0,25.0,,1,0,0,0,0,1,Mild,Mild
+3284,Female,Right,Parkinson's Disease,CLIN007,64.2,46.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+3285,Male,Unknown,Parkinson's Disease,CLIN001,68.3,25.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3288,Unknown,Right,Parkinson's Disease,CLIN001,46.9,22.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3290,Male,Right,Parkinson's Disease,CLIN007,63.3,11.0,22.0,,0,0,0,0,0,1,Mild,Mild
+329230,Male,Right,Prodromal,CLIN004,65.5,12.5,25.0,,0,0,0,0,0,1,Mild,Mild
+330037,Male,Right,Prodromal,CLIN006,62.1,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3309,Female,Right,Parkinson's Disease,CLIN003,54.0,21.0,26.0,883634.0,0,0,0,0,0,0,Mild,Normal
+3312,Male,Left,Parkinson's Disease,CLIN001,78.0,21.0,30.0,,0,0,0,0,0,1,Mild,Normal
+331787,Male,Left,Prodromal,CLIN006,61.4,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3321,Female,Right,Parkinson's Disease,CLIN002,70.8,20.5,28.0,683087.0,0,0,0,0,0,0,Mild,Normal
+3322,Female,Right,Parkinson's Disease,CLIN007,60.4,6.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3330,Male,Right,Parkinson's Disease,CLIN001,50.6,20.5,26.0,,0,0,0,0,0,1,Mild,Normal
+3333,Male,Right,Parkinson's Disease,CLIN001,66.8,14.0,24.0,,0,0,0,0,0,1,Mild,Mild
+333688,Female,Right,Prodromal,CLIN004,59.3,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+333703,Unknown,Right,Prodromal,CLIN004,63.4,13.0,26.0,,1,0,0,0,0,1,Mild,Normal
+335142,Male,Unknown,Prodromal,CLIN007,57.3,2.0,27.0,,0,1,0,0,0,1,Mild,Normal
+335188,Male,Unknown,Prodromal,CLIN001,58.8,7.0,29.0,,0,1,0,0,0,1,Mild,Normal
+3352,Male,Right,Parkinson's Disease,CLIN007,51.8,34.0,28.0,733330.0,0,0,0,0,0,0,Moderate,Normal
+3360,Male,Right,Parkinson's Disease,CLIN005,67.0,18.0,30.0,700255.0,0,0,0,0,0,0,Mild,Normal
+3364,Female,Right,Parkinson's Disease,CLIN003,39.2,15.0,29.0,949249.0,0,0,0,0,0,0,Mild,Normal
+3365,Male,Right,Parkinson's Disease,CLIN004,48.9,14.0,25.5,839776.0,0,0,0,0,0,0,Mild,Mild
+3366,Male,Right,Parkinson's Disease,CLIN006,61.3,22.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3367,Male,Right,Parkinson's Disease,CLIN003,45.2,21.0,30.0,838385.0,0,0,0,0,0,0,Mild,Normal
+3372,Male,Left,Parkinson's Disease,CLIN001,71.4,19.0,28.0,668343.0,0,0,0,0,0,0,Mild,Normal
+3374,Male,Right,Parkinson's Disease,CLIN005,70.6,27.0,28.0,691908.0,0,0,0,0,0,0,Mild,Normal
+3375,Male,Right,Parkinson's Disease,CLIN007,49.8,25.0,29.0,830297.0,0,0,0,0,0,0,Mild,Normal
+3376,Female,Right,Parkinson's Disease,CLIN006,70.1,26.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3377,Unknown,Left,Parkinson's Disease,CLIN003,53.7,6.0,28.5,848272.0,0,0,0,0,0,0,Mild,Normal
+3378,Male,Right,Parkinson's Disease,CLIN001,48.0,15.0,27.0,738213.0,0,0,0,0,0,0,Mild,Normal
+3380,Female,Right,Parkinson's Disease,CLIN005,70.1,14.0,29.0,708726.0,0,0,0,0,0,0,Mild,Normal
+3383,Male,Right,Parkinson's Disease,CLIN002,48.4,15.0,28.0,797054.0,0,0,0,0,0,0,Mild,Normal
+3387,Female,Right,Parkinson's Disease,CLIN006,56.3,11.0,28.0,800492.0,0,0,0,0,0,0,Mild,Normal
+3392,Unknown,Right,Parkinson's Disease,CLIN007,50.5,16.0,30.0,904631.0,1,0,0,0,0,0,Mild,Normal
+339270,Male,Right,Prodromal,CLIN004,67.3,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3400,Unknown,Right,Parkinson's Disease,CLIN003,39.2,17.0,24.0,,1,0,0,0,0,1,Mild,Mild
+3403,Male,Right,Parkinson's Disease,CLIN001,68.9,32.0,25.0,,0,0,0,0,0,1,Moderate,Mild
+3406,Male,Right,Parkinson's Disease,CLIN007,34.8,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3409,Male,Left,Parkinson's Disease,CLIN002,63.5,29.0,22.0,,0,0,0,0,0,1,Mild,Mild
+341248,Male,Right,Prodromal,CLIN006,74.0,6.0,19.0,,0,0,0,0,0,1,Mild,Mild
+3415,Male,Right,Parkinson's Disease,CLIN004,61.4,29.0,23.5,,0,0,0,0,0,1,Mild,Mild
+3417,Male,Right,Parkinson's Disease,CLIN003,56.7,20.0,23.0,,0,0,0,0,0,1,Mild,Mild
+3418,Unknown,Right,Parkinson's Disease,CLIN007,54.8,28.0,28.0,,1,0,0,0,0,1,Mild,Normal
+3419,Female,Right,Parkinson's Disease,CLIN007,67.4,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3420,Male,Right,Parkinson's Disease,CLIN001,50.5,17.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3421,Male,Right,Parkinson's Disease,CLIN004,39.7,16.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3422,Male,Right,Parkinson's Disease,CLIN005,57.5,22.0,24.0,,0,0,0,0,0,1,Mild,Mild
+342214,Male,Right,Prodromal,CLIN004,79.4,10.0,20.0,,0,0,0,0,0,1,Mild,Mild
+342394,Male,Left,Prodromal,CLIN002,65.7,12.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3429,Unknown,Right,Parkinson's Disease,CLIN006,65.4,16.0,21.0,,1,0,0,0,0,1,Mild,Mild
+3431,Female,Mixed,Parkinson's Disease,CLIN007,61.6,8.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3432,Male,Right,Parkinson's Disease,CLIN007,63.3,18.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3435,Male,Right,Parkinson's Disease,CLIN003,54.5,28.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3436,Male,Right,Parkinson's Disease,CLIN005,51.0,28.5,25.5,,0,0,0,0,0,1,Mild,Mild
+343763,Male,Right,Prodromal,CLIN006,59.7,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+343776,Female,Right,Parkinson's Disease,CLIN006,54.1,16.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3439,Male,Right,Parkinson's Disease,CLIN004,57.1,21.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3440,Male,Unknown,Parkinson's Disease,CLIN005,59.6,31.0,27.0,,0,1,0,0,0,1,Mild,Normal
+344022,Male,Right,Prodromal,CLIN004,72.9,17.0,25.5,,0,0,0,0,0,1,Mild,Mild
+3442,Male,Unknown,Parkinson's Disease,CLIN007,63.4,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3443,Male,Unknown,Parkinson's Disease,CLIN003,53.9,37.0,25.0,,0,1,0,0,0,1,Moderate,Mild
+3444,Male,Right,Parkinson's Disease,CLIN003,68.8,21.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3445,Male,Right,Parkinson's Disease,CLIN006,48.1,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3448,Male,Right,Parkinson's Disease,CLIN002,56.7,30.0,23.0,,0,0,0,0,0,1,Mild,Mild
+345095,Female,Unknown,Prodromal,CLIN003,65.6,5.0,29.0,,0,1,0,0,0,1,Mild,Normal
+3455,Unknown,Left,Parkinson's Disease,CLIN001,67.1,21.0,26.0,,1,0,0,0,0,1,Mild,Normal
+3459,Male,Right,Parkinson's Disease,CLIN005,51.7,14.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3462,Female,Left,Parkinson's Disease,CLIN004,44.1,48.5,24.0,,0,0,0,0,0,1,Moderate,Mild
+3467,Male,Right,Parkinson's Disease,CLIN004,66.9,24.5,24.0,,0,0,0,0,0,1,Mild,Mild
+3469,Unknown,Right,Parkinson's Disease,CLIN004,57.0,22.0,26.0,,1,0,0,0,0,1,Mild,Normal
+3470,Male,Right,Parkinson's Disease,CLIN004,57.4,20.0,23.0,,0,0,0,0,0,1,Mild,Mild
+347040,Male,Right,Prodromal,CLIN004,66.7,11.0,23.5,,0,0,0,0,0,1,Mild,Mild
+3472,Male,Right,Parkinson's Disease,CLIN006,61.3,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3473,Female,Left,Parkinson's Disease,CLIN006,55.4,14.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3475,Unknown,Right,Parkinson's Disease,CLIN002,48.3,17.0,26.0,,1,0,0,0,0,1,Mild,Normal
+3476,Male,Right,Parkinson's Disease,CLIN007,65.8,29.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3482,Male,Right,Parkinson's Disease,CLIN004,53.8,17.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3501,Male,Right,Parkinson's Disease,CLIN007,46.8,24.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3502,Male,Right,Parkinson's Disease,CLIN006,69.6,34.0,30.0,,0,0,0,0,0,1,Moderate,Normal
+3504,Unknown,Right,Parkinson's Disease,CLIN001,61.2,39.0,26.0,,1,0,0,0,0,1,Moderate,Normal
+3505,Male,Right,Parkinson's Disease,CLIN001,72.6,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+350696,Male,Right,Prodromal,CLIN007,71.1,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3507,Male,Right,Parkinson's Disease,CLIN003,61.8,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3510,Unknown,Right,Parkinson's Disease,CLIN001,59.5,37.0,30.0,,1,0,0,0,0,1,Moderate,Normal
+352290,Male,Mixed,Prodromal,CLIN002,75.1,23.0,18.0,,0,0,0,0,0,1,Mild,Mild
+3528,Female,Right,Parkinson's Disease,CLIN007,59.1,24.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3530,Male,Left,Parkinson's Disease,CLIN006,64.6,26.0,26.0,,0,0,0,0,0,1,Mild,Normal
+353546,Male,Right,Prodromal,CLIN005,72.5,8.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3536,Male,Right,Parkinson's Disease,CLIN001,59.8,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3540,Male,Mixed,Parkinson's Disease,CLIN003,64.3,26.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3552,Male,Right,Parkinson's Disease,CLIN004,59.6,39.0,23.0,638319.0,0,0,0,0,0,0,Moderate,Mild
+3556,Male,Unknown,Parkinson's Disease,CLIN007,65.5,24.0,26.0,778915.0,0,1,0,0,0,0,Mild,Normal
+3557,Male,Right,Parkinson's Disease,CLIN003,59.0,38.0,27.0,705873.0,0,0,0,0,0,0,Moderate,Normal
+3558,Male,Unknown,Parkinson's Disease,CLIN006,63.4,29.0,28.0,769997.0,0,0,0,0,0,0,Mild,Normal
+3559,Male,Left,Parkinson's Disease,CLIN001,38.0,17.0,30.0,869861.0,0,0,0,0,0,0,Mild,Normal
+3564,Male,Right,Parkinson's Disease,CLIN006,69.0,22.0,26.5,768821.0,0,0,0,0,0,0,Mild,Normal
+356510,Male,Right,Parkinson's Disease,CLIN006,40.3,6.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3567,Female,Right,Parkinson's Disease,CLIN001,65.7,20.0,28.0,924615.0,0,0,0,0,0,0,Mild,Normal
+357345,Male,Right,Prodromal,CLIN004,74.3,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+357613,Female,Left,Parkinson's Disease,CLIN005,51.2,25.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3584,Male,Right,Parkinson's Disease,CLIN006,43.1,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3586,Male,Right,Parkinson's Disease,CLIN002,62.9,22.0,25.0,715569.0,0,0,0,0,0,0,Mild,Mild
+3588,Female,Right,Parkinson's Disease,CLIN001,49.2,30.0,29.0,868803.0,0,0,0,0,0,0,Mild,Normal
+3593,Female,Right,Parkinson's Disease,CLIN003,55.4,11.0,25.0,808645.0,0,0,0,0,0,0,Mild,Mild
+359353,Male,Right,Prodromal,CLIN004,62.3,12.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3601,Female,Right,Parkinson's Disease,CLIN001,63.2,33.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+3605,Male,Right,Parkinson's Disease,CLIN004,74.6,31.0,23.0,,0,0,0,0,0,1,Mild,Mild
+3606,Female,Right,Parkinson's Disease,CLIN006,50.3,18.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3607,Female,Right,Parkinson's Disease,CLIN007,55.3,25.5,24.5,,0,0,0,0,0,1,Mild,Mild
+3608,Male,Right,Parkinson's Disease,CLIN005,46.2,23.0,22.0,,0,0,0,0,0,1,Mild,Mild
+3617,Male,Right,Parkinson's Disease,CLIN006,62.6,46.0,28.0,,0,0,0,0,0,1,Moderate,Normal
+3621,Female,Right,Parkinson's Disease,CLIN005,53.6,14.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3622,Male,Left,Parkinson's Disease,CLIN004,62.3,34.5,24.0,,0,0,0,0,0,1,Moderate,Mild
+3625,Female,Right,Parkinson's Disease,CLIN006,67.0,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3628,Male,Right,Parkinson's Disease,CLIN004,72.0,27.0,20.0,,0,0,0,0,0,1,Mild,Mild
+3629,Male,Left,Parkinson's Disease,CLIN007,53.3,19.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3631,Female,Right,Parkinson's Disease,CLIN003,68.0,17.5,26.0,,0,0,0,0,0,1,Mild,Normal
+3632,Male,Right,Parkinson's Disease,CLIN001,54.8,21.0,22.0,,0,0,0,0,0,1,Mild,Mild
+3657,Male,Right,Parkinson's Disease,CLIN003,69.9,21.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3660,Female,Left,Parkinson's Disease,CLIN001,76.2,13.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3661,Female,Right,Parkinson's Disease,CLIN001,60.7,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3664,Female,Right,Parkinson's Disease,CLIN003,61.8,5.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3665,Male,Right,Parkinson's Disease,CLIN006,77.3,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3666,Male,Right,Parkinson's Disease,CLIN005,52.4,16.0,28.0,,0,0,0,0,0,1,Mild,Normal
+366799,Male,Right,Prodromal,CLIN004,59.2,10.0,25.0,,0,0,0,0,0,1,Mild,Mild
+3700,Female,Right,Parkinson's Disease,CLIN003,62.4,19.0,26.5,,0,0,0,0,0,1,Mild,Normal
+3701,Male,Right,Parkinson's Disease,CLIN004,47.0,21.5,25.5,,0,0,0,0,0,1,Mild,Mild
+3707,Male,Unknown,Parkinson's Disease,CLIN003,61.4,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3708,Male,Right,Parkinson's Disease,CLIN007,71.7,20.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3709,Male,Right,Parkinson's Disease,CLIN003,68.7,19.0,26.5,,0,0,0,0,0,1,Mild,Normal
+3710,Unknown,Right,Parkinson's Disease,CLIN004,55.2,30.0,27.0,,1,0,0,0,0,1,Mild,Normal
+3752,Male,Right,Parkinson's Disease,CLIN004,52.1,28.0,25.0,800399.0,0,0,0,0,0,0,Mild,Mild
+3757,Unknown,Right,Parkinson's Disease,CLIN001,70.4,31.0,26.0,719909.0,0,0,0,0,0,0,Mild,Normal
+3758,Male,Right,Parkinson's Disease,CLIN007,69.3,7.0,25.0,702776.0,0,0,0,0,0,0,Mild,Mild
+3760,Male,Right,Parkinson's Disease,CLIN002,68.5,114.5,25.5,705931.0,0,0,0,0,0,0,Severe,Mild
+3763,Male,Right,Parkinson's Disease,CLIN003,59.5,23.0,30.0,804880.0,0,0,0,0,0,0,Mild,Normal
+3766,Female,Right,Parkinson's Disease,CLIN001,63.5,20.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3770,Female,Right,Parkinson's Disease,CLIN001,54.6,40.0,29.0,803870.0,0,0,0,0,0,0,Moderate,Normal
+3773,Male,Right,Parkinson's Disease,CLIN007,50.7,16.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3776,Male,Right,Parkinson's Disease,CLIN002,62.9,33.0,26.0,704203.0,0,0,0,0,0,0,Moderate,Normal
+3780,Female,Right,Parkinson's Disease,CLIN004,70.0,26.0,24.0,739007.0,0,0,0,0,0,0,Mild,Mild
+3785,Female,Right,Parkinson's Disease,CLIN001,56.3,28.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3787,Male,Right,Parkinson's Disease,CLIN004,48.4,12.0,27.0,819819.0,0,0,0,0,0,0,Mild,Normal
+3792,Female,Unknown,Parkinson's Disease,CLIN001,57.7,17.0,29.0,,0,1,0,0,0,1,Mild,Normal
+3793,Male,Right,Parkinson's Disease,CLIN006,67.7,23.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3800,Male,Unknown,Parkinson's Disease,CLIN005,40.8,9.0,28.0,839596.0,0,1,0,0,0,0,Mild,Normal
+3808,Male,Right,Parkinson's Disease,CLIN003,57.2,16.0,24.0,717828.0,0,0,0,0,0,0,Mild,Mild
+3814,Male,Right,Parkinson's Disease,CLIN007,67.6,5.0,24.0,803330.0,0,0,0,0,0,0,Mild,Mild
+3818,Female,Right,Parkinson's Disease,CLIN001,72.8,22.0,29.0,706721.0,0,0,0,0,0,0,Mild,Normal
+3819,Female,Right,Parkinson's Disease,CLIN003,52.9,12.0,29.0,797547.0,0,0,0,0,0,0,Mild,Normal
+3822,Male,Right,Parkinson's Disease,CLIN003,56.0,17.0,21.0,799779.0,0,0,0,0,0,0,Mild,Mild
+3823,Male,Right,Parkinson's Disease,CLIN003,57.1,7.0,27.0,764033.0,0,0,0,0,0,0,Mild,Normal
+3824,Female,Right,Parkinson's Disease,CLIN004,55.3,22.0,26.0,835164.0,0,0,0,0,0,0,Mild,Normal
+3825,Male,Right,Parkinson's Disease,CLIN006,58.2,14.0,28.0,863685.0,0,0,0,0,0,0,Mild,Normal
+3826,Male,Right,Parkinson's Disease,CLIN001,77.3,15.0,27.0,690020.0,0,0,0,0,0,0,Mild,Normal
+3827,Female,Right,Parkinson's Disease,CLIN004,75.2,18.0,27.0,,0,0,0,0,0,1,Mild,Normal
+3829,Female,Right,Parkinson's Disease,CLIN001,67.4,19.0,25.0,786870.0,0,0,0,0,0,0,Mild,Mild
+3830,Female,Right,Parkinson's Disease,CLIN004,51.5,21.0,24.0,840993.0,0,0,0,0,0,0,Mild,Mild
+3832,Male,Right,Parkinson's Disease,CLIN004,64.5,20.5,23.0,768879.0,0,0,0,0,0,0,Mild,Mild
+383233,Male,Right,Parkinson's Disease,CLIN005,53.6,11.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3856,Male,Right,Parkinson's Disease,CLIN001,67.9,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3858,Female,Right,Parkinson's Disease,CLIN005,67.4,24.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3863,Female,Right,Parkinson's Disease,CLIN002,64.6,39.0,24.5,,0,0,0,0,0,1,Moderate,Mild
+3866,Female,Right,Parkinson's Disease,CLIN006,52.9,28.0,25.0,858485.0,0,0,0,0,0,0,Mild,Mild
+3869,Male,Right,Parkinson's Disease,CLIN006,38.3,10.0,30.0,833736.0,0,0,0,0,0,0,Mild,Normal
+3870,Female,Left,Parkinson's Disease,CLIN003,41.5,9.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3900,Male,Right,Parkinson's Disease,CLIN005,71.7,14.0,26.0,,0,0,0,0,0,1,Mild,Normal
+3905,Female,Right,Parkinson's Disease,CLIN001,71.7,32.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+3910,Male,Right,Parkinson's Disease,CLIN006,58.7,29.0,29.0,,0,0,0,0,0,1,Mild,Normal
+3911,Male,Right,Parkinson's Disease,CLIN005,52.1,25.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3914,Male,Right,Parkinson's Disease,CLIN004,57.9,22.0,24.0,,0,0,0,0,0,1,Mild,Mild
+3916,Female,Right,Parkinson's Disease,CLIN007,69.7,30.5,29.0,,0,0,0,0,0,1,Mild,Normal
+3954,Female,Left,Parkinson's Disease,CLIN001,64.4,12.0,30.0,,0,0,0,0,0,1,Mild,Normal
+3957,Male,Right,Parkinson's Disease,CLIN004,68.9,22.0,24.5,,0,0,0,0,0,1,Mild,Mild
+3960,Male,Unknown,Parkinson's Disease,CLIN003,52.7,8.0,28.0,,0,1,0,0,0,1,Mild,Normal
+3961,Male,Right,Parkinson's Disease,CLIN006,36.6,8.0,28.0,,0,0,0,0,0,1,Mild,Normal
+3962,Male,Right,Parkinson's Disease,CLIN007,69.0,9.0,27.5,,0,0,0,0,0,1,Mild,Normal
+3963,Female,Right,Parkinson's Disease,CLIN006,58.4,11.0,29.0,,0,0,0,0,0,1,Mild,Normal
+4001,Male,Right,Parkinson's Disease,CLIN005,49.9,35.0,28.0,789459.0,0,0,0,0,0,0,Moderate,Normal
+40012,Male,Left,Parkinson's Disease,CLIN005,62.4,19.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40067,Female,Unknown,Prodromal,CLIN006,45.1,2.5,29.0,,0,0,0,0,0,1,Mild,Normal
+4011,Female,Left,Parkinson's Disease,CLIN002,51.6,22.5,26.0,907024.0,0,0,0,0,0,0,Mild,Normal
+4012,Female,Right,Parkinson's Disease,CLIN005,50.5,28.0,30.0,891505.0,0,0,0,0,0,0,Mild,Normal
+40163,Male,Right,Parkinson's Disease,CLIN004,57.6,31.5,23.0,,0,0,0,0,0,1,Mild,Mild
+4019,Female,Right,Parkinson's Disease,CLIN007,54.9,16.5,28.0,991128.0,0,0,0,0,0,0,Mild,Normal
+4020,Male,Mixed,Parkinson's Disease,CLIN001,60.8,40.0,24.5,698324.0,0,0,0,0,0,0,Moderate,Mild
+4022,Male,Right,Parkinson's Disease,CLIN004,47.5,36.0,25.5,884329.0,0,0,0,0,0,0,Moderate,Mild
+4025,Female,Right,Parkinson's Disease,CLIN003,49.2,33.0,25.0,884796.0,0,0,0,0,0,0,Moderate,Mild
+40273,Male,Right,Parkinson's Disease,CLIN005,66.9,24.0,30.0,,0,0,0,0,0,1,Mild,Normal
+4033,Female,Unknown,Parkinson's Disease,CLIN004,50.0,30.0,26.0,,0,1,0,0,0,1,Mild,Normal
+4034,Female,Right,Parkinson's Disease,CLIN004,55.0,21.0,27.0,744560.0,0,0,0,0,0,0,Mild,Normal
+4035,Male,Right,Parkinson's Disease,CLIN006,60.5,28.0,25.0,721619.0,0,0,0,0,0,0,Mild,Mild
+40366,Male,Right,Parkinson's Disease,CLIN006,62.9,39.5,28.0,,0,0,0,0,0,1,Moderate,Normal
+4037,Male,Right,Parkinson's Disease,CLIN005,52.8,12.0,28.0,839168.0,0,0,0,0,0,0,Mild,Normal
+40451,Male,Right,Prodromal,CLIN006,54.5,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+4051,Female,Right,Parkinson's Disease,CLIN005,53.1,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40520,Male,Right,Prodromal,CLIN006,56.2,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40534,Male,Right,Parkinson's Disease,CLIN005,67.0,41.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+40538,Female,Right,Parkinson's Disease,CLIN004,62.1,32.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+40539,Male,Right,Parkinson's Disease,CLIN002,70.2,50.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+4054,Unknown,Right,Parkinson's Disease,CLIN003,62.2,21.0,25.0,,1,0,0,0,0,1,Mild,Mild
+40540,Male,Right,Parkinson's Disease,CLIN002,44.3,50.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+40541,Female,Right,Parkinson's Disease,CLIN005,56.4,46.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+40542,Female,Right,Parkinson's Disease,CLIN007,54.3,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+40549,Female,Right,Parkinson's Disease,CLIN006,65.9,28.0,26.0,,0,0,0,0,0,1,Mild,Normal
+4055,Male,Left,Parkinson's Disease,CLIN004,69.9,27.0,23.5,,0,0,0,0,0,1,Mild,Mild
+40555,Female,Right,Parkinson's Disease,CLIN005,57.3,14.0,20.0,,0,0,0,0,0,1,Mild,Mild
+40567,Male,Right,Prodromal,CLIN002,52.9,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40568,Female,Right,Prodromal,CLIN006,49.8,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+40574,Male,Right,Prodromal,CLIN005,46.8,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40578,Male,Right,Parkinson's Disease,CLIN004,50.9,14.0,14.0,,0,0,0,0,0,1,Mild,Moderate
+40586,Male,Right,Parkinson's Disease,CLIN004,38.7,18.0,25.0,,0,0,0,0,0,1,Mild,Mild
+40587,Male,Right,Prodromal,CLIN007,64.3,4.0,30.0,,0,0,0,0,0,1,Mild,Normal
+40590,Female,Right,Prodromal,CLIN002,51.7,8.0,23.0,,0,0,0,0,0,1,Mild,Mild
+40591,Female,Right,Prodromal,CLIN002,62.5,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40592,Female,Right,Parkinson's Disease,CLIN003,52.0,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40593,Unknown,Right,Prodromal,CLIN002,54.5,9.0,26.0,,1,0,0,0,0,1,Mild,Normal
+40594,Male,Right,Prodromal,CLIN001,69.7,9.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40595,Female,Right,Parkinson's Disease,CLIN005,46.5,29.0,28.0,,0,0,0,0,0,1,Mild,Normal
+40596,Male,Right,Prodromal,CLIN005,62.1,7.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40599,Female,Right,Parkinson's Disease,CLIN004,58.0,28.5,24.0,,0,0,0,0,0,1,Mild,Mild
+40600,Male,Right,Prodromal,CLIN007,64.0,4.0,20.0,,0,0,0,0,0,1,Mild,Mild
+40602,Female,Right,Prodromal,CLIN001,76.2,5.5,24.0,,0,0,0,0,0,1,Mild,Mild
+40603,Female,Right,Parkinson's Disease,CLIN004,55.0,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40604,Female,Right,Prodromal,CLIN003,59.3,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+40608,Female,Right,Parkinson's Disease,CLIN002,85.2,30.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40609,Male,Right,Prodromal,CLIN003,68.0,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40610,Female,Right,Prodromal,CLIN004,56.5,7.0,20.5,,0,0,0,0,0,1,Mild,Mild
+40613,Male,Right,Prodromal,CLIN001,50.9,10.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40616,Female,Right,Parkinson's Disease,CLIN003,56.7,26.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40617,Male,Right,Prodromal,CLIN003,65.1,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+40618,Female,Right,Prodromal,CLIN005,58.7,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+40619,Female,Right,Prodromal,CLIN004,50.5,12.5,24.5,,0,0,0,0,0,1,Mild,Mild
+40621,Male,Right,Prodromal,CLIN003,51.8,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+4065,Female,Right,Parkinson's Disease,CLIN007,62.8,19.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40671,Male,Right,Parkinson's Disease,CLIN001,60.1,31.0,25.0,,0,0,0,0,0,1,Mild,Mild
+40692,Unknown,Right,Parkinson's Disease,CLIN003,64.2,10.0,26.0,,1,0,0,0,0,1,Mild,Normal
+40693,Unknown,Right,Parkinson's Disease,CLIN004,71.6,32.0,22.0,,1,0,0,0,0,1,Moderate,Mild
+4070,Female,Right,Parkinson's Disease,CLIN001,79.8,27.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40703,Male,Right,Parkinson's Disease,CLIN004,56.0,22.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40704,Female,Right,Parkinson's Disease,CLIN007,54.4,16.0,21.0,,0,0,0,0,0,1,Mild,Mild
+40707,Female,Right,Parkinson's Disease,CLIN006,68.3,26.0,21.0,,0,0,0,0,0,1,Mild,Mild
+40709,Female,Right,Parkinson's Disease,CLIN002,63.9,14.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40713,Female,Right,Parkinson's Disease,CLIN005,53.0,16.0,22.0,,0,0,0,0,0,1,Mild,Mild
+4072,Female,Right,Parkinson's Disease,CLIN007,57.2,25.0,30.0,,0,0,0,0,0,1,Mild,Normal
+4073,Female,Right,Parkinson's Disease,CLIN005,47.4,31.0,28.0,,0,0,0,0,0,1,Mild,Normal
+40731,Male,Right,Parkinson's Disease,CLIN001,32.2,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+40733,Female,Right,Parkinson's Disease,CLIN002,61.3,38.0,24.0,,0,0,0,0,0,1,Moderate,Mild
+40735,Male,Right,Parkinson's Disease,CLIN005,54.7,23.0,21.0,,0,0,0,0,0,1,Mild,Mild
+40737,Female,Right,Prodromal,CLIN002,33.7,7.0,19.5,,0,0,0,0,0,1,Mild,Mild
+4075,Female,Right,Parkinson's Disease,CLIN007,60.0,21.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40750,Male,Right,Parkinson's Disease,CLIN002,53.7,30.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40754,Female,Right,Parkinson's Disease,CLIN003,55.1,19.5,29.5,,0,0,0,0,0,1,Mild,Normal
+40755,Male,Right,Parkinson's Disease,CLIN001,54.0,49.0,19.0,,0,0,0,0,0,1,Moderate,Mild
+40756,Female,Right,Parkinson's Disease,CLIN007,47.2,9.0,30.0,,0,0,0,0,0,1,Mild,Normal
+40758,Female,Right,Prodromal,CLIN002,44.7,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+40759,Female,Right,Prodromal,CLIN005,43.9,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40760,Female,Right,Parkinson's Disease,CLIN002,51.1,21.0,26.5,,0,0,0,0,0,1,Mild,Normal
+40767,Male,Right,Parkinson's Disease,CLIN005,48.2,29.5,24.0,,0,0,0,0,0,1,Mild,Mild
+40769,Unknown,Right,Parkinson's Disease,CLIN004,47.8,23.0,25.0,,1,0,0,0,0,1,Mild,Mild
+4077,Male,Right,Parkinson's Disease,CLIN003,48.2,30.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40771,Male,Right,Parkinson's Disease,CLIN001,50.5,33.0,10.0,,0,0,0,0,0,1,Moderate,Moderate
+40772,Male,Right,Parkinson's Disease,CLIN005,46.2,35.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+40774,Male,Right,Parkinson's Disease,CLIN001,54.6,7.0,22.0,,0,0,0,0,0,1,Mild,Mild
+40776,Unknown,Right,Parkinson's Disease,CLIN002,49.4,21.0,24.0,,1,0,0,0,0,1,Mild,Mild
+40778,Female,Right,Parkinson's Disease,CLIN001,40.5,11.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40779,Female,Right,Parkinson's Disease,CLIN003,37.8,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40781,Male,Right,Parkinson's Disease,CLIN001,49.7,25.0,27.0,,0,0,0,0,0,1,Mild,Normal
+40789,Female,Right,Parkinson's Disease,CLIN004,75.3,24.0,20.0,,0,0,0,0,0,1,Mild,Mild
+4081,Male,Left,Parkinson's Disease,CLIN002,71.4,53.0,25.0,674544.0,0,0,0,0,0,0,Moderate,Mild
+4082,Male,Left,Parkinson's Disease,CLIN007,66.0,18.0,26.0,704555.0,0,0,0,0,0,0,Mild,Normal
+4083,Male,Right,Parkinson's Disease,CLIN006,45.9,18.0,29.0,838350.0,0,0,0,0,0,0,Mild,Normal
+40882,Female,Right,Parkinson's Disease,CLIN007,61.7,12.0,29.0,,0,0,0,0,0,1,Mild,Normal
+40893,Male,Right,Parkinson's Disease,CLIN006,69.9,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+4092,Female,Right,Parkinson's Disease,CLIN003,77.0,25.0,24.0,,0,0,0,0,0,1,Mild,Mild
+40922,Male,Left,Prodromal,CLIN004,71.5,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+4093,Female,Right,Parkinson's Disease,CLIN006,51.3,16.0,27.0,,0,0,0,0,0,1,Mild,Normal
+4094,Female,Right,Parkinson's Disease,CLIN002,77.2,27.0,18.0,,0,0,0,0,0,1,Mild,Mild
+4099,Female,Right,Parkinson's Disease,CLIN002,59.6,16.0,27.0,,0,0,0,0,0,1,Mild,Normal
+4101,Female,Right,Parkinson's Disease,CLIN007,66.6,23.0,24.0,,0,0,0,0,0,1,Mild,Mild
+4103,Male,Unknown,Parkinson's Disease,CLIN002,59.0,14.0,24.0,,0,1,0,0,0,1,Mild,Mild
+4106,Male,Right,Parkinson's Disease,CLIN002,72.0,26.0,22.0,,0,0,0,0,0,1,Mild,Mild
+4107,Male,Unknown,Parkinson's Disease,CLIN002,70.6,38.0,21.0,,0,1,0,0,0,1,Moderate,Mild
+4112,Male,Right,Parkinson's Disease,CLIN006,53.5,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+4113,Female,Left,Parkinson's Disease,CLIN007,33.7,21.0,24.0,,0,0,0,0,0,1,Mild,Mild
+41184,Male,Right,Parkinson's Disease,CLIN007,73.0,18.0,28.0,,0,0,0,0,0,1,Mild,Normal
+4122,Male,Right,Parkinson's Disease,CLIN003,64.0,21.0,25.0,,0,0,0,0,0,1,Mild,Mild
+4124,Male,Right,Parkinson's Disease,CLIN001,71.1,40.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+4125,Male,Right,Parkinson's Disease,CLIN005,64.0,42.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+4126,Male,Right,Parkinson's Disease,CLIN004,55.7,36.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+41280,Female,Right,Parkinson's Disease,CLIN003,61.2,24.0,29.0,,0,0,0,0,0,1,Mild,Normal
+41281,Male,Left,Parkinson's Disease,CLIN001,43.0,8.0,30.0,,0,0,0,0,0,1,Mild,Normal
+41282,Female,Right,Parkinson's Disease,CLIN006,55.7,15.0,28.0,,0,0,0,0,0,1,Mild,Normal
+41283,Male,Right,Prodromal,CLIN001,51.7,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+41284,Female,Right,Prodromal,CLIN001,54.6,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+41285,Female,Right,Parkinson's Disease,CLIN006,67.4,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+41286,Male,Right,Prodromal,CLIN004,72.7,20.0,17.0,,0,0,0,0,0,1,Mild,Moderate
+41287,Male,Right,Parkinson's Disease,CLIN001,70.4,31.0,26.0,,0,0,0,0,0,1,Mild,Normal
+41288,Female,Right,Parkinson's Disease,CLIN006,65.9,9.0,19.0,,0,0,0,0,0,1,Mild,Mild
+41291,Male,Right,Parkinson's Disease,CLIN003,33.7,13.0,28.0,,0,0,0,0,0,1,Mild,Normal
+41292,Male,Unknown,Prodromal,CLIN001,53.8,3.0,23.0,,0,1,0,0,0,1,Mild,Mild
+41294,Female,Mixed,Parkinson's Disease,CLIN004,67.0,15.0,17.0,,0,0,0,0,0,1,Mild,Moderate
+41295,Female,Unknown,Parkinson's Disease,CLIN005,50.1,17.0,27.0,,0,1,0,0,0,1,Mild,Normal
+41307,Female,Left,Prodromal,CLIN007,52.7,0.0,25.5,,0,0,0,0,0,1,Mild,Mild
+41314,Female,Right,Parkinson's Disease,CLIN004,65.1,22.5,23.0,,0,0,0,0,0,1,Mild,Mild
+41343,Male,Right,Prodromal,CLIN007,73.9,2.0,23.0,,0,0,0,0,0,1,Mild,Mild
+41356,Male,Right,Parkinson's Disease,CLIN004,71.2,27.0,25.0,,0,0,0,0,0,1,Mild,Mild
+41358,Male,Right,Parkinson's Disease,CLIN003,56.1,25.0,27.0,,0,0,0,0,0,1,Mild,Normal
+41364,Female,Right,Prodromal,CLIN002,58.7,9.0,21.0,,0,0,0,0,0,1,Mild,Mild
+41382,Male,Right,Parkinson's Disease,CLIN003,59.2,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+41384,Unknown,Right,Parkinson's Disease,CLIN004,61.5,21.0,25.0,,1,0,0,0,0,1,Mild,Mild
+41399,Female,Right,Parkinson's Disease,CLIN001,48.8,23.0,30.0,,0,0,0,0,0,1,Mild,Normal
+41400,Unknown,Right,Parkinson's Disease,CLIN004,49.6,23.0,10.0,,1,0,0,0,0,1,Mild,Moderate
+41401,Unknown,Unknown,Parkinson's Disease,CLIN003,38.1,7.0,29.0,,0,1,0,0,0,1,Mild,Normal
+41405,Male,Right,Parkinson's Disease,CLIN005,63.0,19.0,27.0,,0,0,0,0,0,1,Mild,Normal
+41411,Male,Mixed,Parkinson's Disease,CLIN005,41.8,14.0,16.0,,0,0,0,0,0,1,Mild,Moderate
+41412,Female,Right,Parkinson's Disease,CLIN007,45.1,24.0,25.0,,0,0,0,0,0,1,Mild,Mild
+41430,Male,Unknown,Parkinson's Disease,CLIN007,51.7,22.0,28.0,,0,1,0,0,0,1,Mild,Normal
+41432,Female,Right,Parkinson's Disease,CLIN005,49.7,24.0,23.0,,0,0,0,0,0,1,Mild,Mild
+41437,Unknown,Left,Parkinson's Disease,CLIN005,53.8,12.0,29.0,,1,0,0,0,0,1,Mild,Normal
+41471,Male,Left,Prodromal,CLIN002,50.4,9.5,25.0,,0,0,0,0,0,1,Mild,Mild
+41473,Male,Right,Prodromal,CLIN007,60.2,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+41513,Male,Right,Prodromal,CLIN005,50.1,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+41521,Female,Right,Parkinson's Disease,CLIN007,71.4,15.0,23.0,,0,0,0,0,0,1,Mild,Mild
+41526,Male,Right,Prodromal,CLIN003,73.2,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+41529,Female,Right,Prodromal,CLIN002,50.4,9.0,26.0,,0,0,0,0,0,1,Mild,Normal
+41562,Female,Right,Prodromal,CLIN004,60.8,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+41578,Female,Right,Parkinson's Disease,CLIN002,68.7,22.0,15.0,,0,0,0,0,0,1,Mild,Moderate
+41749,Female,Right,Parkinson's Disease,CLIN001,59.2,30.5,26.0,,0,0,0,0,0,1,Mild,Normal
+41801,Unknown,Right,Parkinson's Disease,CLIN006,80.2,14.0,24.0,,1,0,0,0,0,1,Mild,Mild
+41829,Male,Right,Parkinson's Disease,CLIN007,70.1,22.5,26.0,,0,0,0,0,0,1,Mild,Normal
+41967,Male,Mixed,Parkinson's Disease,CLIN002,51.2,12.0,22.0,,0,0,0,0,0,1,Mild,Mild
+41985,Male,Right,Parkinson's Disease,CLIN002,55.8,30.0,23.0,,0,0,0,0,0,1,Mild,Mild
+41989,Female,Left,Parkinson's Disease,CLIN003,43.1,22.0,28.0,,0,0,0,0,0,1,Mild,Normal
+41992,Male,Right,Prodromal,CLIN002,52.8,8.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42000,Male,Right,Prodromal,CLIN005,61.4,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42006,Female,Right,Prodromal,CLIN006,55.8,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+42009,Male,Right,Parkinson's Disease,CLIN005,71.2,17.0,30.0,,0,0,0,0,0,1,Mild,Normal
+42011,Female,Right,Prodromal,CLIN001,63.1,4.0,29.5,,0,0,0,0,0,1,Mild,Normal
+42012,Male,Right,Prodromal,CLIN006,60.3,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+42024,Male,Right,Prodromal,CLIN001,64.3,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42121,Male,Right,Prodromal,CLIN004,68.9,14.0,17.0,,0,0,0,0,0,1,Mild,Moderate
+42123,Female,Mixed,Prodromal,CLIN006,61.5,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42126,Female,Right,Prodromal,CLIN004,53.9,7.0,22.0,,0,0,0,0,0,1,Mild,Mild
+42128,Male,Right,Prodromal,CLIN007,60.6,13.5,27.0,,0,0,0,0,0,1,Mild,Normal
+42133,Male,Right,Prodromal,CLIN003,61.0,0.0,22.0,,0,0,0,0,0,1,Mild,Mild
+42161,Female,Right,Prodromal,CLIN007,56.3,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+42168,Female,Right,Prodromal,CLIN002,49.1,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+42171,Male,Left,Parkinson's Disease,CLIN002,46.1,28.0,27.0,,0,0,0,0,0,1,Mild,Normal
+42272,Female,Right,Prodromal,CLIN005,55.3,3.5,30.0,,0,0,0,0,0,1,Mild,Normal
+42293,Male,Right,Parkinson's Disease,CLIN005,43.9,5.0,29.0,,0,0,0,0,0,1,Mild,Normal
+42306,Male,Unknown,Prodromal,CLIN002,55.6,8.0,27.0,,0,1,0,0,0,1,Mild,Normal
+42346,Male,Right,Parkinson's Disease,CLIN006,55.6,24.5,26.0,,0,0,0,0,0,1,Mild,Normal
+42347,Female,Right,Parkinson's Disease,CLIN002,78.0,28.0,26.0,,0,0,0,0,0,1,Mild,Normal
+42351,Male,Right,Parkinson's Disease,CLIN004,49.7,23.5,26.0,,0,0,0,0,0,1,Mild,Normal
+42378,Unknown,Right,Parkinson's Disease,CLIN005,35.1,6.0,30.0,,1,0,0,0,0,1,Mild,Normal
+42381,Unknown,Right,Prodromal,CLIN001,69.2,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+42396,Female,Right,Parkinson's Disease,CLIN007,29.7,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42407,Female,Right,Parkinson's Disease,CLIN001,59.7,16.0,26.0,,0,0,0,0,0,1,Mild,Normal
+42411,Female,Right,Parkinson's Disease,CLIN003,51.2,13.0,27.0,,0,0,0,0,0,1,Mild,Normal
+42412,Female,Right,Parkinson's Disease,CLIN005,56.2,13.0,25.0,,0,0,0,0,0,1,Mild,Mild
+42415,Unknown,Right,Parkinson's Disease,CLIN006,69.4,10.0,20.0,,1,0,0,0,0,1,Mild,Mild
+42418,Female,Right,Parkinson's Disease,CLIN001,67.4,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+42422,Male,Right,Prodromal,CLIN007,58.3,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+42426,Male,Right,Prodromal,CLIN004,65.4,6.0,21.0,,0,0,0,0,0,1,Mild,Mild
+42429,Female,Unknown,Parkinson's Disease,CLIN001,68.2,15.0,28.0,,0,1,0,0,0,1,Mild,Normal
+42443,Male,Right,Prodromal,CLIN001,58.9,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+42445,Male,Right,Prodromal,CLIN005,71.3,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+42448,Female,Unknown,Parkinson's Disease,CLIN004,63.3,39.0,25.0,,0,1,0,0,0,1,Moderate,Mild
+42453,Female,Right,Parkinson's Disease,CLIN007,68.1,54.0,15.0,,0,0,0,0,0,1,Moderate,Moderate
+42456,Male,Right,Parkinson's Disease,CLIN006,66.4,13.0,26.0,,0,0,0,0,0,1,Mild,Normal
+42457,Female,Right,Prodromal,CLIN005,51.3,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+43045,Unknown,Right,Parkinson's Disease,CLIN004,43.9,24.0,28.0,,1,0,0,0,0,1,Mild,Normal
+43046,Female,Right,Parkinson's Disease,CLIN001,61.0,25.0,30.0,,0,0,0,0,0,1,Mild,Normal
+43047,Male,Right,Parkinson's Disease,CLIN002,71.6,54.0,13.0,,0,0,0,0,0,1,Moderate,Moderate
+43085,Female,Right,Prodromal,CLIN006,28.6,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+43086,Female,Right,Parkinson's Disease,CLIN007,48.4,15.0,30.0,,0,0,0,0,0,1,Mild,Normal
+50009,Female,Right,Prodromal,CLIN007,68.5,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+5002,Male,Left,Parkinson's Disease,CLIN004,65.6,40.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+50027,Male,Right,Parkinson's Disease,CLIN001,63.8,27.0,29.0,,0,0,0,0,0,1,Mild,Normal
+50028,Female,Right,Parkinson's Disease,CLIN005,63.2,15.0,29.5,,0,0,0,0,0,1,Mild,Normal
+5003,Male,Right,Parkinson's Disease,CLIN001,66.3,17.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50044,Female,Right,Parkinson's Disease,CLIN006,58.0,10.0,30.0,,0,0,0,0,0,1,Mild,Normal
+5006,Male,Right,Parkinson's Disease,CLIN004,71.5,29.0,21.0,,0,0,0,0,0,1,Mild,Mild
+5007,Male,Right,Parkinson's Disease,CLIN003,66.4,20.0,25.0,,0,0,0,0,0,1,Mild,Mild
+50088,Female,Right,Parkinson's Disease,CLIN007,63.5,20.0,30.0,,0,0,0,0,0,1,Mild,Normal
+5009,Female,Right,Parkinson's Disease,CLIN007,76.5,37.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+5011,Female,Right,Parkinson's Disease,CLIN002,68.5,41.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+50110,Male,Right,Prodromal,CLIN001,56.0,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+5013,Male,Left,Parkinson's Disease,CLIN007,57.1,9.0,26.5,,0,0,0,0,0,1,Mild,Normal
+50143,Female,Right,Prodromal,CLIN003,64.4,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+5017,Female,Right,Parkinson's Disease,CLIN001,61.9,9.0,24.5,,0,0,0,0,0,1,Mild,Mild
+50172,Female,Right,Prodromal,CLIN004,65.0,7.0,26.0,,0,0,0,0,0,1,Mild,Normal
+50184,Female,Right,Prodromal,CLIN006,57.8,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50192,Male,Left,Parkinson's Disease,CLIN004,62.0,28.5,26.5,,0,0,0,0,0,1,Mild,Normal
+50195,Female,Right,Parkinson's Disease,CLIN004,71.8,19.0,23.0,,0,0,0,0,0,1,Mild,Mild
+50222,Female,Right,Prodromal,CLIN002,51.2,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50225,Male,Right,Prodromal,CLIN004,52.9,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+50275,Female,Right,Prodromal,CLIN004,54.5,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+50319,Male,Left,Parkinson's Disease,CLIN002,53.1,16.0,24.0,,0,0,0,0,0,1,Mild,Mild
+50379,Male,Unknown,Prodromal,CLIN004,67.5,6.0,22.0,,0,1,0,0,0,1,Mild,Mild
+50455,Male,Right,Prodromal,CLIN004,67.6,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+50462,Female,Right,Prodromal,CLIN004,63.4,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50509,Female,Left,Parkinson's Disease,CLIN001,62.9,36.5,28.0,,0,0,0,0,0,1,Moderate,Normal
+50557,Male,Right,Prodromal,CLIN004,66.7,15.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50621,Male,Right,Parkinson's Disease,CLIN006,59.8,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+50670,Female,Left,Prodromal,CLIN007,53.1,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+50746,Female,Right,Parkinson's Disease,CLIN001,66.5,12.0,29.0,,0,0,0,0,0,1,Mild,Normal
+50829,Female,Right,Parkinson's Disease,CLIN001,72.7,26.0,24.0,,0,0,0,0,0,1,Mild,Mild
+50860,Male,Right,Parkinson's Disease,CLIN001,69.1,25.0,29.0,,0,0,0,0,0,1,Mild,Normal
+51186,Unknown,Unknown,Parkinson's Disease,CLIN004,66.3,38.0,25.0,,1,1,0,0,0,1,Moderate,Mild
+51247,Female,Left,Prodromal,CLIN005,55.6,2.5,30.0,,0,0,0,0,0,1,Mild,Normal
+51252,Female,Left,Parkinson's Disease,CLIN006,65.1,19.0,29.0,,0,0,0,0,0,1,Mild,Normal
+51330,Female,Right,Prodromal,CLIN006,63.0,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+51441,Male,Unknown,Prodromal,CLIN005,61.5,3.0,27.0,,0,1,0,0,0,1,Mild,Normal
+51518,Female,Unknown,Parkinson's Disease,CLIN001,63.0,5.0,29.0,,0,1,0,0,0,1,Mild,Normal
+51540,Female,Right,Prodromal,CLIN002,54.5,18.0,25.0,,0,0,0,0,0,1,Mild,Mild
+51551,Female,Right,Parkinson's Disease,CLIN006,52.3,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+51625,Female,Unknown,Parkinson's Disease,CLIN003,53.6,15.0,27.0,,0,1,0,0,0,1,Mild,Normal
+51632,Female,Right,Parkinson's Disease,CLIN005,62.9,23.0,28.0,,0,0,0,0,0,1,Mild,Normal
+51675,Male,Right,Prodromal,CLIN005,59.8,15.0,29.0,,0,0,0,0,0,1,Mild,Normal
+51680,Female,Right,Prodromal,CLIN007,46.9,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+51689,Unknown,Right,Prodromal,CLIN001,76.3,7.0,27.0,,1,0,0,0,0,1,Mild,Normal
+51714,Female,Right,Prodromal,CLIN006,63.2,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+51746,Female,Right,Prodromal,CLIN002,61.6,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+51755,Female,Right,Prodromal,CLIN007,65.3,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+51782,Female,Right,Prodromal,CLIN001,67.1,9.0,30.0,,0,0,0,0,0,1,Mild,Normal
+51800,Unknown,Left,Parkinson's Disease,CLIN003,71.8,41.0,23.0,,1,0,0,0,0,1,Moderate,Mild
+51867,Female,Right,Prodromal,CLIN002,64.6,23.0,25.0,,0,0,0,0,0,1,Mild,Mild
+51914,Female,Right,Parkinson's Disease,CLIN001,66.5,45.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+51971,Male,Unknown,Parkinson's Disease,CLIN006,66.5,33.0,24.0,,0,1,0,0,0,1,Moderate,Mild
+52006,Female,Right,Prodromal,CLIN003,59.5,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+52128,Male,Right,Parkinson's Disease,CLIN005,72.7,15.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52146,Male,Right,Parkinson's Disease,CLIN001,60.1,36.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+52200,Female,Left,Prodromal,CLIN002,65.2,10.0,28.0,,0,0,0,0,0,1,Mild,Normal
+52275,Female,Left,Prodromal,CLIN001,61.0,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52276,Female,Right,Prodromal,CLIN005,59.2,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52353,Female,Right,Prodromal,CLIN006,68.3,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+52355,Female,Right,Prodromal,CLIN004,66.1,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+52362,Male,Right,Prodromal,CLIN001,59.2,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+52400,Female,Right,Prodromal,CLIN005,72.2,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+52432,Female,Right,Prodromal,CLIN005,53.9,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+52517,Female,Right,Prodromal,CLIN003,63.0,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+52523,Male,Right,Prodromal,CLIN007,68.8,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52524,Male,Right,Prodromal,CLIN005,70.4,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+52530,Male,Right,Parkinson's Disease,CLIN005,68.3,10.5,28.0,,0,0,0,0,0,1,Mild,Normal
+52543,Male,Mixed,Prodromal,CLIN005,58.1,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+52563,Male,Mixed,Prodromal,CLIN002,51.0,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52587,Male,Right,Prodromal,CLIN002,67.6,6.0,25.0,,0,0,0,0,0,1,Mild,Mild
+52634,Female,Left,Prodromal,CLIN001,54.5,0.5,27.0,,0,0,0,0,0,1,Mild,Normal
+52748,Female,Right,Prodromal,CLIN006,52.3,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+52752,Female,Left,Prodromal,CLIN001,56.3,5.5,27.5,,0,0,0,0,0,1,Mild,Normal
+52783,Female,Unknown,Prodromal,CLIN006,60.5,4.0,26.0,,0,1,0,0,0,1,Mild,Normal
+52828,Male,Right,Prodromal,CLIN003,75.0,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+52854,Unknown,Left,Prodromal,CLIN005,69.0,2.0,25.0,,1,0,0,0,0,1,Mild,Mild
+52872,Female,Left,Prodromal,CLIN004,62.5,5.0,22.0,,0,0,0,0,0,1,Mild,Mild
+52874,Female,Right,Prodromal,CLIN006,52.6,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+52888,Female,Left,Prodromal,CLIN001,64.0,9.0,26.0,,0,0,0,0,0,1,Mild,Normal
+52927,Male,Right,Prodromal,CLIN001,67.2,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+52932,Female,Right,Prodromal,CLIN002,74.0,15.0,18.0,,0,0,0,0,0,1,Mild,Mild
+52948,Female,Left,Prodromal,CLIN004,66.6,5.0,21.0,,0,0,0,0,0,1,Mild,Mild
+53033,Female,Right,Prodromal,CLIN002,53.7,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+53044,Female,Right,Prodromal,CLIN002,57.8,7.5,24.0,,0,0,0,0,0,1,Mild,Mild
+53054,Female,Right,Prodromal,CLIN002,65.3,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+53113,Male,Right,Prodromal,CLIN006,63.3,0.0,27.5,,0,0,0,0,0,1,Mild,Normal
+53258,Female,Right,Prodromal,CLIN003,61.1,4.5,30.0,,0,0,0,0,0,1,Mild,Normal
+53310,Female,Right,Prodromal,CLIN002,56.9,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+53340,Female,Left,Prodromal,CLIN001,59.0,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+53423,Male,Right,Prodromal,CLIN006,59.3,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+53518,Female,Right,Prodromal,CLIN004,63.7,14.0,20.0,,0,0,0,0,0,1,Mild,Mild
+53519,Female,Right,Prodromal,CLIN005,67.5,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+53600,Male,Right,Parkinson's Disease,CLIN006,62.8,38.0,26.0,,0,0,0,0,0,1,Moderate,Normal
+53677,Female,Right,Prodromal,CLIN003,63.3,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+53866,Male,Left,Prodromal,CLIN001,70.2,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+53925,Male,Right,Prodromal,CLIN001,60.7,1.0,26.0,,0,0,0,0,0,1,Mild,Normal
+53988,Male,Right,Parkinson's Disease,CLIN007,55.6,35.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+54110,Female,Mixed,Prodromal,CLIN007,59.5,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+54144,Male,Right,Parkinson's Disease,CLIN007,64.6,20.0,26.0,,0,0,0,0,0,1,Mild,Normal
+54166,Female,Right,Prodromal,CLIN006,61.0,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+54197,Male,Right,Parkinson's Disease,CLIN003,67.8,12.0,27.0,,0,0,0,0,0,1,Mild,Normal
+54198,Female,Right,Prodromal,CLIN003,53.5,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+54262,Male,Left,Prodromal,CLIN006,71.3,4.0,29.0,,0,0,0,0,0,1,Mild,Normal
+54266,Female,Right,Prodromal,CLIN002,61.5,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+54391,Female,Right,Prodromal,CLIN002,62.6,12.0,23.0,,0,0,0,0,0,1,Mild,Mild
+54446,Unknown,Right,Prodromal,CLIN006,51.8,0.0,27.0,,1,0,0,0,0,1,Mild,Normal
+54908,Unknown,Right,Prodromal,CLIN003,64.5,0.0,29.0,,1,0,0,0,0,1,Mild,Normal
+54991,Male,Right,Prodromal,CLIN004,59.6,10.0,24.5,,0,0,0,0,0,1,Mild,Mild
+55031,Female,Right,Prodromal,CLIN001,62.3,2.0,29.5,,0,0,0,0,0,1,Mild,Normal
+55098,Male,Right,Prodromal,CLIN001,67.0,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+55124,Female,Right,Parkinson's Disease,CLIN007,59.3,24.0,30.0,,0,0,0,0,0,1,Mild,Normal
+55151,Male,Right,Prodromal,CLIN004,65.2,33.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+55395,Female,Right,Parkinson's Disease,CLIN001,66.9,40.0,29.0,,0,0,0,0,0,1,Moderate,Normal
+55468,Female,Right,Parkinson's Disease,CLIN005,51.6,11.0,24.0,,0,0,0,0,0,1,Mild,Mild
+55577,Male,Right,Prodromal,CLIN001,61.7,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+55615,Female,Right,Parkinson's Disease,CLIN002,54.6,30.0,27.0,,0,0,0,0,0,1,Mild,Normal
+55822,Male,Mixed,Prodromal,CLIN004,50.9,11.0,22.0,,0,0,0,0,0,1,Mild,Mild
+55842,Male,Right,Prodromal,CLIN004,58.7,15.0,24.0,,0,0,0,0,0,1,Mild,Mild
+55984,Male,Right,Prodromal,CLIN002,58.8,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+56048,Male,Right,Prodromal,CLIN006,63.8,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+56126,Female,Left,Prodromal,CLIN005,56.6,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+56136,Male,Right,Prodromal,CLIN002,54.7,9.0,24.0,,0,0,0,0,0,1,Mild,Mild
+56184,Male,Unknown,Prodromal,CLIN003,63.9,4.0,28.0,,0,1,0,0,0,1,Mild,Normal
+56491,Male,Mixed,Prodromal,CLIN007,78.8,9.0,28.0,,0,0,0,0,0,1,Mild,Normal
+56492,Female,Left,Prodromal,CLIN001,65.9,7.0,29.0,,0,0,0,0,0,1,Mild,Normal
+56558,Female,Right,Parkinson's Disease,CLIN007,56.7,21.5,24.5,,0,0,0,0,0,1,Mild,Mild
+56571,Male,Left,Prodromal,CLIN007,65.8,3.0,26.0,,0,0,0,0,0,1,Mild,Normal
+56582,Male,Right,Prodromal,CLIN007,53.6,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+56680,Male,Right,Prodromal,CLIN006,65.3,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+56706,Male,Right,Prodromal,CLIN004,63.1,12.0,22.0,,0,0,0,0,0,1,Mild,Mild
+56744,Male,Right,Parkinson's Disease,CLIN004,55.7,41.0,21.0,,0,0,0,0,0,1,Moderate,Mild
+56800,Female,Right,Prodromal,CLIN003,55.9,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+56807,Female,Right,Prodromal,CLIN005,51.5,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+57037,Female,Right,Parkinson's Disease,CLIN005,54.1,8.0,29.0,,0,0,0,0,0,1,Mild,Normal
+57234,Female,Unknown,Prodromal,CLIN005,68.7,1.0,27.0,,0,1,0,0,0,1,Mild,Normal
+57277,Male,Right,Prodromal,CLIN002,61.4,6.0,20.0,,0,0,0,0,0,1,Mild,Mild
+57292,Female,Right,Prodromal,CLIN004,70.8,10.0,24.0,,0,0,0,0,0,1,Mild,Mild
+57398,Female,Right,Prodromal,CLIN006,54.8,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+57447,Male,Right,Prodromal,CLIN005,71.0,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+57500,Female,Right,Prodromal,CLIN001,62.6,0.0,22.0,,0,0,0,0,0,1,Mild,Mild
+57605,Female,Right,Prodromal,CLIN005,65.1,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+57670,Female,Right,Prodromal,CLIN001,63.4,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+57714,Female,Left,Prodromal,CLIN004,57.3,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+57813,Female,Right,Parkinson's Disease,CLIN002,53.0,22.0,25.0,,0,0,0,0,0,1,Mild,Mild
+57869,Male,Right,Parkinson's Disease,CLIN001,32.3,30.0,24.5,,0,0,0,0,0,1,Mild,Mild
+57946,Female,Right,Prodromal,CLIN005,57.3,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+57965,Male,Right,Prodromal,CLIN001,54.5,4.0,24.0,,0,0,0,0,0,1,Mild,Mild
+58026,Female,Right,Prodromal,CLIN002,65.4,6.0,20.0,,0,0,0,0,0,1,Mild,Mild
+58027,Male,Right,Prodromal,CLIN001,38.0,1.0,28.5,,0,0,0,0,0,1,Mild,Normal
+58070,Female,Right,Prodromal,CLIN001,66.4,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+58074,Female,Right,Prodromal,CLIN006,54.3,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+58099,Male,Right,Prodromal,CLIN007,61.3,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+58111,Female,Right,Prodromal,CLIN006,51.1,3.0,25.0,,0,0,0,0,0,1,Mild,Mild
+58138,Male,Right,Prodromal,CLIN003,52.3,2.5,28.5,,0,0,0,0,0,1,Mild,Normal
+58141,Female,Right,Parkinson's Disease,CLIN007,74.5,45.0,23.0,,0,0,0,0,0,1,Moderate,Mild
+58164,Male,Right,Prodromal,CLIN005,57.5,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+58221,Female,Right,Prodromal,CLIN002,50.7,6.0,28.0,,0,0,0,0,0,1,Mild,Normal
+58224,Female,Right,Prodromal,CLIN004,59.7,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+58327,Male,Right,Prodromal,CLIN001,55.2,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+58431,Male,Right,Parkinson's Disease,CLIN004,76.7,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+58438,Male,Right,Parkinson's Disease,CLIN007,75.2,47.0,19.0,,0,0,0,0,0,1,Moderate,Mild
+58454,Male,Right,Parkinson's Disease,CLIN007,66.4,31.5,27.0,,0,0,0,0,0,1,Mild,Normal
+58510,Male,Right,Parkinson's Disease,CLIN007,67.5,26.0,24.0,,0,0,0,0,0,1,Mild,Mild
+58550,Male,Right,Parkinson's Disease,CLIN006,72.9,13.0,22.5,,0,0,0,0,0,1,Mild,Mild
+58653,Female,Right,Prodromal,CLIN006,64.0,2.0,27.5,,0,0,0,0,0,1,Mild,Normal
+58671,Male,Right,Parkinson's Disease,CLIN002,68.4,24.5,22.0,,0,0,0,0,0,1,Mild,Mild
+58680,Female,Right,Prodromal,CLIN004,55.1,8.0,28.0,,0,0,0,0,0,1,Mild,Normal
+58716,Female,Mixed,Prodromal,CLIN006,56.6,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+58721,Female,Right,Prodromal,CLIN002,51.6,8.0,22.5,,0,0,0,0,0,1,Mild,Mild
+58843,Male,Right,Prodromal,CLIN006,54.5,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+58909,Male,Right,Prodromal,CLIN003,68.5,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+58916,Female,Right,Prodromal,CLIN007,64.0,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+58990,Female,Right,Prodromal,CLIN003,66.2,4.0,25.0,,0,0,0,0,0,1,Mild,Mild
+59152,Female,Right,Prodromal,CLIN003,51.8,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+59174,Female,Right,Prodromal,CLIN004,61.6,6.0,26.0,,0,0,0,0,0,1,Mild,Normal
+59178,Female,Right,Prodromal,CLIN005,61.5,0.0,24.0,,0,0,0,0,0,1,Mild,Mild
+59293,Unknown,Left,Prodromal,CLIN002,66.3,14.0,22.0,,1,0,0,0,0,1,Mild,Mild
+59398,Male,Right,Parkinson's Disease,CLIN003,66.7,24.0,20.0,,0,0,0,0,0,1,Mild,Mild
+59466,Male,Right,Prodromal,CLIN001,57.7,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+59503,Female,Right,Prodromal,CLIN005,50.8,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+59539,Unknown,Right,Prodromal,CLIN002,54.8,7.0,20.0,,1,0,0,0,0,1,Mild,Mild
+59552,Unknown,Left,Prodromal,CLIN001,57.9,0.0,26.0,,1,0,0,0,0,1,Mild,Normal
+59558,Female,Right,Prodromal,CLIN001,73.5,2.0,25.0,,0,0,0,0,0,1,Mild,Mild
+59649,Male,Right,Parkinson's Disease,CLIN002,69.6,20.5,20.0,,0,0,0,0,0,1,Mild,Mild
+59724,Female,Right,Parkinson's Disease,CLIN006,67.4,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+59797,Female,Right,Prodromal,CLIN001,61.1,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+59866,Male,Right,Prodromal,CLIN001,56.3,5.0,26.0,,0,0,0,0,0,1,Mild,Normal
+59869,Female,Right,Prodromal,CLIN005,64.2,4.0,28.0,,0,0,0,0,0,1,Mild,Normal
+60003,Male,Right,Prodromal,CLIN001,70.8,2.0,26.0,,0,0,0,0,0,1,Mild,Normal
+60006,Male,Right,Prodromal,CLIN003,81.8,9.0,27.0,,0,0,0,0,0,1,Mild,Normal
+60013,Male,Unknown,Prodromal,CLIN005,61.8,13.0,29.0,,0,1,0,0,0,1,Mild,Normal
+60035,Male,Right,Prodromal,CLIN003,66.5,2.0,27.0,,0,0,0,0,0,1,Mild,Normal
+60036,Female,Right,Prodromal,CLIN002,70.8,7.0,22.0,,0,0,0,0,0,1,Mild,Mild
+60048,Female,Mixed,Prodromal,CLIN003,74.5,15.0,19.0,,0,0,0,0,0,1,Mild,Mild
+60056,Male,Right,Prodromal,CLIN001,70.3,11.5,23.0,,0,0,0,0,0,1,Mild,Mild
+60057,Male,Right,Prodromal,CLIN001,61.2,8.0,23.0,,0,0,0,0,0,1,Mild,Mild
+60059,Male,Mixed,Prodromal,CLIN006,70.8,5.0,24.5,,0,0,0,0,0,1,Mild,Mild
+60060,Female,Right,Prodromal,CLIN005,65.7,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+60063,Male,Right,Prodromal,CLIN006,71.3,5.0,13.0,,0,0,0,0,0,1,Mild,Moderate
+60065,Female,Right,Prodromal,CLIN006,65.6,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+60073,Male,Right,Prodromal,CLIN006,65.4,5.0,28.0,,0,0,0,0,0,1,Mild,Normal
+60075,Male,Right,Prodromal,CLIN006,66.4,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+60100,Female,Right,Prodromal,CLIN003,65.9,4.0,18.0,,0,0,0,0,0,1,Mild,Mild
+60101,Male,Right,Prodromal,CLIN007,67.3,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+60107,Male,Right,Prodromal,CLIN002,67.2,13.0,24.0,,0,0,0,0,0,1,Mild,Mild
+60108,Male,Right,Prodromal,CLIN004,76.6,9.0,9.0,,0,0,0,0,0,1,Mild,Severe
+60148,Male,Right,Prodromal,CLIN003,66.5,1.0,24.0,,0,0,0,0,0,1,Mild,Mild
+65002,Unknown,Right,Prodromal,CLIN006,61.9,0.0,28.0,,1,0,0,0,0,1,Mild,Normal
+70035,Female,Right,Prodromal,CLIN001,71.0,10.0,19.0,,0,0,0,0,0,1,Mild,Mild
+70067,Female,Right,Prodromal,CLIN004,70.8,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+70087,Female,Left,Prodromal,CLIN001,63.8,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+70106,Male,Right,Prodromal,CLIN004,61.7,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+70241,Male,Right,Prodromal,CLIN006,64.4,5.5,26.0,,0,0,0,0,0,1,Mild,Normal
+70345,Male,Right,Prodromal,CLIN005,50.4,5.0,26.5,,0,0,0,0,0,1,Mild,Normal
+70354,Male,Right,Parkinson's Disease,CLIN003,44.6,31.0,24.0,,0,0,0,0,0,1,Mild,Mild
+70453,Female,Right,Prodromal,CLIN005,49.7,4.0,30.0,,0,0,0,0,0,1,Mild,Normal
+70463,Male,Right,Parkinson's Disease,CLIN003,67.0,16.0,29.0,,0,0,0,0,0,1,Mild,Normal
+70630,Male,Right,Prodromal,CLIN001,59.4,5.0,27.0,,0,0,0,0,0,1,Mild,Normal
+70636,Unknown,Mixed,Prodromal,CLIN002,65.5,8.0,20.0,,1,0,0,0,0,1,Mild,Mild
+70645,Female,Right,Prodromal,CLIN002,62.2,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+70658,Male,Right,Prodromal,CLIN002,53.9,7.0,25.0,,0,0,0,0,0,1,Mild,Mild
+70659,Female,Right,Prodromal,CLIN004,48.5,7.0,28.0,,0,0,0,0,0,1,Mild,Normal
+70818,Male,Right,Parkinson's Disease,CLIN004,64.5,41.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+70991,Female,Right,Prodromal,CLIN007,57.6,4.0,26.0,,0,0,0,0,0,1,Mild,Normal
+71045,Male,Right,Prodromal,CLIN001,26.1,4.0,27.0,,0,0,0,0,0,1,Mild,Normal
+71093,Male,Right,Parkinson's Disease,CLIN001,61.2,6.0,22.0,,0,0,0,0,0,1,Mild,Mild
+71098,Male,Right,Prodromal,CLIN007,67.6,8.0,27.0,,0,0,0,0,0,1,Mild,Normal
+71107,Male,Right,Prodromal,CLIN006,47.9,1.0,23.0,,0,0,0,0,0,1,Mild,Mild
+71189,Male,Right,Parkinson's Disease,CLIN007,59.8,39.0,27.0,,0,0,0,0,0,1,Moderate,Normal
+71215,Female,Right,Prodromal,CLIN003,62.3,0.0,28.0,,0,0,0,0,0,1,Mild,Normal
+71236,Male,Right,Prodromal,CLIN006,71.1,11.0,27.0,,0,0,0,0,0,1,Mild,Normal
+71375,Female,Right,Prodromal,CLIN001,71.3,0.0,25.0,,0,0,0,0,0,1,Mild,Mild
+71394,Female,Right,Prodromal,CLIN006,50.5,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+71452,Female,Right,Prodromal,CLIN004,69.1,18.0,26.0,,0,0,0,0,0,1,Mild,Normal
+71494,Female,Right,Prodromal,CLIN002,53.8,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+71521,Male,Unknown,Prodromal,CLIN006,62.1,1.0,23.0,,0,1,0,0,0,1,Mild,Mild
+71658,Female,Left,Prodromal,CLIN005,61.0,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+71679,Male,Right,Prodromal,CLIN003,55.8,1.0,27.5,,0,0,0,0,0,1,Mild,Normal
+71935,Male,Right,Parkinson's Disease,CLIN001,65.4,39.5,24.0,,0,0,0,0,0,1,Moderate,Mild
+71978,Female,Right,Parkinson's Disease,CLIN006,72.1,22.0,20.5,,0,0,0,0,0,1,Mild,Mild
+72082,Female,Right,Prodromal,CLIN004,55.5,7.0,26.5,,0,0,0,0,0,1,Mild,Normal
+72083,Female,Mixed,Prodromal,CLIN005,67.9,1.0,10.0,,0,0,0,0,0,1,Mild,Moderate
+72110,Female,Right,Prodromal,CLIN003,58.6,1.0,30.0,,0,0,0,0,0,1,Mild,Normal
+72283,Male,Right,Prodromal,CLIN006,59.7,1.0,28.0,,0,0,0,0,0,1,Mild,Normal
+72352,Female,Right,Prodromal,CLIN004,70.7,12.0,23.0,,0,0,0,0,0,1,Mild,Mild
+72562,Female,Right,Prodromal,CLIN003,61.9,5.5,28.0,,0,0,0,0,0,1,Mild,Normal
+72651,Male,Right,Prodromal,CLIN005,61.1,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+72760,Female,Right,Prodromal,CLIN005,72.8,9.0,25.0,,0,0,0,0,0,1,Mild,Mild
+72791,Female,Unknown,Prodromal,CLIN003,56.0,1.0,30.0,,0,1,0,0,0,1,Mild,Normal
+72877,Male,Unknown,Prodromal,CLIN006,71.7,6.0,26.0,,0,1,0,0,0,1,Mild,Normal
+73115,Female,Left,Parkinson's Disease,CLIN004,65.4,17.0,26.0,,0,0,0,0,0,1,Mild,Normal
+73134,Female,Right,Prodromal,CLIN001,69.8,5.0,23.0,,0,0,0,0,0,1,Mild,Mild
+73192,Male,Right,Prodromal,CLIN005,61.5,3.5,26.0,,0,0,0,0,0,1,Mild,Normal
+73397,Male,Right,Prodromal,CLIN002,53.3,7.0,27.0,,0,0,0,0,0,1,Mild,Normal
+73467,Male,Right,Prodromal,CLIN002,66.8,10.0,26.0,,0,0,0,0,0,1,Mild,Normal
+73688,Unknown,Right,Prodromal,CLIN003,61.0,2.0,27.0,,1,0,0,0,0,1,Mild,Normal
+73787,Male,Right,Prodromal,CLIN006,59.3,2.0,30.0,,0,0,0,0,0,1,Mild,Normal
+73887,Male,Right,Parkinson's Disease,CLIN001,69.1,7.0,22.0,,0,0,0,0,0,1,Mild,Mild
+73935,Male,Right,Parkinson's Disease,CLIN007,48.8,11.0,23.0,,0,0,0,0,0,1,Mild,Mild
+73940,Unknown,Left,Prodromal,CLIN007,59.8,2.0,29.0,,1,0,0,0,0,1,Mild,Normal
+74000,Female,Right,Prodromal,CLIN007,66.2,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+74034,Female,Right,Parkinson's Disease,CLIN001,71.8,32.0,27.5,,0,0,0,0,0,1,Moderate,Normal
+74067,Female,Mixed,Parkinson's Disease,CLIN001,69.5,20.0,23.0,,0,0,0,0,0,1,Mild,Mild
+74158,Female,Right,Prodromal,CLIN001,63.0,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+74272,Female,Right,Prodromal,CLIN002,68.4,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+74303,Male,Right,Prodromal,CLIN006,49.6,1.0,29.0,,0,0,0,0,0,1,Mild,Normal
+74307,Female,Right,Prodromal,CLIN005,50.0,2.0,29.0,,0,0,0,0,0,1,Mild,Normal
+74375,Female,Right,Prodromal,CLIN003,58.6,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+74497,Female,Right,Prodromal,CLIN003,66.7,0.0,27.0,,0,0,0,0,0,1,Mild,Normal
+74544,Female,Right,Prodromal,CLIN006,68.8,0.0,26.0,,0,0,0,0,0,1,Mild,Normal
+74696,Male,Left,Prodromal,CLIN006,55.0,3.0,28.0,,0,0,0,0,0,1,Mild,Normal
+74739,Female,Right,Prodromal,CLIN003,58.1,10.0,22.0,,0,0,0,0,0,1,Mild,Mild
+74763,Female,Right,Prodromal,CLIN003,66.3,2.0,28.0,,0,0,0,0,0,1,Mild,Normal
+74977,Female,Right,Prodromal,CLIN007,53.7,11.0,27.0,,0,0,0,0,0,1,Mild,Normal
+75134,Female,Right,Prodromal,CLIN005,57.2,3.0,29.0,,0,0,0,0,0,1,Mild,Normal
+75403,Unknown,Right,Prodromal,CLIN004,67.0,9.0,28.0,,1,0,0,0,0,1,Mild,Normal
+75418,Female,Right,Prodromal,CLIN004,64.0,8.0,24.0,,0,0,0,0,0,1,Mild,Mild
+75419,Male,Right,Prodromal,CLIN005,56.0,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+75422,Male,Right,Prodromal,CLIN001,73.2,19.0,26.0,,0,0,0,0,0,1,Mild,Normal
+75426,Female,Right,Prodromal,CLIN005,59.0,5.0,25.0,,0,0,0,0,0,1,Mild,Mild
+75434,Female,Left,Prodromal,CLIN007,70.0,6.0,24.0,,0,0,0,0,0,1,Mild,Mild
+75440,Unknown,Right,Prodromal,CLIN001,49.5,6.0,24.0,,1,0,0,0,0,1,Mild,Mild
+75441,Female,Right,Prodromal,CLIN006,60.5,1.0,25.0,,0,0,0,0,0,1,Mild,Mild
+75447,Male,Left,Prodromal,CLIN004,63.6,9.5,24.0,,0,0,0,0,0,1,Mild,Mild
+75450,Female,Right,Prodromal,CLIN006,68.5,3.0,30.0,,0,0,0,0,0,1,Mild,Normal
+75465,Male,Right,Prodromal,CLIN002,56.0,9.5,25.0,,0,0,0,0,0,1,Mild,Mild
+75479,Female,Left,Prodromal,CLIN005,56.8,0.5,25.5,,0,0,0,0,0,1,Mild,Mild
+75480,Male,Mixed,Parkinson's Disease,CLIN003,56.3,15.5,26.0,,0,0,0,0,0,1,Mild,Normal
+75484,Male,Right,Parkinson's Disease,CLIN002,57.6,15.5,25.0,,0,0,0,0,0,1,Mild,Mild
+75485,Male,Right,Prodromal,CLIN001,62.9,3.0,27.0,,0,0,0,0,0,1,Mild,Normal
+75505,Male,Mixed,Parkinson's Disease,CLIN007,64.0,9.5,26.0,,0,0,0,0,0,1,Mild,Normal
+75508,Female,Right,Prodromal,CLIN007,58.1,0.0,30.0,,0,0,0,0,0,1,Mild,Normal
+75512,Female,Right,Prodromal,CLIN004,51.1,6.0,27.0,,0,0,0,0,0,1,Mild,Normal
+75520,Male,Right,Prodromal,CLIN005,63.2,5.0,29.0,,0,0,0,0,0,1,Mild,Normal
+75524,Male,Unknown,Parkinson's Disease,CLIN004,54.7,16.0,23.0,,0,1,0,0,0,1,Mild,Mild
+75525,Female,Right,Prodromal,CLIN007,70.5,15.5,29.0,,0,0,0,0,0,1,Mild,Normal
+75547,Male,Right,Prodromal,CLIN005,52.8,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
+75565,Male,Right,Prodromal,CLIN004,65.5,8.0,26.0,,0,0,0,0,0,1,Mild,Normal
+85062,Unknown,Right,Prodromal,CLIN002,66.8,5.0,25.0,,1,0,0,0,0,1,Mild,Mild
+91837,Male,Right,Prodromal,CLIN005,73.9,1.0,27.0,,0,0,0,0,0,1,Mild,Normal
+92834,Male,Right,Prodromal,CLIN007,66.1,0.0,29.0,,0,0,0,0,0,1,Mild,Normal
